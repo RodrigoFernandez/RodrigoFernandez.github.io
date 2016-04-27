@@ -6,39 +6,51 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/categories/blog.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/categories/blog.xml</loc>
+  <lastmod>2016-04-14T23:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/cat_nikola.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/categories/cat_idiomas.xml</loc>
+  <lastmod>2016-04-27T18:07:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/demo.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/categories/cat_nikola.xml</loc>
+  <lastmod>2016-04-14T23:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/nikola.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/categories/demo.xml</loc>
+  <lastmod>2016-04-14T23:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/python.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/categories/japones.xml</loc>
+  <lastmod>2016-04-27T18:07:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/demo/rss.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/categories/nihongoshojo.xml</loc>
+  <lastmod>2016-04-27T18:07:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/categories/nikola.xml</loc>
+  <lastmod>2016-04-14T23:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/categories/python.xml</loc>
+  <lastmod>2016-04-14T23:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2015-08-01T02:16:00Z</lastmod>
+  <loc>http://rodrigofernandez.github.io/galleries/demo/rss.xml</loc>
+  <lastmod>2016-04-14T23:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://rodrigofernandez.github.io/galleries/rss.xml</loc>
+  <lastmod>2016-04-14T23:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://rodrigofernandez.github.io/rss.xml</loc>
+  <lastmod>2016-04-27T18:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://rodrigofernandez.github.io/sitemap.xml</loc>
+  <lastmod>2016-04-27T18:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>

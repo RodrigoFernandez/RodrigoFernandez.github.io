@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Rdr</title><link>http://rodrigofernandez.github.io/</link><description>Mi primer blog</description><atom:link href="http://rodrigofernandez.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Wed, 27 Apr 2016 18:07:05 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Capítulo 2</title><link>http://rodrigofernandez.github.io/posts/capitulo-2.html</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;あたらしい　ことば (atarashii kotoba = nueva palabra)&lt;/strong&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Rdr (NihongoShojo)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link href="http://rodrigofernandez.github.io/categories/nihongoshojo.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Wed, 27 Apr 2016 18:07:05 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Capítulo 2</title><link>http://rodrigofernandez.github.io/posts/capitulo-2.html</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;あたらしい　ことば (atarashii kotoba = nueva palabra)&lt;/strong&gt;&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="29%"&gt;
@@ -959,41 +959,4 @@ venir&lt;/td&gt;
 &lt;td&gt;sufijo que indica idioma&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo_1.html</guid><pubDate>Sun, 03 Apr 2016 02:41:18 GMT</pubDate></item><item><title>Empezando con japonés</title><link>http://rodrigofernandez.github.io/posts/empezando-con-japones.html</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;Bueno empiezo a poner en este blog lo que voy haciendo en el curso de japonés que estoy haciendo.&lt;/p&gt;
-&lt;dl class="docutils"&gt;
-&lt;dt&gt;&lt;strong&gt;Info suelta&lt;/strong&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p class="first"&gt;La u, e y o se estiran en algunas palablas.
-Se usa la う para indicar que la &lt;em&gt;o&lt;/em&gt; o la &lt;em&gt;u&lt;/em&gt; de la sílaba anterior se debe estirar al pronunciar, como en とうきょう --&amp;gt; Tookyoo.
-Se usa la い para indicar que la &lt;em&gt;e&lt;/em&gt; de la sílaba anterior se debe estirar al pronunciar, como en　せんせい --&amp;gt; sensee.&lt;/p&gt;
-&lt;p&gt;Se usa la つ (un poco mas chiquita) para indicar que al pronunciar se repite la consonante de la sílaba posterior, como en とっとりけん --&amp;gt; Tottoriken.&lt;/p&gt;
-&lt;p class="last"&gt;La sílaba じ suena como la j en jean.&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;div class="section" id="estructura-de-las-oraciones"&gt;
-&lt;h2&gt;Estructura de las oraciones&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;table border="1" class="docutils"&gt;
-&lt;colgroup&gt;
-&lt;col width="33%"&gt;
-&lt;col width="22%"&gt;
-&lt;col width="22%"&gt;
-&lt;col width="22%"&gt;
-&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;Castellano&lt;/td&gt;
-&lt;td&gt;Sujeto&lt;/td&gt;
-&lt;td&gt;Verbo&lt;/td&gt;
-&lt;td&gt;Objeto&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Japonés&lt;/td&gt;
-&lt;td&gt;Sujeto&lt;/td&gt;
-&lt;td&gt;Objeto&lt;/td&gt;
-&lt;td&gt;Verbo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>japones</category><guid>http://rodrigofernandez.github.io/posts/empezando-con-japones.html</guid><pubDate>Sun, 03 Apr 2016 02:24:54 GMT</pubDate></item><item><title>Rodrigo Fernandez</title><link>http://rodrigofernandez.github.io/posts/1.html</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;div class="figure"&gt;
-&lt;a class="reference external image-reference" href="http://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="http://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;Aca empiezo mi blog, vamos a ver cuanto dura&lt;/p&gt;&lt;/div&gt;</description><category>blog</category><category>demo</category><category>japones</category><category>nikola</category><category>python</category><guid>http://rodrigofernandez.github.io/posts/1.html</guid><pubDate>Sun, 03 Apr 2016 02:14:00 GMT</pubDate></item></channel></rss>
+&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo_1.html</guid><pubDate>Sun, 03 Apr 2016 02:41:18 GMT</pubDate></item></channel></rss>
