@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Rdr (NihongoShojo)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link href="http://rodrigofernandez.github.io/categories/nihongoshojo.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Fri, 29 Apr 2016 19:54:35 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Capítulo 3</title><link>http://rodrigofernandez.github.io/posts/capitulo-3.html</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;あたらしい　ことば (atarashii kotoba = nueva palabra)&lt;/strong&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Rdr (NihongoShojo)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link href="http://rodrigofernandez.github.io/categories/nihongoshojo.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sun, 01 May 2016 17:05:45 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Capítulo 3</title><link>http://rodrigofernandez.github.io/posts/capitulo-3.html</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;Uso del verbo ある (aru) = haber/estar, es un verbo que pertenece al Grupo 1 de verbos entonces en presente る se convierte en り quedando: あり　ます&lt;/p&gt;
+&lt;p&gt;Quedando las estructuras de la oraciones así:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Oración afirmativa indicando un solo sustantivo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;lt;lugar&amp;gt;&lt;/em&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;が&lt;/strong&gt; あり　ます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;に&lt;/strong&gt;  define que lo anterior indica el lugar donde están los sustantivos de la oración.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;が&lt;/strong&gt;  define el sustantivo que se indica que hay, dentro de la oración.&lt;/p&gt;
+&lt;p&gt;Ejemplo:  ここに　でんわが　あり　ます。  =  Acá hay un teléfono.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Oración negativa indicando un solo sustantivo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;lt;lugar&amp;gt;&lt;/em&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;が&lt;/strong&gt; あり　ません。&lt;/p&gt;
+&lt;p&gt;Ejemplo:  いいえ、がはんは　あり　ません。  =  No, no hay arroz cocido.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Oración afirmativa indicando varios sustantivos (contables, se sabe la cantidad de cada elemento)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;lt;lugar&amp;gt;&lt;/em&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;と&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;と&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;が&lt;/strong&gt; あり　ます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;と&lt;/strong&gt; sirve como conjunción, indica que se están enumerando sustantivos, de los cuales se sabe la cantidad de cada elemento.&lt;/p&gt;
+&lt;p&gt;Ejemplo:  でんわと　テレビと　ベッドが　あり　ます。  =  Hay un telefono, una televisión y una cama.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Oración afirmativa indicando varios sustantivos (incontables, no se sabe la cantidad de cada elemento, ni cuantos elementos hay)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;lt;lugar&amp;gt;&lt;/em&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;や&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;や&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;　&lt;em&gt;など&lt;/em&gt;&lt;strong&gt;が&lt;/strong&gt; あり　ます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;や&lt;/strong&gt; sirve como conjunción, indica que se están enumerando sustantivos, de los cuales no se sabe la cnatidad de cada elemento.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;など&lt;/strong&gt; significa etcétera.&lt;/p&gt;
+&lt;p&gt;Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　などが　あり　ます。  =  Hay verduras, frutas, leche de vaca, huevos, etcétera.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;あたらしい　ことば (atarashii kotoba = nueva palabra)&lt;/strong&gt;&lt;/p&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="20%"&gt;

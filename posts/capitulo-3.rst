@@ -8,8 +8,49 @@
 .. type: text
 
 ====================
-Capítulo 2 - Resumen 
+Capítulo 3 - Resumen 
 ====================
+
+Uso del verbo ある (aru) = haber/estar, es un verbo que pertenece al Grupo 1 de verbos entonces en presente る se convierte en り quedando: あり　ます
+
+Quedando las estructuras de la oraciones así:
+
+
+**Oración afirmativa indicando un solo sustantivo**
+
+*<lugar>*\ **に** *<sustantivo>*\ **が** あり　ます。
+
+**に**  define que lo anterior indica el lugar donde están los sustantivos de la oración.
+
+**が**  define el sustantivo que se indica que hay, dentro de la oración.
+
+Ejemplo:  ここに　でんわが　あり　ます。  =  Acá hay un teléfono.
+
+**Oración negativa indicando un solo sustantivo**
+
+*<lugar>*\ **に** *<sustantivo>*\ **が** あり　ません。
+
+Ejemplo:  いいえ、がはんは　あり　ません。  =  No, no hay arroz cocido.
+
+**Oración afirmativa indicando varios sustantivos (contables, se sabe la cantidad de cada elemento)**
+
+*<lugar>*\ **に** *<sustantivo>*\ **と** *<sustantivo>*\ **と** *<sustantivo>*\ **が** あり　ます。
+
+**と** sirve como conjunción, indica que se están enumerando sustantivos, de los cuales se sabe la cantidad de cada elemento.
+
+Ejemplo:  でんわと　テレビと　ベッドが　あり　ます。  =  Hay un telefono, una televisión y una cama.
+
+
+**Oración afirmativa indicando varios sustantivos (incontables, no se sabe la cantidad de cada elemento, ni cuantos elementos hay)**
+
+*<lugar>*\ **に** *<sustantivo>*\ **や** *<sustantivo>*\ **や** *<sustantivo>*　*など*\ **が** あり　ます。
+
+**や** sirve como conjunción, indica que se están enumerando sustantivos, de los cuales no se sabe la cnatidad de cada elemento.
+
+**など** significa etcétera. 
+
+Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　などが　あり　ます。  =  Hay verduras, frutas, leche de vaca, huevos, etcétera.
+
 
 **あたらしい　ことば (atarashii kotoba = nueva palabra)**
 
