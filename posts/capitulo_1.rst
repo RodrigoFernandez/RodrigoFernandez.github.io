@@ -29,9 +29,9 @@ Capítulo 1 - Resumen
 +------------------+----------------+-----------------------------------------------------------------------+
 | |eigo|           | eigo           | idioma                                                                |
 +------------------+----------------+-----------------------------------------------------------------------+
-| |otoko|          | otoko          | hombre/varon                                                          |
+| |otoko|          | otoko          | hombre/varón                                                          |
 +------------------+----------------+-----------------------------------------------------------------------+
-| |hido|           | hido           | persona                                                               |
+| |hito|           | hito           | persona                                                               |
 +------------------+----------------+-----------------------------------------------------------------------+
 | |kata|           | (kono) kata    | individuo                                                             |
 +------------------+----------------+-----------------------------------------------------------------------+
@@ -131,7 +131,7 @@ Capítulo 1 - Resumen
 .. |onna| replace:: おんな
 .. |eigo| replace:: えいご
 .. |otoko| replace:: おとこ
-.. |hido| replace:: ひと
+.. |hito| replace:: ひと
 .. |kata| replace:: (この)　かた
 .. |nihon| replace:: にほん
 .. |furansu| replace:: フランス
@@ -165,11 +165,11 @@ Capítulo 1 - Resumen
 .. |hajimemashite| replace:: はじめまして
 .. |doozoyoroshiku| replace:: どうぞよろしく
 .. |wa| replace:: は
-.. |wa_explicacion| replace:: Indica el sujeto de la oración, ejemplo: わたし**は** はやし です en este caso el sujeto al que se refiere la oración es: yo
+.. |wa_explicacion| replace:: Indica el sujeto de la oración, ejemplo: わたし\ **は** はやし です en este caso el sujeto al que se refiere la oración es: yo
 .. |no| replace:: の
-.. |no_explicacion| replace:: Posesión, sustantivo de conexión, marcador de tema (cláusula subordinada), nominalización, ejemplo: にほんご**の**せんせい en este caso el no indica que se es profesor de japonés
+.. |no_explicacion| replace:: Posesión, sustantivo de conexión, marcador de tema (cláusula subordinada), nominalización, ejemplo: にほんご\ **の**\ せんせい en este caso el no indica que se es profesor de japonés
 .. |ka| replace:: か
-.. |ka_explicacion| replace:: Se usa para indicar que la sentencia es una pregunta, ejemplo: あなたはがくせいです**か**。en este caso se pregunta: usted es estudiante?
+.. |ka_explicacion| replace:: Se usa para indicar que la sentencia es una pregunta, ejemplo: あなたはがくせいです\ **か**\ 。en este caso se pregunta: usted es estudiante?
 .. |mo| replace:: も
 .. |mo_explicacion| replace:: usada para indicar también o tampoco siempre en relación a algo previo, ejemplo: ラタナーさんも　ちょおごくじんですか。en este caso se pregunta si la señora Ratana también es china.
 .. |desu| replace:: です

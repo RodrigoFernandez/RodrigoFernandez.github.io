@@ -1,3 +1,4 @@
+<!--
 .. title: Capítulo 3
 .. slug: capitulo-3
 .. date: 2016-04-29 13:34:26 UTC-03:00
@@ -6,13 +7,9 @@
 .. link: 
 .. description: Resumen capítulo 3 del libro Nohongo Shojo
 .. type: text
+-->
 
-.. role:: raw-html(raw)
-   :format: html
-
-====================
-Capítulo 3 - Resumen
-==================== 
+# Capítulo 3 - Resumen 
 
 Uso del verbo ある (aru) = haber/estar, es un verbo que pertenece al Grupo 1 de verbos entonces en presente る se convierte en り quedando: あり　ます
 
@@ -58,10 +55,12 @@ Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　�
 
 **あたらしい　ことば (atarashii kotoba = nueva palabra)**
 
-+--------------------+--------------------+-----------------------------------------------------------+
-| |denwa|            | denwa              | teléfono                                                  |
-+--------------------+--------------------+-----------------------------------------------------------+
-| |terebi|           | terebi             | televisión                                                |
+| kanji  | romanji  | significado  |
+| ------ | -------- | ------------ |
+| でんわ   | denwa    | teléfono     |
+| テレビ   | terebi   | televisión   |
+
+
 +--------------------+--------------------+-----------------------------------------------------------+
 | |beddo|            | beddo              | cama                                                      |
 +--------------------+--------------------+-----------------------------------------------------------+
@@ -162,26 +161,6 @@ Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　�
 | |gawa|             | gawa               | río, arroyo, corriente                                    |
 +--------------------+--------------------+-----------------------------------------------------------+
 
-**Trío: こ　そ　あ**
-
-+----------+----------+----------+----------+----------------------------+---------------+
-| Personas            | Cosas               | Lugar                      | Significado   |
-+----------+----------+----------+----------+---------+------------------+---------------+
-| |kono|   | kono     | |kore|   | kore     | |koko|  | koko  (.. lugar) |este/a         |
-+----------+----------+----------+----------+---------+------------------+---------------+
-| |sono|   | sono     | |sore|   | sore     | |soko|  | soko  (.. lugar) | ese/a eso/a   |
-+----------+----------+----------+----------+---------+------------------+---------------+
-| |ano|    | ano      | |are|    | are      | |asoko| | asoko (.. lugar) | aquel/la/lo   |
-+----------+----------+----------+----------+---------+------------------+---------------+
-| |dono|   | dono     | |dore|   | dore     | |doko|  | doko  (.. lugar) | cuál?         |
-+----------+----------+----------+----------+---------+------------------+---------------+
-| |donata| | donata   |                     |                            | quién/es      |
-+----------+----------+----------+----------+----------------------------+---------------+
-| |dare|   | dare     |                     |                            | quién?        |
-+----------+----------+----------+----------+---------+------------------+---------------+
-|                     | |nan|    | nan      | |nani|  | nani  (.. lugar) | qué?          |
-+----------+----------+----------+----------+----------------------------+---------------+
-
 .. |denwa| replace:: でんわ
 .. |terebi| replace:: テレビ
 .. |beddo| replace:: ベッド
@@ -211,6 +190,11 @@ Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　�
 .. |tookyoo| replace:: とうきょう
 .. |oosaka| replace:: おおさか
 .. |kyooto| replace:: きょうと
+.. |koko| replace:: ここ
+.. |soko| replace:: そこ
+.. |asoko| replace:: あそこ
+.. |nani| replace:: なに
+.. |doko| replace:: どこ
 .. |aru| replace:: ある
 .. |arimasu| replace:: あります
 .. |nanimo| replace:: なにも
@@ -222,27 +206,12 @@ Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　�
 .. |nado| replace:: など
 .. |masu| replace:: ます
 .. |atarashii_kanji| replace:: あたらしい　かんじ　(漢字)
-.. |naka| replace:: :raw-html:`<ruby><rb class="kanji">中</rb><rp>(</rp><rt class="furigana">なか</rt><rp>)</rp></ruby>`
-.. |ue| replace:: :raw-html:`<ruby><rb class="kanji">上</rb><rp>(</rp><rt class="furigana">うえ</rt><rp>)</rp></ruby>`
-.. |yama| replace:: :raw-html:`<ruby><rb class="kanji">山</rb><rp>(</rp><rt class="furigana">やま</rt><rp>)</rp></ruby>`
-.. |shita| replace:: :raw-html:`<ruby><rb class="kanji">下</rb><rp>(</rp><rt class="furigana">した</rt><rp>)</rp></ruby>`
-.. |gawa| replace:: :raw-html:`<ruby><rb class="kanji">川</rb><rp>(</rp><rt class="furigana">がわ</rt><rp>)</rp></ruby>`　
+.. |naka| replace:: 中　なか
+.. <ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>
+.. |ue| replace:: 上　うえ
+.. |yama| replace:: 山　やま
+.. |shita| replace:: 下　した
+.. |gawa| replace:: 川　がわ
 
-.. |kore| replace:: これ
-.. |sore| replace:: それ
-.. |are| replace:: あれ
-.. |nan| replace:: なん
-.. |dore| replace:: どれ
-.. |kono| replace:: この
-.. |ano| replace:: あの
-.. |dono| replace:: どの
-.. |donata| replace:: どなた
-.. |dare| replace:: だれ
-.. |sono| replace:: その
 
-.. |koko| replace:: ここ
-.. |soko| replace:: そこ
-.. |asoko| replace:: あそこ
-.. |nani| replace:: なに
-.. |doko| replace:: どこ
 
