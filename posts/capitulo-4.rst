@@ -16,65 +16,69 @@ Capítulo 4 - Resumen
 
 
 +--------------+-------------+-----------------------------------------+
-| |ushiro|     | ushiro      |                                         |
+| |ushiro|     | ushiro      | detrás, atrás, parte trasera            |
 +--------------+-------------+-----------------------------------------+
-| |niwa|       | niwa        |                                         |
+| |niwa|       | niwa        | jardín                                  |
 +--------------+-------------+-----------------------------------------+
-| |ike|        | ike         |                                         |
+| |ike|        | ike         | estanque                                |
 +--------------+-------------+-----------------------------------------+
-| |tori|       | tori        |                                         |
+| |tori|       | tori        | pájaro, ave                             |
 +--------------+-------------+-----------------------------------------+
-| |sakana|     | sakana      |                                         |
+| |sakana|     | sakana      | pez, pescado                            |
 +--------------+-------------+-----------------------------------------+
-| |jimushitsu| | jimushitsu  |                                         |
+| |jimushitsu| | jimushitsu  | despacho (las palabras terminadas en    |
+|              |             | shitsu se refieren a una habitación o   |
+|              |             | sala de..., 4 paredes).                 |
 +--------------+-------------+-----------------------------------------+
-| |mae|        | mae         |                                         |
+| |mae|        | mae         | antes, delante de                       |
 +--------------+-------------+-----------------------------------------+
 | |inu|        | inu         | perro                                   |
 +--------------+-------------+-----------------------------------------+
 | |neko|       | neko        | gato                                    |
 +--------------+-------------+-----------------------------------------+
-| |kingyo|     | kingyo      |                                         |
+| |kingyo|     | kingyo      | carpa dorada                            |
 +--------------+-------------+-----------------------------------------+
-| |niwatori|   | niwatori    |                                         |
+| |niwatori|   | niwatori    | gallina, pollo                          |
 +--------------+-------------+-----------------------------------------+
-| |tatemono|   | tatemono    |                                         |
+| |tatemono|   | tatemono    | edificio                                |
 +--------------+-------------+-----------------------------------------+
-| |toshokan|   | toshokan    |                                         |
+| |toshokan|   | toshokan    | biblioteca                              |
 +--------------+-------------+-----------------------------------------+
-| |toire|      | toire       |                                         |
+| |toire|      | toire       | sanitario, baño, váter (toilete)        |
 +--------------+-------------+-----------------------------------------+
-| |hikashi|    | hikashi     |                                         |
+| |higashi|    | higashi     | este, oriente                           |
 +--------------+-------------+-----------------------------------------+
-| |nishi|      | nishi       |                                         |
+| |nishi|      | nishi       | oeste, occidente, poniente              |
 +--------------+-------------+-----------------------------------------+
-| |minami|     | minami      |                                         |
+| |minami|     | minami      | sur, procedente del sur                 |
 +--------------+-------------+-----------------------------------------+
-| |kita|       | kita        |                                         |
+| |kita|       | kita        | norte                                   |
 +--------------+-------------+-----------------------------------------+
-| |mon|        | mon         |                                         |
+| |mon|        | mon         | puerta, verja, portal                   |
 +--------------+-------------+-----------------------------------------+
-| |dochira|    | dochira     |                                         |
+| |dochira|    | dochira     | cuál?, quién? (Se responde por a o b)   |
 +--------------+-------------+-----------------------------------------+
-| |kochira|    | kochira     |                                         |
+| |kochira|    | kochira     | aquí, acá                               |
 +--------------+-------------+-----------------------------------------+
-| |sochira|    | sochira     |                                         |
+| |sochira|    | sochira     | allí, usted, ustedes                    |
 +--------------+-------------+-----------------------------------------+
-| |achira|     | achira      |                                         |
+| |achira|     | achira      | allí, allá                              |
 +--------------+-------------+-----------------------------------------+
-| |iru_imasu|  | iru (imasu) |                                         |
+| |iru_imasu|  | iru (imasu) | estar (para objetos animados)           |
 +--------------+-------------+-----------------------------------------+
-| |donataka|   | donataka    |                                         |
+| |donataka|   | donataka    | alguien                                 |
 +--------------+-------------+-----------------------------------------+
-| |donatamo|   | donatamo    |                                         |
+| |donatamo|   | donatamo    | nadie                                   |
 +--------------+-------------+-----------------------------------------+
-| |dokokani|   | dokokani    |                                         |
+| |dokokani|   | dokokani    | usado con el verbo iru, se usa para     |
+|              |             | preguntar: está en algún lugar?         |
 +--------------+-------------+-----------------------------------------+
-| |dononimo|   | dononimo    |                                         |
+| |dokonimo|   | dokonimo    | usado con el verbo iru, se usa para     |
+|              |             | indicar: no está en ningún lugar        |
 +--------------+-------------+-----------------------------------------+
-| |de|         | de          |                                         |
+| |de|         | de          | contracción de |desu|                   |
 +--------------+-------------+-----------------------------------------+
-| |sensee|     | ~sensee     |                                         |
+| |sensee|     | ~sensee     | maestro, profesor                       |
 +--------------+-------------+-----------------------------------------+
 | |atarashii_kanji| (atarashii kanji = nuevos caracteres chinos)       |
 +--------------+-------------+-----------------------------------------+
@@ -104,7 +108,7 @@ Capítulo 4 - Resumen
 .. |tatemono| replace:: たてもの
 .. |toshokan| replace:: としょかん
 .. |toire| replace:: トイレ
-.. |hikashi| replace:: ひがし
+.. |higashi| replace:: ひがし
 .. |nishi| replace:: にし
 .. |minami| replace:: みなみ
 .. |kita| replace:: きた
@@ -117,8 +121,9 @@ Capítulo 4 - Resumen
 .. |donataka| replace:: どなたか
 .. |donatamo| replace:: どなたも
 .. |dokokani| replace:: どこかに
-.. |dononimo| replace:: どこにも
+.. |dokonimo| replace:: どこにも
 .. |de| replace:: で
+.. |desu| replace:: です
 .. |sensee| replace:: ～せんせい
 .. |atarashii_kanji| replace:: あたらしい　かんじ　(漢字)
 .. |hito| replace:: :raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">ひと</rt><rp></rp></ruby>`
