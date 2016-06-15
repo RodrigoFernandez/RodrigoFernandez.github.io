@@ -70,6 +70,8 @@ Capítulo 4 - Resumen
 +--------------+-------------+-----------------------------------------+
 | |donatamo|   | donatamo    | nadie                                   |
 +--------------+-------------+-----------------------------------------+
+| |doremo|     | doremo      | nadie                                   |
++--------------+-------------+-----------------------------------------+
 | |dokokani|   | dokokani    | usado con el verbo iru, se usa para     |
 |              |             | preguntar: está en algún lugar?         |
 +--------------+-------------+-----------------------------------------+
@@ -77,6 +79,15 @@ Capítulo 4 - Resumen
 |              |             | indicar: no está en ningún lugar        |
 +--------------+-------------+-----------------------------------------+
 | |de|         | de          | contracción de |desu|                   |
++--------------+-------------+-----------------------------------------+
+| |ga|         | ga          | la partícula |ga| se usa  con el verbo  |
+|              |             | desu como la partícula |ni| se usa con  |
+|              |             | el verbo ari y aru para indicar el      |
+|              |             | advervio de lugar como en las           |
+|              |             | oraciones:                              |
+|              |             | |oracion_ga_1|                          |
+|              |             | que es equivalente a:                   |
+|              |             | |oracion_ga_2|                          |
 +--------------+-------------+-----------------------------------------+
 | |sensee|     | ~sensee     | maestro, profesor                       |
 +--------------+-------------+-----------------------------------------+
@@ -93,6 +104,29 @@ Capítulo 4 - Resumen
 +--------------+-------------+-----------------------------------------+
 | |ki|         | ki          | árbol                                   |
 +--------------+-------------+-----------------------------------------+
+
+**Trío: こ　そ　あ**
+
++----------+----------+----------+----------+----------------------------+---------------------+-------------------------+
+| Personas            | Cosas               | Lugar                      | Lugar indicando con | Significado             |
+|                     |                     |                            | un gesto            |                         |
++----------+----------+----------+----------+---------+------------------+-----------+---------+-------------+-----------+
+| |kono|   | kono     | |kore|   | kore     | |koko|  | koko  (.. lugar) | |kochira| | kochira | este/a      | aquí, acá |
++----------+----------+----------+----------+---------+------------------+-----------+---------+-------------+-----------+
+| |sono|   | sono     | |sore|   | sore     | |soko|  | soko  (.. lugar) | |sochira| | sochira | ese/a eso/a | allí      |
++----------+----------+----------+----------+---------+------------------+-----------+---------+-------------+-----------+
+| |ano|    | ano      | |are|    | are      | |asoko| | asoko (.. lugar) | |achira|  | achira  | aquel/la/lo | allá      |
++----------+----------+----------+----------+---------+------------------+-----------+---------+-------------+-----------+
+| |dono|   | dono     | |dore|   | dore     | |doko|  | doko  (.. lugar) | |dochira| | dochira | cuál?                   | 
++----------+----------+----------+----------+---------+------------------+-----------+---------+-------------------------+
+| |donata| | donata   |                     |                            | quién/es                                      |
++----------+----------+----------+----------+----------------------------+-----------------------------------------------+
+| |dare|   | dare     |                     |                            | quién?                                        |
++----------+----------+----------+----------+---------+------------------+-----------------------------------------------+
+|                     | |nan|    | nan      | |nani|  | nani  (.. lugar) | qué?                                          |
++----------+----------+----------+----------+----------------------------+-----------------------------------------------+
+
+
 
 .. |ushiro| replace:: うしろ
 .. |niwa| replace:: にわ
@@ -113,21 +147,44 @@ Capítulo 4 - Resumen
 .. |minami| replace:: みなみ
 .. |kita| replace:: きた
 .. |mon| replace:: もん
-.. |dochira| replace:: どちら
-.. |kochira| replace:: こちら
-.. |sochira| replace:: そちら
-.. |achira| replace:: あちら
 .. |iru_imasu| replace:: いる　(います)
 .. |donataka| replace:: どなたか
 .. |donatamo| replace:: どなたも
+.. |doremo| replace:: どれも
 .. |dokokani| replace:: どこかに
 .. |dokonimo| replace:: どこにも
 .. |de| replace:: で
 .. |desu| replace:: です
+.. |ga| replace:: が
+.. |ni| replace:: に
+.. |oracion_ga_1| replace:: ここが　だいどころ　です。
+.. |oracion_ga_2| replace:: ここに　だいどころ　あります。
+
 .. |sensee| replace:: ～せんせい
 .. |atarashii_kanji| replace:: あたらしい　かんじ　(漢字)
 .. |hito| replace:: :raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">ひと</rt><rp></rp></ruby>`
-.. |jin| replace:: :raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">ひと</rt><rp>）</rp></ruby>`
+.. |jin| replace:: :raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">じん</rt><rp>）</rp></ruby>`
 .. |otoko| replace:: :raw-html:`<ruby><rb class="kanji">男</rb><rp>（</rp><rt class="furigana">おとこ</rt><rp>）</rp></ruby>`
 .. |onna| replace:: :raw-html:`<ruby><rb class="kanji">女</rb><rp>（</rp><rt class="furigana">おんな</rt><rp>）</rp></ruby>`
 .. |ki| replace:: :raw-html:`<ruby><rb class="kanji">木</rb><rp>（</rp><rt class="furigana">き</rt><rp>）</rp></ruby>`
+
+.. |kore| replace:: これ
+.. |sore| replace:: それ
+.. |are| replace:: あれ
+.. |nan| replace:: なん
+.. |dore| replace:: どれ
+.. |kono| replace:: この
+.. |ano| replace:: あの
+.. |dono| replace:: どの
+.. |donata| replace:: どなた
+.. |dare| replace:: だれ
+.. |sono| replace:: その
+.. |koko| replace:: ここ
+.. |soko| replace:: そこ
+.. |asoko| replace:: あそこ
+.. |nani| replace:: なに
+.. |doko| replace:: どこ
+.. |kochira| replace:: こちら
+.. |sochira| replace:: そちら
+.. |achira| replace:: あちら
+.. |dochira| replace:: どちら
