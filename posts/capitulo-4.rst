@@ -14,6 +14,13 @@
 Capítulo 4 - Resumen
 ====================
 
+En este capítulo se ve la diferencia del uso de los verbos いる　(iru) y
+ある　(aru).
+
+**いる　(iru)** es el verbo haber/estar que se usa para las cosas moviles
+(personas, animales, etc., se mueven por sí misma, un auto no es algo móvil,
+necesita que alguien lo encienda). El negativo de いる es いません
+**ある　(aru)** es el verbo haber/estar que se usa para las cosas inmóviles.
 
 +--------------+-------------+-----------------------------------------+
 | |ushiro|     | ushiro      | detrás, atrás, parte trasera            |
@@ -68,7 +75,11 @@ Capítulo 4 - Resumen
 +--------------+-------------+-----------------------------------------+
 | |donataka|   | donataka    | alguien                                 |
 +--------------+-------------+-----------------------------------------+
-| |donatamo|   | donatamo    | nadie                                   |
+| |donatamo|   | donatamo    | nadie ejempo:                           |
+|              |             | A: あそこに　どなたが　いますか。       |
+|              |             | (Allí hay alguien?)                     |
+|              |             | B: いええ、どなたも　いません。         |
+|              |             | (No, no hay nadie)                      |
 +--------------+-------------+-----------------------------------------+
 | |doremo|     | doremo      | nadie                                   |
 +--------------+-------------+-----------------------------------------+
@@ -86,7 +97,7 @@ Capítulo 4 - Resumen
 |              |             | advervio de lugar como en las           |
 |              |             | oraciones:                              |
 |              |             | |oracion_ga_1|                          |
-|              |             | que es equivalente a:                   |
+|              |             | Que es equivalente a:                   |
 |              |             | |oracion_ga_2|                          |
 +--------------+-------------+-----------------------------------------+
 | |sensee|     | ~sensee     | maestro, profesor                       |
@@ -104,6 +115,7 @@ Capítulo 4 - Resumen
 +--------------+-------------+-----------------------------------------+
 | |ki|         | ki          | árbol                                   |
 +--------------+-------------+-----------------------------------------+
+
 
 **Trío: こ　そ　あ**
 

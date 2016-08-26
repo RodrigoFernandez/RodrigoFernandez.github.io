@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2993"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Nuevo documento 1">
+  <defs
+     id="defs2995">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4222"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4219"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <radialGradient
+       r="295.71429"
+       fy="320.60046"
+       fx="346.45819"
+       cy="320.60046"
+       cx="346.45819"
+       gradientTransform="matrix(0.25989462,1.1032563,-1.1362109,0.26765682,626.40758,-105.45533)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3949"
+       xlink:href="#linearGradient3759"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="1073.2126"
+       x2="1109.4709"
+       y1="175.72487"
+       x1="1119.1514"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3947"
+       xlink:href="#linearGradient3828"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="1073.2126"
+       x2="1109.4709"
+       y1="175.72487"
+       x1="1119.1514"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3935"
+       xlink:href="#linearGradient3828"
+       inkscape:collect="always" />
+    <radialGradient
+       r="295.71429"
+       fy="320.60046"
+       fx="346.45819"
+       cy="320.60046"
+       cx="346.45819"
+       gradientTransform="matrix(0.25989462,1.1032563,-1.1362109,0.26765682,626.40758,-105.45533)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3852"
+       xlink:href="#linearGradient3759"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="1111.2246"
+       x2="1044.4408"
+       y1="175.72487"
+       x1="1119.1514"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3850"
+       xlink:href="#linearGradient3828"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="1111.2246"
+       x2="1044.4408"
+       y1="175.72487"
+       x1="1119.1514"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3826"
+       xlink:href="#linearGradient3828"
+       inkscape:collect="always" />
+    <radialGradient
+       r="295.71429"
+       fy="320.60046"
+       fx="346.45819"
+       cy="320.60046"
+       cx="346.45819"
+       gradientTransform="matrix(0.25989462,1.1032563,-1.1362109,0.26765682,626.40758,-105.45533)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3816"
+       xlink:href="#linearGradient3759"
+       inkscape:collect="always" />
+    <radialGradient
+       r="295.71429"
+       fy="328.20911"
+       fx="335.12097"
+       cy="328.20911"
+       cx="335.12097"
+       gradientTransform="matrix(0.55645255,0.77917049,-0.74436749,0.53159705,398.03749,-77.792519)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3806"
+       xlink:href="#linearGradient3759"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1043.8839"
+       x2="1162.078"
+       y1="136.89635"
+       x1="1105.974"
+       id="linearGradient3802"
+       xlink:href="#linearGradient3796"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientTransform="matrix(0.55645255,0.77917049,-0.74436749,0.53159705,398.03749,-77.792519)"
+       gradientUnits="userSpaceOnUse"
+       r="295.71429"
+       fy="328.20911"
+       fx="335.12097"
+       cy="328.20911"
+       cx="335.12097"
+       id="radialGradient3765"
+       xlink:href="#linearGradient3759"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3759"
+       inkscape:collect="always">
+      <stop
+         id="stop3761"
+         offset="0"
+         style="stop-color:#00ffff;stop-opacity:1;" />
+      <stop
+         id="stop3763"
+         offset="1"
+         style="stop-color:#0000ff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3796"
+       inkscape:collect="always">
+      <stop
+         id="stop3798"
+         offset="0"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+      <stop
+         id="stop3800"
+         offset="1"
+         style="stop-color:#1a1a1a;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3828">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop3830" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:0;"
+         offset="1"
+         id="stop3832" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3828"
+       id="linearGradient5217"
+       gradientUnits="userSpaceOnUse"
+       x1="1119.1514"
+       y1="175.72487"
+       x2="1109.4709"
+       y2="1073.2126" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3759"
+       id="radialGradient5219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.25989462,1.1032563,-1.1362109,0.26765682,626.40758,-105.45533)"
+       cx="346.45819"
+       cy="320.60046"
+       fx="346.45819"
+       fy="320.60046"
+       r="295.71429" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3828"
+       id="linearGradient5223"
+       gradientUnits="userSpaceOnUse"
+       x1="1119.1514"
+       y1="175.72487"
+       x2="1109.4709"
+       y2="1073.2126" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3759"
+       id="radialGradient5225"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.25989462,1.1032563,-1.1362109,0.26765682,626.40758,-105.45533)"
+       cx="346.45819"
+       cy="320.60046"
+       fx="346.45819"
+       fy="320.60046"
+       r="295.71429" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9"
+     inkscape:cx="410.33416"
+     inkscape:cy="300"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(0.88521579,0,0,0.88521579,225.45684,125.71763)"
+       style="fill:none;stroke:#000000;stroke-width:3"
+       id="g4">
+      <rect
+         width="240"
+         height="240"
+         x="20"
+         y="90"
+         id="rect6" />
+      <rect
+         width="240"
+         height="240"
+         x="140"
+         y="30"
+         id="rect8" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 20,90 140,30 M 260,90 380,30 M 20,330 140,270 m 120,60 120,-60"
+         id="path10" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="flechas">
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 629.2037,109.78086 -93.40432,88.49382"
+       id="path4203"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 278.66666,277.33333 172,260.11111"
+       id="path4207"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 397.33333,402.33333 13.33334,63.33333"
+       id="path4211"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4213"
+       d="M 729.21937,351.32725 C 750.19404,498.10399 423.04567,649.94726 262.31469,542.18061"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-mid:none;marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect6-1"
+       y="340.62781"
+       x="293.0705"
+       height="25.74523"
+       width="25.74523" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4209"
+       d="m 304.44753,354.53395 -91.55864,78.24382"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <rect
+       width="25.74523"
+       height="25.74523"
+       x="527.0705"
+       y="186.62781"
+       id="rect5059"
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 517.26947,252.73835 17.95178,-8.80391 0,36.12758 -17.95178,8.87491 z"
+       id="path5070"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4205"
+       d="m 648.50608,200.81713 -123.38616,66.5162"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5072"
+       d="m 271.26947,264.73835 17.95178,-8.80391 0,36.12758 -17.95178,8.87491 z"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 388.567,398.61985 35.33889,-0.1057 -17.54512,8.70413 -35.23319,0 z"
+       id="rect5076"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5079"
+       d="m 394.567,170.61985 35.33889,-0.1057 -17.54512,8.70413 -35.23319,0 z"
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4201"
+       d="m 403,103 0,71.66666"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       transform="matrix(0.09671014,0,0,0.09671014,359.60788,243.04865)"
+       d="m 725.71429,533.79077 a 295.71429,295.71429 0 1 1 -591.42858,0 295.71429,295.71429 0 1 1 591.42858,0 z"
+       sodipodi:ry="295.71429"
+       sodipodi:rx="295.71429"
+       sodipodi:cy="533.79077"
+       sodipodi:cx="430"
+       id="path3804"
+       style="fill:url(#radialGradient5225);fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 166.66667,90 382.97789,281.22163"
+       id="path4199"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="palabras">
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="138.88889"
+       y="54.444447"
+       id="text3030"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3367"
+         x="138.88889"
+         y="54.444447">中</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3369"
+         x="138.88889"
+         y="88.284073">なか</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="502.69574"
+       y="34.892254"
+       id="text3030-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3375"
+         x="502.69574"
+         y="34.892254">superficie</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3377"
+         x="502.69574"
+         y="59.892254">arriba/parte</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3379"
+         x="502.69574"
+         y="84.89225">superior</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="717.25128"
+       y="35.336697"
+       id="text3030-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3383"
+         x="717.25128"
+         y="35.336697">atrás/detrás</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3385"
+         x="717.25128"
+         y="60.336697">parte trasera</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3130"
+       y="250.22559"
+       x="674.69574"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3407"
+         x="674.69574"
+         y="250.22559">みぎ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="414.25131"
+       y="492.00336"
+       id="text3140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3419"
+         x="414.25131"
+         y="492.00336">下</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3421"
+         x="414.25131"
+         y="525.84296">した</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3150"
+       y="454.3367"
+       x="183.3624"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3415"
+         x="183.3624"
+         y="454.3367">まえ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="138.47353"
+       y="267.11447"
+       id="text3160"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3389"
+         x="138.47353"
+         y="267.11447">よこ</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3170"
+       y="304.67001"
+       x="56.251301"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3401"
+         x="56.251301"
+         y="304.67001">izquierda</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="660.87524"
+       y="542.63586"
+       id="text3140-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3423"
+         x="660.87524"
+         y="542.63586">そば</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3277"
+       y="121.11111"
+       x="119.44445"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         x="119.44445"
+         y="121.11111">adentro</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         x="119.44445"
+         y="146.11111">dentro</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3287"
+       y="59.89225"
+       x="403.80688"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3371"
+         x="403.80688"
+         y="59.89225">上</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3373"
+         x="403.80688"
+         y="93.731873">うえ</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3299"
+       y="98.670021"
+       x="657.25128"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3381"
+         x="657.25128"
+         y="98.670021">うしろ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="746.47351"
+       y="247.11447"
+       id="text3315"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3403"
+         x="746.47351"
+         y="247.11447">derecha</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3405"
+         x="746.47351"
+         y="272.11447"></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3323"
+       y="525.22559"
+       x="479.25131"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3417"
+         x="479.25131"
+         y="525.22559">debajo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="144.47351"
+       y="483.89221"
+       id="text3331"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3409"
+         x="144.47351"
+         y="483.89221">antes</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3411"
+         x="144.47351"
+         y="508.89221">anterior</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3413"
+         x="144.47351"
+         y="533.89221">adelante</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3341"
+       y="264.89224"
+       x="52.917969"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3387"
+         x="52.917969"
+         y="264.89224">lateral</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="140.69574"
+       y="305.55893"
+       id="text3347"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3399"
+         x="140.69574"
+         y="305.55893">ひだり</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3353"
+       y="524.85809"
+       x="735.3197"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3425"
+         x="735.3197"
+         y="524.85809">cerca</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3427"
+         x="735.3197"
+         y="549.85815">cercano</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3429"
+         x="735.3197"
+         y="574.85815">al lado</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3391"
+       y="207.78113"
+       x="677.36243"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3393"
+         sodipodi:role="line"
+         x="677.36243"
+         y="207.78113">よこ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="740.1402"
+       y="206.4478"
+       id="text3395"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3397"
+         sodipodi:role="line"
+         x="740.1402"
+         y="206.4478">lateral</tspan></text>
+  </g>
+</svg>
