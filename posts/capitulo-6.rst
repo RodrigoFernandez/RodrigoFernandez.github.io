@@ -194,13 +194,13 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 
 .. |bara| replace:: ばら
 .. |mise| replace:: みせ
-.. |hanaya| replace:: :raw-html:`<ruby><rb class="kanji">花</rb><rp>（</rp><rt class="furigana">はな　や</rt><rp>）</rp></ruby>`
+.. |hanaya| replace:: :raw-html:`<ruby><rb class="kanji">花</rb><rp>（</rp><rt class="furigana">はな</rt><rp>）</rp></ruby>や`
 .. |yoohinten| replace:: ようひんてん
 .. |shitagi| replace:: したぎ
 .. |ke| replace:: け
 .. |nairon| replace:: ナイロン
 .. |boorupen| replace:: ボ－ルペン
-.. |honya| replace:: :raw-html:`<ruby><rb class="kanji">本</rb><rp>（</rp><rt class="furigana">ほん　や</rt><rp>）</rp></ruby>`
+.. |honya| replace:: :raw-html:`<ruby><rb class="kanji">本</rb><rp>（</rp><rt class="furigana">ほん</rt><rp>）</rp></ruby>や`
 .. |tabakoya| replace:: たばこや
 .. |kutsuya| replace:: くつや
 .. |yaoya| replace:: やおや
@@ -235,13 +235,13 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 .. |pai| replace:: ～ぱい
 .. |o| replace:: お～
 .. |hana| replace:: :raw-html:`<ruby><rb class="kanji">花</rb><rp>（</rp><rt class="furigana">はな</rt><rp>）</rp></ruby>`
-.. |ookii| replace:: :raw-html:`<ruby><rb class="kanji">大</rb><rp>（</rp><rt class="furigana">おお　きい</rt><rp>）</rp></ruby>`
-.. |chiisai| replace:: :raw-html:`<ruby><rb class="kanji">小</rb><rp>（</rp><rt class="furigana">ちい　さい</rt><rp>）</rp></ruby>`
+.. |ookii| replace:: :raw-html:`<ruby><rb class="kanji">大</rb><rp>（</rp><rt class="furigana">おお</rt><rp>）</rp></ruby>きい`
+.. |chiisai| replace:: :raw-html:`<ruby><rb class="kanji">小</rb><rp>（</rp><rt class="furigana">ちい</rt><rp>）</rp></ruby>さい`
 .. |hyaku| replace:: :raw-html:`<ruby><rb class="kanji">百</rb><rp>（</rp><rt class="furigana">ひゃく</rt><rp>）</rp></ruby>`
 .. |en| replace:: :raw-html:`<ruby><rb class="kanji">円</rb><rp>（</rp><rt class="furigana">えん</rt><rp>）</rp></ruby>`
 .. |sen| replace:: :raw-html:`<ruby><rb class="kanji">千</rb><rp>（</rp><rt class="furigana">せん</rt><rp>）</rp></ruby>`
 .. |okane| replace:: :raw-html:`<ruby><rb class="kanji">お　金</rb><rp>（</rp><rt class="furigana">かね</rt><rp>）</rp></ruby>`
-.. |ichi_man| replace:: :raw-html:`<ruby><rb class="kanji">(ー)</rb><rp>（</rp><rt class="furigana">いち　万</rt><rp>）</rp></ruby>`
+.. |ichi_man| replace:: :raw-html:`<ruby><rb class="kanji">(ー)</rb><rp>（</rp><rt class="furigana">いち</rt><rp>）</rp></ruby>万`
 .. |mizu| replace:: :raw-html:`<ruby><rb class="kanji">水</rb><rp>（</rp><rt class="furigana">みず</rt><rp>）</rp></ruby>`
 .. |ippai| replace:: いっぱい
 .. |nihai| replace:: にはい
