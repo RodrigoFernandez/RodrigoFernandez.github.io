@@ -18,17 +18,17 @@ Capítulo 5 - Resumen
 Adjetivos
 ---------
 
-En japonés hay dos tipos de adjetivos_
-* Terminados con sílaba terminada en i (la mayoría).
-**Adjetivo + Sustantivo**. Ejemplo: あかい　りんご (manzana roja).
-* No terminados con sílaba terminada en i o adjetivos na (な).
-**Adjetivo + na + sustantivo**. Ejemplo: じょうぶ　な　くつ (zapatos buenos).
-きれい es un adjetivo que termina en i pero la i solo estira la e de la
-sílaba re entonces es un adjetivo na.
+En japonés hay dos tipos de adjetivos:
+
+* Terminados con sílaba terminada en i (la mayoría). **Adjetivo + Sustantivo**. Ejemplo: あかい　りんご (manzana roja).
+
+* No terminados con sílaba terminada en i o adjetivos na (な). **Adjetivo +** :raw-html:`<span class="particula">na</span>` **+ sustantivo**. Ejemplo: じょうぶ　:raw-html:`<span class="particula">な</span>`　くつ (zapatos buenos).
+
+**きれい** es un adjetivo que termina en i pero la i solo estira la e de la sílaba *re* entonces es un **adjetivo na**.
 
 En este capítulo la estructura de las oraciones tiene esta forma:
 
-lugar **に** *adjetivo* + *sustantivo* **が** *cantidad* あります。
+	lugar :raw-html:`<span class="particula">に</span>` *adjetivo* + *sustantivo* :raw-html:`<span class="particula">が</span>` *cantidad* **あります**。
 
 Donde *cantidad* está formada por un *valor X* + *sufijo contador*
 
@@ -81,13 +81,13 @@ Números
 +--------------+------------+--------------------------------------------------+
 | |futari|     | futari     | dos                                              |
 +--------------+------------+--------------------------------------------------+
-| |minna|      | minna      |                                                  |
+| |minna|      | minna      | todos                                            |
 +--------------+------------+--------------------------------------------------+
-| |shoogakkoo| | shoogakkoo |                                                  |
+| |shoogakkoo| | shoogakkoo | escuela primaria                                 |
 +--------------+------------+--------------------------------------------------+
-| |seeto|      | seeto      |                                                  |
+| |seeto|      | seeto      | alumnos de nivel inicial                         |
 +--------------+------------+--------------------------------------------------+
-| |chawan|     | chawan     | tasa                                             |
+| |chawan|     | chawan     | taza                                             |
 +--------------+------------+--------------------------------------------------+
 | |hagaki|     | hagaki     | tarjeta                                          |
 +--------------+------------+--------------------------------------------------+
@@ -97,11 +97,11 @@ Números
 +--------------+------------+--------------------------------------------------+
 | |sara|       | sara       | plato                                            |
 +--------------+------------+--------------------------------------------------+
-| |hangachi|   | hangachi   |                                                  |
+| |hangachi|   | hangachi   | tarjeta de presentación                          |
 +--------------+------------+--------------------------------------------------+
 | |jitensha|   | jitensha   | bicicleta                                        |
 +--------------+------------+--------------------------------------------------+
-| |taipura|    | taipura    |                                                  |
+| |taipura|    | taipura    | máquina de escribir                              |
 +--------------+------------+--------------------------------------------------+
 | |itaa|       | itaa       |                                                  |
 +--------------+------------+--------------------------------------------------+
@@ -119,7 +119,7 @@ Números
 +--------------+------------+--------------------------------------------------+
 | |suzume|     | suzume     | gorrión                                          |
 +--------------+------------+--------------------------------------------------+
-| |hato|       | hato       |                                                  |
+| |hato|       | hato       | paloma                                           |
 +--------------+------------+--------------------------------------------------+
 | |ikutsu|     | ikutsu     | cuántos?                                         |
 +--------------+------------+--------------------------------------------------+
@@ -139,14 +139,14 @@ Números
 +--------------+------------+--------------------------------------------------+
 | |sukoshi|    | sukoshi    | un poco (advervio), no pocos (adjetivo)          |
 +--------------+------------+--------------------------------------------------+
-| |soo|        | soo        |                                                  |
+| |soo|        | soo        | así                                              |
 +--------------+------------+--------------------------------------------------+
 | |shika|      | shika      | Tan solo (relativo a un valor) y siempre le      |
 |              |            | sigue el verbo en negativo al final, ejemplo     |
 +--------------+------------+--------------------------------------------------+
 | |~nin|       | ~nin       | sufijo contando para cosas de forma irregular    |
 +--------------+------------+--------------------------------------------------+
-| |~tasa|      | ~tasa      |                                                  |
+| |~tachi|      | ~tachi    | pluraliza el sustantivo que lo precede           |
 +--------------+------------+--------------------------------------------------+
 | |~mai|       | ~mai       | sufijo contando para cosas delgadas y planas     |
 +--------------+------------+--------------------------------------------------+
@@ -171,22 +171,22 @@ Números
 +--------------+------------+--------------------------------------------------+
 | |ko|         | ko         | niño (sustantivo)                                |
 +--------------+------------+--------------------------------------------------+
-| |kotomo|     | kotomo     |                                                  |
+| |kodomo|     | kodomo     | niños                                            |
 +--------------+------------+--------------------------------------------------+
 | |nannin|     | nannin     | cuántas personas?                                |
 +--------------+------------+--------------------------------------------------+
-| |yon_|       | yon        |                                                  |
+| |yon_|       | yonin      | 4 personas                                       |
 +--------------+------------+--------------------------------------------------+
 | |kyuu_nin|   | kyuu nin   | 9 personas, se usa el sufijo contador de persona |
 +--------------+------------+--------------------------------------------------+
 | |hon|        | hon        | libro (sustantivo), sufijo contador para         |
 |              |            | lápices, plumas, etc.                            |
 +--------------+------------+--------------------------------------------------+
-| |itsu|       | itsu       |                                                  |
+| |ippon|      | ippon      | 1 elemento cilíndrico                            |
 +--------------+------------+--------------------------------------------------+
-| |yon_dai|    | yon dai    |                                                  |
+| |yon_dai|    | yon dai    | 4 máquinas                                       |
 +--------------+------------+--------------------------------------------------+
-| |juusatsu|   | juusatsu   |                                                  |
+| |juusatsu|   | juusatsu   | 10 libros o cuadernos                            |
 +--------------+------------+--------------------------------------------------+
 
 ------------------
@@ -265,7 +265,7 @@ Sufijos contadores
 .. |soo| replace:: そう
 .. |shika| replace:: しか
 .. |~nin| replace:: ~人
-.. |~tasa| replace:: ～たち
+.. |~tachi| replace:: ～たち
 .. |~mai| replace:: ～まい
 .. |~dai| replace:: ～だい
 .. |~satsu| replace:: ～さつ
@@ -302,11 +302,11 @@ Sufijos contadores
 .. |kokonotsu| replace:: :raw-html:`<ruby><rb class="kanji">九</rb><rp>（</rp><rt class="furigana">ここの</rt><rp>）</rp></ruby>つ`
 .. |too| replace:: :raw-html:`<ruby><rb class="kanji">十</rb><rp>（</rp><rt class="furigana">とお</rt><rp>）</rp></ruby>`
 .. |ko| replace:: :raw-html:`<ruby><rb class="kanji">子</rb><rp>（</rp><rt class="furigana">こ</rt><rp>）</rp></ruby>`
-.. |kotomo| replace:: :raw-html:`<ruby><rb class="kanji">子</rb><rp>（</rp><rt class="furigana">こ</rt><rp>）</rp></ruby>ども`
+.. |kodomo| replace:: :raw-html:`<ruby><rb class="kanji">子</rb><rp>（</rp><rt class="furigana">こ</rt><rp>）</rp></ruby>ども`
 .. |nannin| replace:: なん :raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">にん</rt><rp>）</rp></ruby>`
 .. |yon_| replace:: :raw-html:`<ruby><rb class="kanji">四</rb><rp>（</rp><rt class="furigana">よん</rt><rp>）</rp></ruby>`:raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">にん</rt><rp>）</rp></ruby>`
 .. |kyuu_nin| replace:: :raw-html:`<ruby><rb class="kanji">九</rb><rp>（</rp><rt class="furigana">きゅう</rt><rp>）</rp></ruby>`:raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">にん</rt><rp>）</rp></ruby>`
 .. |hon| replace:: :raw-html:`<ruby><rb class="kanji">本</rb><rp>（</rp><rt class="furigana">ほん</rt><rp>）</rp></ruby>`
-.. |itsu| replace:: いつ :raw-html:`<ruby><rb class="kanji">本</rb><rp>（</rp><rt class="furigana">ほん</rt><rp>）</rp></ruby>`
+.. |ippon| replace:: ー　:raw-html:`<ruby><rb class="kanji">本</rb><rp>（</rp><rt class="furigana">いっぽん</rt><rp>）</rp></ruby>`
 .. |yon_dai| replace:: :raw-html:`<ruby><rb class="kanji">四</rb><rp>（</rp><rt class="furigana">よん</rt><rp>）</rp></ruby>だい`
 .. |juusatsu| replace:: :raw-html:`<ruby><rb class="kanji">十</rb><rp>（</rp><rt class="furigana">じつ</rt><rp>）</rp></ruby>さつ`
