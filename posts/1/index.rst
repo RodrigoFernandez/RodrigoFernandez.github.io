@@ -1,0 +1,15 @@
+.. title: Rodrigo Fernandez
+.. slug: 
+.. date: 2016-04-02 23:14:00 UTC-03:00
+.. tags: nikola, python, demo, blog, japones
+.. author: Rdr
+.. link: https://getnikola.com/
+.. description:
+.. category: nikola
+
+.. figure:: http://farm1.staticflickr.com/138/352972944_4f9d568680.jpg
+   :target: http://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1
+   :class: thumbnail
+   :alt: Nikola Tesla Corner by nicwest, on Flickr
+
+Acá empiezo mi blog, vamos a ver cuanto dura.
