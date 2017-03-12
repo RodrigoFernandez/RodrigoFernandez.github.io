@@ -23,11 +23,11 @@
  </url>
  <url>
   <loc>http://rodrigofernandez.github.io/archive.html</loc>
-  <lastmod>2017-02-05T02:28:00Z</lastmod>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://rodrigofernandez.github.io/categories/</loc>
-  <lastmod>2017-02-05T02:28:00Z</lastmod>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://rodrigofernandez.github.io/categories/blog.html</loc>
@@ -60,6 +60,10 @@
  <url>
   <loc>http://rodrigofernandez.github.io/categories/demo/</loc>
   <lastmod>2017-02-05T02:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://rodrigofernandez.github.io/categories/ga/</loc>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://rodrigofernandez.github.io/categories/japones.html</loc>
@@ -102,6 +106,10 @@
   <lastmod>2017-02-05T02:28:00Z</lastmod>
  </url>
  <url>
+  <loc>http://rodrigofernandez.github.io/categories/wa/</loc>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://rodrigofernandez.github.io/galleries/</loc>
   <lastmod>2017-02-05T02:28:00Z</lastmod>
  </url>
@@ -111,7 +119,7 @@
  </url>
  <url>
   <loc>http://rodrigofernandez.github.io/index-1.html</loc>
-  <lastmod>2017-02-05T02:28:00Z</lastmod>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://rodrigofernandez.github.io/listings/</loc>
@@ -128,6 +136,14 @@
  <url>
   <loc>http://rodrigofernandez.github.io/posts/1/</loc>
   <lastmod>2017-02-05T02:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://rodrigofernandez.github.io/posts/capitulo-10/</loc>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://rodrigofernandez.github.io/posts/capitulo-11/</loc>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://rodrigofernandez.github.io/posts/capitulo-2.html</loc>
@@ -174,6 +190,14 @@
   <lastmod>2017-02-05T02:28:00Z</lastmod>
  </url>
  <url>
+  <loc>http://rodrigofernandez.github.io/posts/capitulo-8/</loc>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://rodrigofernandez.github.io/posts/capitulo-9/</loc>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://rodrigofernandez.github.io/posts/capitulo_1.html</loc>
   <lastmod>2017-02-05T02:28:00Z</lastmod>
  </url>
@@ -204,6 +228,10 @@
  <url>
   <loc>http://rodrigofernandez.github.io/posts/katakana-y-palabras-extranjeras/</loc>
   <lastmod>2017-02-05T02:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://rodrigofernandez.github.io/posts/particulas-wa-y-ga/</loc>
+  <lastmod>2017-03-12T20:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://rodrigofernandez.github.io/posts/welcome-to-nikola.html</loc>

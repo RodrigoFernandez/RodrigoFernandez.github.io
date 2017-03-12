@@ -14,7 +14,9 @@
 Capítulo 7 - Resumen
 ====================
 
-La partícula :raw-html:`<span class="particula">へ</span>` se usa para indicar la dirección del verbo ir. Por ejemplo:
+{{% color estilo=particula %}}esta es una prueba {{% color %}}
+
+La partícula {{% color estilo=particula %}} へ {{% color %}} se usa para indicar la dirección del verbo ir. Por ejemplo:
 
 	あなたは　あした　どこ　:raw-html:`<span class="particula">へ</span>`　いきますか。(A dónde va mañana?)
 

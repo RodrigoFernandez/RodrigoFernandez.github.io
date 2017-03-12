@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Rdr (Publicaciones sobre NihongoShojo)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://rodrigofernandez.github.io/categories/nihongoshojo.xml"></atom:link><language>es</language><lastBuildDate>Sun, 05 Feb 2017 02:28:35 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Capítulo 7</title><link>http://rodrigofernandez.github.io/posts/capitulo-7/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;La partícula &lt;span class="raw-html"&gt;&lt;span class="particula"&gt;へ&lt;/span&gt;&lt;/span&gt; se usa para indicar la dirección del verbo ir. Por ejemplo:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rdr (Publicaciones sobre NihongoShojo)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://rodrigofernandez.github.io/categories/nihongoshojo.xml"></atom:link><language>es</language><lastBuildDate>Sun, 12 Mar 2017 20:17:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Capítulo 7</title><link>http://rodrigofernandez.github.io/posts/capitulo-7/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;esta es una prueba &lt;/p&gt;
+&lt;p&gt;La partícula  へ  se usa para indicar la dirección del verbo ir. Por ejemplo:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;あなたは　あした　どこ　&lt;span class="raw-html"&gt;&lt;span class="particula"&gt;へ&lt;/span&gt;&lt;/span&gt;　いきますか。(A dónde va mañana?)&lt;/p&gt;
 &lt;p&gt;わたしは　三月　二十日に　ちゅうがく　&lt;span class="raw-html"&gt;&lt;span class="particula"&gt;から&lt;/span&gt;&lt;/span&gt;　日本　&lt;span class="raw-html"&gt;&lt;span class="particula"&gt;へ&lt;/span&gt;&lt;/span&gt;　きました。&lt;/p&gt;
@@ -408,7 +409,797 @@ de la oración.&lt;/td&gt;
 &lt;td&gt;diciembre&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-7/</guid><pubDate>Sun, 01 Jan 2017 23:41:03 GMT</pubDate></item><item><title>Capítulo 6</title><link>http://rodrigofernandez.github.io/posts/capitulo-6/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;En este capítulo se ve la estructura de objeto directo y verbo transitivo.&lt;/p&gt;
+&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-7/</guid><pubDate>Sun, 01 Jan 2017 23:41:03 GMT</pubDate></item><item><title>Capítulo 8</title><link>http://rodrigofernandez.github.io/posts/capitulo-8/</link><dc:creator>Rdr</dc:creator><description>&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="28%"&gt;
+&lt;col width="25%"&gt;
+&lt;col width="47%"&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;べんきょう&lt;/td&gt;
+&lt;td&gt;benkyoo&lt;/td&gt;
+&lt;td&gt;estudio&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;こうえん&lt;/td&gt;
+&lt;td&gt;kooen&lt;/td&gt;
+&lt;td&gt;parque&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;えんどう&lt;/td&gt;
+&lt;td&gt;endoo&lt;/td&gt;
+&lt;td&gt;deporte&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;さんぽ&lt;/td&gt;
+&lt;td&gt;sanpo&lt;/td&gt;
+&lt;td&gt;paseo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;バドミントン&lt;/td&gt;
+&lt;td&gt;badomenton&lt;/td&gt;
+&lt;td&gt;bádminton&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;バレーボール&lt;/td&gt;
+&lt;td&gt;bareebooru&lt;/td&gt;
+&lt;td&gt;voley&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ピンポン&lt;/td&gt;
+&lt;td&gt;pinpon&lt;/td&gt;
+&lt;td&gt;ping pong&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;そうじ&lt;/td&gt;
+&lt;td&gt;sooji&lt;/td&gt;
+&lt;td&gt;limpieza&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;せんたく&lt;/td&gt;
+&lt;td&gt;sentaku&lt;/td&gt;
+&lt;td&gt;selección&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;かいもの&lt;/td&gt;
+&lt;td&gt;kaimono&lt;/td&gt;
+&lt;td&gt;compras&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;(いろいろな)　こと&lt;/td&gt;
+&lt;td&gt;(iroiroina) koto&lt;/td&gt;
+&lt;td&gt;cosa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;てがみ&lt;/td&gt;
+&lt;td&gt;tegami&lt;/td&gt;
+&lt;td&gt;carta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ピアノ&lt;/td&gt;
+&lt;td&gt;piano&lt;/td&gt;
+&lt;td&gt;piano&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;うた&lt;/td&gt;
+&lt;td&gt;uta&lt;/td&gt;
+&lt;td&gt;canción&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;しごと&lt;/td&gt;
+&lt;td&gt;shigoto&lt;/td&gt;
+&lt;td&gt;trabajo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;じ&lt;/td&gt;
+&lt;td&gt;ji&lt;/td&gt;
+&lt;td&gt;caracter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;パン&lt;/td&gt;
+&lt;td&gt;pan&lt;/td&gt;
+&lt;td&gt;pan&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;(お)　ちゃ&lt;/td&gt;
+&lt;td&gt;&lt;ol class="first last loweralpha simple" start="15"&gt;
+&lt;li&gt;cha&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/td&gt;
+&lt;td&gt;té&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;(お)　かし&lt;/td&gt;
+&lt;td&gt;&lt;ol class="first last loweralpha simple" start="15"&gt;
+&lt;li&gt;kashi&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/td&gt;
+&lt;td&gt;dulce&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;どう&lt;/td&gt;
+&lt;td&gt;doo&lt;/td&gt;
+&lt;td&gt;cómo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;どんな&lt;/td&gt;
+&lt;td&gt;donna&lt;/td&gt;
+&lt;td&gt;qué&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;むずかしい&lt;/td&gt;
+&lt;td&gt;muzukashii&lt;/td&gt;
+&lt;td&gt;difícil&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おもしろい&lt;/td&gt;
+&lt;td&gt;omoshiroi&lt;/td&gt;
+&lt;td&gt;divertido&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;いぞがしい&lt;/td&gt;
+&lt;td&gt;izogashii&lt;/td&gt;
+&lt;td&gt;ocupado&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;たのしい&lt;/td&gt;
+&lt;td&gt;tanoshii&lt;/td&gt;
+&lt;td&gt;diversión&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ひろい&lt;/td&gt;
+&lt;td&gt;hiroi&lt;/td&gt;
+&lt;td&gt;ancho&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;せまい&lt;/td&gt;
+&lt;td&gt;semai&lt;/td&gt;
+&lt;td&gt;estrecho&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;たかい&lt;/td&gt;
+&lt;td&gt;takai&lt;/td&gt;
+&lt;td&gt;alto&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ひくい&lt;/td&gt;
+&lt;td&gt;hikui&lt;/td&gt;
+&lt;td&gt;bajo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;あつい　(本)&lt;/td&gt;
+&lt;td&gt;atsui (hon)&lt;/td&gt;
+&lt;td&gt;grueso (libro grueso)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;あたらしい&lt;/td&gt;
+&lt;td&gt;atarashii&lt;/td&gt;
+&lt;td&gt;nuevo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ふるい&lt;/td&gt;
+&lt;td&gt;furui&lt;/td&gt;
+&lt;td&gt;viejo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おいしい&lt;/td&gt;
+&lt;td&gt;oishii&lt;/td&gt;
+&lt;td&gt;delicioso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;まずい&lt;/td&gt;
+&lt;td&gt;mazui&lt;/td&gt;
+&lt;td&gt;malo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;(むずかしく)　ない&lt;/td&gt;
+&lt;td&gt;(muzukashiku) nai&lt;/td&gt;
+&lt;td&gt;no difícil&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;いろいろ　(な)&lt;/td&gt;
+&lt;td&gt;iroiro (na)&lt;/td&gt;
+&lt;td&gt;varios&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;する　(します)&lt;/td&gt;
+&lt;td&gt;suru (shimasu)&lt;/td&gt;
+&lt;td&gt;hacer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;よむ　(よみます)&lt;/td&gt;
+&lt;td&gt;yomu (yomimasu)&lt;/td&gt;
+&lt;td&gt;leer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;かく　(かきます)&lt;/td&gt;
+&lt;td&gt;kaku (kakimasu)&lt;/td&gt;
+&lt;td&gt;escribir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;きく　(ききます)&lt;/td&gt;
+&lt;td&gt;kiku (kikimasu)&lt;/td&gt;
+&lt;td&gt;oir, escuchar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ひく　(ひきます)&lt;/td&gt;
+&lt;td&gt;hiku (hikimasu)&lt;/td&gt;
+&lt;td&gt;tocar un instrumento&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;うたう　(うたいます)&lt;/td&gt;
+&lt;td&gt;utau (utaimasu)&lt;/td&gt;
+&lt;td&gt;cantar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;たべる　(たべます)&lt;/td&gt;
+&lt;td&gt;taberu (tabemasu)&lt;/td&gt;
+&lt;td&gt;comer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;のむ　(のみます)&lt;/td&gt;
+&lt;td&gt;nomu (nomimasu)&lt;/td&gt;
+&lt;td&gt;beber&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;すう　(すいます)&lt;/td&gt;
+&lt;td&gt;suu (suimasu)&lt;/td&gt;
+&lt;td&gt;fumar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;たいへん&lt;/td&gt;
+&lt;td&gt;taihen&lt;/td&gt;
+&lt;td&gt;grande, enorme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;あまり&lt;/td&gt;
+&lt;td&gt;amari&lt;/td&gt;
+&lt;td&gt;demasiado&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;しかし&lt;/td&gt;
+&lt;td&gt;shikashi&lt;/td&gt;
+&lt;td&gt;pero/sin embargo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;どうですか&lt;/td&gt;
+&lt;td&gt;doodesuka&lt;/td&gt;
+&lt;td&gt;qué opinas= (se pide una opinión
+sobre algo)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;どこか&lt;/td&gt;
+&lt;td&gt;dokoka&lt;/td&gt;
+&lt;td&gt;donde? pero la か indica
+que se pregunta por SI o NO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;どこへも&lt;/td&gt;
+&lt;td&gt;dokohemo&lt;/td&gt;
+&lt;td&gt;ningún lugar (どこ
+indica donde, へ indica
+lugar, も negativiza la
+palabra)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;~よう日&lt;/td&gt;
+&lt;td&gt;~yoobi&lt;/td&gt;
+&lt;td&gt;sufijo de los días de la semana&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;~がた&lt;/td&gt;
+&lt;td&gt;~gata&lt;/td&gt;
+&lt;td&gt;pluraliza al sustantivo que lo
+precede, por ejemplo
+あなたがた = ustedes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;~かい
+~かい&lt;/td&gt;
+&lt;td&gt;~kai
+~kai&lt;/td&gt;
+&lt;td&gt;sufijo contador de veces que
+ocurre algo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;土&lt;rt class="furigana"&gt;ど&lt;/rt&gt;&lt;/ruby&gt;よう&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;び&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;doyoobi&lt;/td&gt;
+&lt;td&gt;sábado&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;金&lt;rt class="furigana"&gt;きん&lt;/rt&gt;&lt;/ruby&gt;よう&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;び&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;kinyoobi&lt;/td&gt;
+&lt;td&gt;viernes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;月&lt;rt class="furigana"&gt;げつ&lt;/rt&gt;&lt;/ruby&gt;よう&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;び&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;getsuyoobi&lt;/td&gt;
+&lt;td&gt;lunes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;火&lt;rt class="furigana"&gt;か&lt;/rt&gt;&lt;/ruby&gt;よう&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;び&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;kayoobi&lt;/td&gt;
+&lt;td&gt;martes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;水&lt;rt class="furigana"&gt;すい&lt;/rt&gt;&lt;/ruby&gt;よう&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;び&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;suiyoobi&lt;/td&gt;
+&lt;td&gt;miércoles&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;木&lt;rt class="furigana"&gt;もく&lt;/rt&gt;&lt;/ruby&gt;よう&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;び&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;mokuyoobi&lt;/td&gt;
+&lt;td&gt;jueves&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;にち&lt;/rt&gt;&lt;/ruby&gt;よう&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;び&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;nichiyoobi&lt;/td&gt;
+&lt;td&gt;domingo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;行&lt;rt class="furigana"&gt;い&lt;/rt&gt;&lt;/ruby&gt;く&lt;/td&gt;
+&lt;td&gt;iku&lt;/td&gt;
+&lt;td&gt;ir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;見&lt;rt class="furigana"&gt;み&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;る　(見&lt;rt class="furigana"&gt;み&lt;/rt&gt;&lt;/ruby&gt;ます)&lt;/td&gt;
+&lt;td&gt;miru (mimasu)&lt;/td&gt;
+&lt;td&gt;mirar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;毎&lt;rt class="furigana"&gt;まい&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;mai&lt;/td&gt;
+&lt;td&gt;todo (adverbio), por ejemplo
+&lt;ruby class="kanji"&gt;毎&lt;rt class="furigana"&gt;まい&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;にち&lt;/rt&gt;&lt;/ruby&gt; todos los días&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-8/</guid><pubDate>Sun, 01 Jan 2017 23:41:03 GMT</pubDate></item><item><title>Capítulo 9</title><link>http://rodrigofernandez.github.io/posts/capitulo-9/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 8)&lt;/p&gt;
+&lt;p&gt;Malformed table.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
++-----------------------+---------------------+--------------------------------+
+| |asa|                 | asa                 | mañana                         |
++-----------------------+---------------------+--------------------------------+
+| |ku_ji|               | ku ji               | 9 horas                        |
++-----------------------+---------------------+--------------------------------+
+| |go_fun_sugi|         | go fun sugi         | 5 minutos pasado               |
++-----------------------+---------------------+--------------------------------+
+| |go_fun_mae|          | go fun mae          | 5 minutos adelantado           |
++-----------------------+---------------------+--------------------------------+
+| |mai_asa|             | mai asa             | todas las mañanas              |
++-----------------------+---------------------+--------------------------------+
+| |yoru|                | yoru                | noche                          |
++-----------------------+---------------------+--------------------------------+
+| |mai_ban|             | mai ban             | todas las noches               |
++-----------------------+---------------------+--------------------------------+
+| |jugyo|               | jugyo               | clase                          |
++-----------------------+---------------------+--------------------------------+
+| |goszen|              | goszen              | a la mañana/AM                 |
++-----------------------+---------------------+--------------------------------+
+| |gogo|                | gogo                | a la tarde/PM                  |
++-----------------------+---------------------+--------------------------------+
+| |hiruyasumi|          | hiruyasumi          | descanso (del mediodía, de la  |
+|                       |                     | tarde)                         |
++-----------------------+---------------------+--------------------------------+
+| |ichi_jikan|          | ichi jikan          | lapso de 1 hora                |
++-----------------------+---------------------+--------------------------------+
+| |basu|                | basu                | autobús                        |
++-----------------------+---------------------+--------------------------------+
+| |hikooki|             | hikooki             | avión                          |
++-----------------------+---------------------+--------------------------------+
+| |kesa|                | kesa                | esta mañana                    |
++-----------------------+---------------------+--------------------------------+
+| |yuube|               | yuube               | anoche                         |
++-----------------------+---------------------+--------------------------------+
+| |kaisha|              | kaisha              | empresa, compañía              |
++-----------------------+---------------------+--------------------------------+
+| |iro|                 | iro                 | color                          |
++-----------------------+---------------------+--------------------------------+
+| |otona|               | otona               | adulto/persona mayor           |
++-----------------------+---------------------+--------------------------------+
+| |byooki|              | byooki              | enfermedad                     |
++-----------------------+---------------------+--------------------------------+
+| |karada|              | karada              | cuerpo/salud                   |
++-----------------------+---------------------+--------------------------------+
+| |machi|               | machi               | ciudad                         |
++-----------------------+---------------------+--------------------------------+
+| |oto|                 | oto                 | sonido/ruido                   |
++-----------------------+---------------------+--------------------------------+
+| |roku_juu_byoo|       | roku juu byoo       | 60 segundos                    |
++-----------------------+---------------------+--------------------------------+
+| |han_nen|             | han nen             | medio año                      |
++-----------------------+---------------------+--------------------------------+
+| |yukiko|              | yukiko              | Yukiko (nombre de persona)     |
++-----------------------+---------------------+--------------------------------+
+| |donogurai|           | donogurai           | como cuánto?/qué tanto?        |
++-----------------------+---------------------+--------------------------------+
+| |hayaku|              | hayaku              | Es la conversión del adjetivo  |
+|                       |                     | temprano (|hayai|) en adverbio |
+|                       |                     | tempranamente (|hayaku|). En   |
+|                       |                     | castellano se convierte un     |
+|                       |                     | adjetivo en adverbio           |
+|                       |                     | agregandole la terminación     |
+|                       |                     | *mente*.                       |
++-----------------------+---------------------+--------------------------------+
+| |osoi|                | osoi                | lento/tarde                    |
++-----------------------+---------------------+--------------------------------+
+| |kurai|               | kurai               | oscuro                         |
++-----------------------+---------------------+--------------------------------+
+| |kitanai|             | kitanai             | sucio/manchado                 |
++-----------------------+---------------------+--------------------------------+
+| |sabishii|            | sabishii            | solo/solitario/aislado         |
++-----------------------+---------------------+--------------------------------+
+| |genki_(na)|          | genki (na)          | saludable (salud, vigor,       |
+|                       |                     | vitalidad)                     |
++-----------------------+---------------------+--------------------------------+
+| |niguiyaka_(na)|      | niguiyaka (na)      | ocupado                        |
++-----------------------+---------------------+--------------------------------+
+| |shizuka_(na)|        | shizuka (na)        | calmado/sereno                 |
++-----------------------+---------------------+--------------------------------+
+| |okiru_(okimasu)|     | okiru (okimasu)     | levantarse                     |
++-----------------------+---------------------+--------------------------------+
+| |neru_(nemasu)|       | neru (nemasu)       | acostarse                      |
++-----------------------+---------------------+--------------------------------+
+| |owaru_(owarimasu)|   | owaru (owarimasu)   | terminar                       |
++-----------------------+---------------------+--------------------------------+
+| |naru_(narimasu)|     | naru (narimasu)     | hacer. Es algo que se hace     |
+|                       |                     | pero no depende de uno por     |
+|                       |                     | ejemplo el paso del tiempo, se |
+|                       |                     | hicieron las 13hs.             |
++-----------------------+---------------------+--------------------------------+
+| |kakaru_(kakarimasu)| | kakaru (kakarimasu) | tomar (en cuanto a tiempo)/    |
+|                       |                     | tardar                         |
++-----------------------+---------------------+--------------------------------+
+| |aruku_(aruite)|      | aruku (aruite)      | caminar                        |
++-----------------------+---------------------+--------------------------------+
+| |kaeru_(kaerimasu)|   | kaeru (kaerimasu)   | volver                         |
++-----------------------+---------------------+--------------------------------+
+| |nuru_(nurimasu)|     | nuru (nurimasu)     | pintar                         |
++-----------------------+---------------------+--------------------------------+
+| |matsu_(matte)|       | matsu (matte)       | esperar                        |
++-----------------------+---------------------+--------------------------------+
+| |moo|                 | moo                 | ya (es el ya usado en la       |
+|                       |                     | oración, ¿ya se hicieron las   |
+|                       |                     | 16hs?)                         |
++-----------------------+---------------------+--------------------------------+
+| |mada|                | mada                | ́aun/todav́ia (usado en la       |
+|                       |                     | ́la oración, aún no son las     |
+|                       |                     | ́16hs.)                         |
++-----------------------+---------------------+--------------------------------+
+| |(arui)_te|           | (arui) te           | caminando                      |
++-----------------------+---------------------+--------------------------------+
+| |(basu)_de|           | (basu) de           | sustantivo+|de| representa el  |
+|                       |                     | medio o instrumento, como en   |
+|                       |                     | |ejemplo_de|                   |
++-----------------------+---------------------+--------------------------------+
+| |goro|                | goro                | alrededor de.../               |
+|                       |                     | aproximadamente (habla de      |
+|                       |                     | tiempos)                       |
++-----------------------+---------------------+--------------------------------+
+| |~ji|                 | ~ji                 | sufijo de hora                 |
++-----------------------+---------------------+--------------------------------+
+| |~fun|                | ~fun                | sufijo de minutos              |
++-----------------------+---------------------+--------------------------------+
+| |~sugi|               | ~sugi               | con los minutos precedentes    |
+|                       |                     | indica cuanto se pasó de una   |
+|                       |                     | hora en particular (viene del  |
+|                       |                     | verbo |sugiru|)                |
++-----------------------+---------------------+--------------------------------+
+| |sugiru|              | sugiru              | pasar/ir más allá/transcurrir/ |
+|                       |                     | rebasar                        |
++-----------------------+---------------------+--------------------------------+
+| |~han|                | ~han                | medio (habla de la mitad de    |
+|                       |                     | algo)                          |
++-----------------------+---------------------+--------------------------------+
+| |~mae|                | ~mae                | con los minutos precediéndolo  |
+|                       |                     | indica cuantos minutos antes   |
+|                       |                     | de una hora se está (indica    |
+|                       |                     | antes, anterior)               |
++-----------------------+---------------------+--------------------------------+
+| |~jikan|              | ~jikan              | con un número precediéndolo    |
+|                       |                     | indica una cantidad de horas   |
++-----------------------+---------------------+--------------------------------+
+| |~byoo|               | ~byoo               | sufijo para indicar segundos   |
++-----------------------+---------------------+--------------------------------+
+| |~tsuki|              | ~tsuki              | sufijo mes para indicar una    |
+|                       |                     | cantidad de meses como con     |
+|                       |                     | |~katsuki|                     |
++-----------------------+---------------------+--------------------------------+
+| |hayai|               | hayai               | temprano/rápido                |
++-----------------------+---------------------+--------------------------------+
+| |ima|                 | ima                 | ahora/ya/tiempo presente       |
+|                       |                     | (habla de tiempo)              |
++-----------------------+---------------------+--------------------------------+
+| |nan_ji|              | nan ji              | qué hora?                      |
++-----------------------+---------------------+--------------------------------+
+| |(go)_fun|            | (go) fun            | minutos, por ejemplo 5 minutos |
++-----------------------+---------------------+--------------------------------+
+| |(ku_ji)_han|         | (ku ji) han         | mitad/medio/y media, por       |
+|                       |                     | ejemplo en 9 y media hs.       |
++-----------------------+---------------------+--------------------------------+
+| |gakkoo|              | gakkoo              | escuela                        |
++-----------------------+---------------------+--------------------------------+
+| |gakusee|             | gakusee             | estudiante                     |
++-----------------------+---------------------+--------------------------------+
+| |kimasu|              | kimasu              | llegar                         |
++-----------------------+---------------------+--------------------------------+
+| |akai|                | akai                | rojo                           |
++-----------------------+---------------------+--------------------------------+
+| |sensee|              | sensee              | maestro/profesor               |
++-----------------------+---------------------+--------------------------------+
+| |ichi_gatsu|          | ichi gatsu          | enero                          |
++-----------------------+---------------------+--------------------------------+
+| |hito_tsuki|          | hito tsuki          | período de 1 mes, es como      |
+| |hito_tsuki|          | hito tsuki          | |hito_tsuki_como|              |
++-----------------------+---------------------+--------------------------------+
+| |han_toshi|           | han toshi           | medio año                      |
++-----------------------+---------------------+--------------------------------+
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 235)&lt;/p&gt;
+&lt;p&gt;Substitution definition "ejemplo_de|:: わたしの　うちから |gakkoo" empty or invalid.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. |ejemplo_de|:: わたしの　うちから |gakkoo| まで　バスで　十五分か　二十分ぐらい　かかります。= Desde mi casa a la escuela en autobús demoro entre 15 y 20 minutos.
+&lt;/pre&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-9/</guid><pubDate>Sun, 01 Jan 2017 23:41:03 GMT</pubDate></item><item><title>Capítulo 10</title><link>http://rodrigofernandez.github.io/posts/capitulo-10/</link><dc:creator>Rdr</dc:creator><description>&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 8)&lt;/p&gt;
+&lt;p&gt;Malformed table.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
++---------------------+-------------------+------------------------------------+
+| |kaminari|          | kaminari          | trueno/relámpago/rayo              |
++---------------------+-------------------+------------------------------------+
+| |kaze|              | kaze              | viento/aire                        |
++---------------------+-------------------+------------------------------------+
+| |kikoo|             | kikoo             | clima                              |
++---------------------+-------------------+------------------------------------+
+| |kisetsu|           | kisetsu           | estación (del año)                 |
++---------------------+-------------------+------------------------------------+
+| |tsuki|             | tsuki             | mes                                |
++---------------------+-------------------+------------------------------------+
+| |ichinenjuu|        | ichinenjuu        | un año (lapso de tiempo)           |
++---------------------+-------------------+------------------------------------+
+| |tokai|             | tokai             | ciudad                             |
++---------------------+-------------------+------------------------------------+
+| |tokoro|            | tokoro            | lugar                              |
++---------------------+-------------------+------------------------------------+
+| |tabemono|          | tabemono          | comida                             |
++---------------------+-------------------+------------------------------------+
+| |juusho|            | juusho            | dirección/residencia/domicilio     |
++---------------------+-------------------+------------------------------------+
+| |sakura|            | sakura            | cerezo/flor de cerezo              |
++---------------------+-------------------+------------------------------------+
+| |mono|              | mono              | cosa/objeto                        |
++---------------------+-------------------+------------------------------------+
+| |haizara|           | haizara           | cenicero                           |
++---------------------+-------------------+------------------------------------+
+| |teeburu|           | teeburu           | mesa (deriva del inglés table)     |
++---------------------+-------------------+------------------------------------+
+| |kago|              | kago              | cesta/canasto                      |
++---------------------+-------------------+------------------------------------+
+| |hokkaidoo|         | hokkaidoo         | Hokaido                            |
++---------------------+-------------------+------------------------------------+
+| |okinawa|           | okinawa           | Okinawa                            |
++---------------------+-------------------+------------------------------------+
+| |fujisan|           | fujisan           | Monte Fuji                         |
++---------------------+-------------------+------------------------------------+
+| |ginza|             | ginza             | Ginza                              |
++---------------------+-------------------+------------------------------------+
+| |shinjuku|          | shinjuku          | Shinjuku                           |
++---------------------+-------------------+------------------------------------+
+| |ii|                | ii                | bueno/placentero/fino/excelente/   |
+|                     |                   | agradable/está bien                |
++---------------------+-------------------+------------------------------------+
+| |warui|             | warui             | malo/incorrecto/equivocado         |
++---------------------+-------------------+------------------------------------+
+| |(ame_ga)_furu|     | (ame ga) furu     | precipitar/caer (precipita lluvia  |
+|                     |                   | ó cae lluvia)                      |
++---------------------+-------------------+------------------------------------+
+| |(kaminariga)_naru| | (kaminariga) naru |  sonar/repicar/resonar/producir    |
+|                     |                   |  eco/rugir/retumbar (sono trueno,  |
+|                     |                   |  rugir trueno)                     |
++---------------------+-------------------+------------------------------------+
+| |(kazega)_fuku|     | (kazega) fuku     | soplar (soplar viento)             |
++---------------------+-------------------+------------------------------------+
+| |chigau|            | chigau            | diferente/diferencia/diferir       |
++---------------------+-------------------+------------------------------------+
+| |ame_ga_yamu|       | ame ga yamu       |                                    |
++---------------------+-------------------+------------------------------------+
+| |hareru|            | hareru            | buen tiempo                        |
++---------------------+-------------------+------------------------------------+
+| |kumoru|            | kumoru            | nublado/nublarse                   |
++---------------------+-------------------+------------------------------------+
+| |tabun|             | tabun             | tal vez/probablemente/quizas       |
++---------------------+-------------------+------------------------------------+
+| |ichiban|           | ichiban           | primero/el número uno/el mejor     |
++---------------------+-------------------+------------------------------------+
+| |to_(onaji)|        | to (onaji)        | en este caso el |to_| es como el   |
+|                     |                   | *a* de la frase, es igual *a*...,  |
+|                     |                   | se usa para poder formar la        |
+|                     |                   | oración como por ejemplo,          |
+|                     |                   | |to_onaji_ejemplo|                 |
++---------------------+-------------------+------------------------------------+
+| |deshoo|            | deshoo            | indica potencialidad de que ocurra |
+|                     |                   | el verbo de la oración en la que   |
+|                     |                   | se usa, como en, |deshoo_ejemplo|  |
++---------------------+-------------------+------------------------------------+
+| |~katta|            | ~katta            | permite convertir adjetivos *i*    |
+|                     |                   | en verbos                          |
++---------------------+-------------------+------------------------------------+
+| |~juu|              | ~juu              | todo (usado para períodos de       |
+|                     |                   | tiempo), como en |juu_ejemplo|　　　|
++---------------------+-------------------+------------------------------------+
+| |tenki|             | tenki             | tiempo/clima                       |
++---------------------+-------------------+------------------------------------+
+| |machi|             | machi             | pueblo                             |
++---------------------+-------------------+------------------------------------+
+| |ame|               | ame               | lluvia                             |
++---------------------+-------------------+------------------------------------+
+| |kita|              | kita              | norte                              |
++---------------------+-------------------+------------------------------------+
+| |minami|            | minami            | sur                                |
++---------------------+-------------------+------------------------------------+
+| |kuni|              | kuni              | país                               |
++---------------------+-------------------+------------------------------------+
+| |onaji|             | onaji             | el mismo/idéntico/igual/           |
+|                     |                   | equivalente                        |
++---------------------+-------------------+------------------------------------+
+| |yuki|              | yuki              | nieve                              |
++---------------------+-------------------+------------------------------------+
+| |higashi|           | higashi           | oriente/este                       |
++---------------------+-------------------+------------------------------------+
+| |sora|              | sora              | cielo                              |
++---------------------+-------------------+------------------------------------+
+| |nishi|             | nishi             | occidente/oeste                    |
++---------------------+-------------------+------------------------------------+
+| |tookyoo|           | tookyoo           | Tokio                              |
++---------------------+-------------------+------------------------------------+
+| |takai|             | takai             | alto/elevado/caro                  |
++---------------------+-------------------+------------------------------------+
+&lt;/pre&gt;
+&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-10/</guid><pubDate>Sun, 01 Jan 2017 23:41:03 GMT</pubDate></item><item><title>Capítulo 11</title><link>http://rodrigofernandez.github.io/posts/capitulo-11/</link><dc:creator>Rdr</dc:creator><description>&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="33%"&gt;
+&lt;col width="30%"&gt;
+&lt;col width="37%"&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;おとうさん&lt;/td&gt;
+&lt;td&gt;otoosan&lt;/td&gt;
+&lt;td&gt;padre&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;けんぶつ&lt;/td&gt;
+&lt;td&gt;kenbutsu&lt;/td&gt;
+&lt;td&gt;recorrido turístico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;こうぎょう&lt;/td&gt;
+&lt;td&gt;koogyoo&lt;/td&gt;
+&lt;td&gt;industria (manufacturera)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ぎじゅつ&lt;/td&gt;
+&lt;td&gt;gijutso&lt;/td&gt;
+&lt;td&gt;técnica/habilidad&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;せんぱい&lt;/td&gt;
+&lt;td&gt;senpai&lt;/td&gt;
+&lt;td&gt;senior (en el trabajo o en
+senior (en el trabajo o en
+la escuela), alguien
+superior, más antiguo
+(alguien con más
+experiencia)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;デパート&lt;/td&gt;
+&lt;td&gt;depaato&lt;/td&gt;
+&lt;td&gt;departamento&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;りょこう&lt;/td&gt;
+&lt;td&gt;ryokoo&lt;/td&gt;
+&lt;td&gt;viaje&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;じっしゅう&lt;/td&gt;
+&lt;td&gt;jisshuu&lt;/td&gt;
+&lt;td&gt;práctica/adiestramiento/
+instrucción&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;スキー&lt;/td&gt;
+&lt;td&gt;sukii&lt;/td&gt;
+&lt;td&gt;esquí&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;いなか&lt;/td&gt;
+&lt;td&gt;inaka&lt;/td&gt;
+&lt;td&gt;rural, en el campo/
+suburbio/ciudad de origen
+residencia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;じぶん&lt;/td&gt;
+&lt;td&gt;jibun&lt;/td&gt;
+&lt;td&gt;mi/mio/propio&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;えいがかん&lt;/td&gt;
+&lt;td&gt;eigakan&lt;/td&gt;
+&lt;td&gt;(sala de) cine&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;えいが&lt;/td&gt;
+&lt;td&gt;eiga&lt;/td&gt;
+&lt;td&gt;cine, película&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おんがく&lt;/td&gt;
+&lt;td&gt;ongaku&lt;/td&gt;
+&lt;td&gt;música&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;レストラン&lt;/td&gt;
+&lt;td&gt;resutoran&lt;/td&gt;
+&lt;td&gt;restoran&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;せんめんじょ&lt;/td&gt;
+&lt;td&gt;senmenjo&lt;/td&gt;
+&lt;td&gt;baño/lavabo/cuarto de aseo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;わすれもの&lt;/td&gt;
+&lt;td&gt;wasuremono&lt;/td&gt;
+&lt;td&gt;objeto perdido/algo
+olvidado&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ならう　(ならいに)&lt;/td&gt;
+&lt;td&gt;narau (naraini)&lt;/td&gt;
+&lt;td&gt;aprender&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;あそぶ　(あそびに)&lt;/td&gt;
+&lt;td&gt;asobu (asobini)&lt;/td&gt;
+&lt;td&gt;jugando&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;およぐ　(およぎに)&lt;/td&gt;
+&lt;td&gt;oyogu (oyogini)&lt;/td&gt;
+&lt;td&gt;nadar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;はたらく　(はたらきに)&lt;/td&gt;
+&lt;td&gt;hataraku (hatarakini)&lt;/td&gt;
+&lt;td&gt;trabajar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;とまる　(とまりに)&lt;/td&gt;
+&lt;td&gt;tomaru (tomarini)&lt;/td&gt;
+&lt;td&gt;parada&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;出&lt;rt class="furigana"&gt;だ&lt;/rt&gt;&lt;/ruby&gt; す　(&lt;ruby class="kanji"&gt;出&lt;rt class="furigana"&gt;だ&lt;/rt&gt;&lt;/ruby&gt; しに)&lt;/td&gt;
+&lt;td&gt;dasu (dashini)&lt;/td&gt;
+&lt;td&gt;salir/sacar/publicar/
+revelar/mostrar/presentar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;あらう　(あらいに)&lt;/td&gt;
+&lt;td&gt;arau (araini)&lt;/td&gt;
+&lt;td&gt;lavar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;とる　(とりに)&lt;/td&gt;
+&lt;td&gt;toru (torini)&lt;/td&gt;
+&lt;td&gt;tomar/cosechar/ganar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;もどる　(もどります)&lt;/td&gt;
+&lt;td&gt;modoru (modorimasu)&lt;/td&gt;
+&lt;td&gt;dar la vuelta/regresar/
+volver atrás&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;出&lt;rt class="furigana"&gt;で&lt;/rt&gt;&lt;/ruby&gt; かける　(&lt;ruby class="kanji"&gt;出&lt;rt class="furigana"&gt;で&lt;/rt&gt;&lt;/ruby&gt; かけます&lt;/td&gt;
+&lt;td&gt;dekakeru (dekakemasu)&lt;/td&gt;
+&lt;td&gt;partir/salir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;いっしょ&lt;/td&gt;
+&lt;td&gt;issho&lt;/td&gt;
+&lt;td&gt;juntos/al mismo tiempo/
+igual/idénticos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;何&lt;rt class="furigana"&gt;なん&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;nan&lt;/td&gt;
+&lt;td&gt;qué&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;何&lt;rt class="furigana"&gt;なに&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;nani&lt;/td&gt;
+&lt;td&gt;qué&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;文&lt;rt class="furigana"&gt;ぶん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;学&lt;rt class="furigana"&gt;かく&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;bungaku&lt;/td&gt;
+&lt;td&gt;literatura&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;来&lt;rt class="furigana"&gt;らい&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;月&lt;rt class="furigana"&gt;げつ&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;raigetsu&lt;/td&gt;
+&lt;td&gt;mes siguiente&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;父&lt;rt class="furigana"&gt;ちち&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;chichi&lt;/td&gt;
+&lt;td&gt;padre&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;に&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;本&lt;rt class="furigana"&gt;ほん&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;nihongo&lt;/td&gt;
+&lt;td&gt;idioma japonés&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;友&lt;rt class="furigana"&gt;とも&lt;/rt&gt;&lt;/ruby&gt;だち&lt;/td&gt;
+&lt;td&gt;tomodachi&lt;/td&gt;
+&lt;td&gt;amigo/compañero&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;工&lt;rt class="furigana"&gt;こう&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;場&lt;rt class="furigana"&gt;じょう&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;koojoo&lt;/td&gt;
+&lt;td&gt;fábrica&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;話&lt;rt class="furigana"&gt;はなし&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;hanashi&lt;/td&gt;
+&lt;td&gt;charla/conversación&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;森&lt;rt class="furigana"&gt;もり&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;mori&lt;/td&gt;
+&lt;td&gt;bosque&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;外&lt;rt class="furigana"&gt;がい&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;国&lt;rt class="furigana"&gt;こく&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;gaikoku&lt;/td&gt;
+&lt;td&gt;país extranjero&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;海&lt;rt class="furigana"&gt;うみ&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;umi&lt;/td&gt;
+&lt;td&gt;mar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おんがく&lt;ruby class="kanji"&gt;会&lt;rt class="furigana"&gt;かい&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;ongakukai&lt;/td&gt;
+&lt;td&gt;concierto&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;出&lt;rt class="furigana"&gt;だ&lt;/rt&gt;&lt;/ruby&gt;す&lt;/td&gt;
+&lt;td&gt;dasu&lt;/td&gt;
+&lt;td&gt;salir/sacar/publicar/
+revelar/mostrar/presentar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;食&lt;rt class="furigana"&gt;た&lt;/rt&gt;&lt;/ruby&gt;べる&lt;/td&gt;
+&lt;td&gt;taberu&lt;/td&gt;
+&lt;td&gt;comer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;手&lt;rt class="furigana"&gt;て&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;te&lt;/td&gt;
+&lt;td&gt;mano&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;会&lt;rt class="furigana"&gt;かい&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;社&lt;rt class="furigana"&gt;しゃ&lt;/rt&gt;&lt;/ruby&gt;&lt;/td&gt;
+&lt;td&gt;kaisha&lt;/td&gt;
+&lt;td&gt;empresa/compañía&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;ruby class="kanji"&gt;出&lt;rt class="furigana"&gt;で&lt;/rt&gt;&lt;/ruby&gt;かける&lt;/td&gt;
+&lt;td&gt;dekakeru&lt;/td&gt;
+&lt;td&gt;partir/salir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-11/</guid><pubDate>Sun, 01 Jan 2017 23:41:03 GMT</pubDate></item><item><title>Capítulo 6</title><link>http://rodrigofernandez.github.io/posts/capitulo-6/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;En este capítulo se ve la estructura de objeto directo y verbo transitivo.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Objeto directo&lt;/em&gt; + &lt;span class="raw-html"&gt;&lt;span class="particula"&gt;を&lt;/span&gt;&lt;/span&gt; + &lt;em&gt;cantidad&lt;/em&gt; + &lt;em&gt;verbo transitivo&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Donde la cantidad es opcional.
 Por ejemplo:&lt;/p&gt;
@@ -1847,801 +2638,4 @@ ubicación de acciones a corto plazo, etc.&lt;/td&gt;
 &lt;td&gt;qué?&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-2/</guid><pubDate>Mon, 25 Apr 2016 01:49:33 GMT</pubDate></item><item><title>Comenzando con los verbos</title><link>http://rodrigofernandez.github.io/posts/comenzando-con-los-verbos/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;Los verbos se dividen en 3 grupos. Los verbos del primer grupo terminan en su forma diccionario en sílabas terminadas en &lt;strong&gt;u&lt;/strong&gt;. Los del segundo grupo terminan con la sílaba &lt;strong&gt;ru&lt;/strong&gt; (る). Y los del tercer grupo son verbos irregulares.&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
-&lt;colgroup&gt;
-&lt;col width="4%"&gt;
-&lt;col width="11%"&gt;
-&lt;col width="10%"&gt;
-&lt;col width="7%"&gt;
-&lt;col width="7%"&gt;
-&lt;col width="9%"&gt;
-&lt;col width="8%"&gt;
-&lt;col width="7%"&gt;
-&lt;col width="8%"&gt;
-&lt;col width="10%"&gt;
-&lt;col width="10%"&gt;
-&lt;col width="8%"&gt;
-&lt;/colgroup&gt;
-&lt;thead valign="bottom"&gt;
-&lt;tr&gt;&lt;th class="head"&gt;Grupo&lt;/th&gt;
-&lt;th class="head"&gt;forma diccionario&lt;/th&gt;
-&lt;th class="head"&gt;-masu&lt;/th&gt;
-&lt;th class="head"&gt;-te&lt;/th&gt;
-&lt;th class="head"&gt;-ta&lt;/th&gt;
-&lt;th class="head"&gt;-nai&lt;/th&gt;
-&lt;th class="head"&gt;condicional&lt;/th&gt;
-&lt;th class="head"&gt;imperativa&lt;/th&gt;
-&lt;th class="head"&gt;volitional&lt;/th&gt;
-&lt;th class="head"&gt;causative&lt;/th&gt;
-&lt;th class="head"&gt;pasiva&lt;/th&gt;
-&lt;th class="head"&gt;potencial&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td rowspan="11"&gt;1&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;/td&gt;
-&lt;td&gt;kak&lt;strong&gt;u&lt;/strong&gt;
-かく
-escribir&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;かき　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ka&lt;strong&gt;ite&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かいて&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ka&lt;strong&gt;ita&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かいた&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かかない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かけば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かけ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かこう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かかせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かかれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かかれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;iku
-いく
-ir&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ik&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;いき　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;itte&lt;/p&gt;
-&lt;p class="last"&gt;いって&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;itta&lt;/p&gt;
-&lt;p class="last"&gt;いった&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ik&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いかない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ik&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いけば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ik&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いけ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ik&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いこう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ik **aseru**&lt;/p&gt;
-&lt;p class="last"&gt;いかせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ik&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いかれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ik&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いける&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;isogu
-いそぐ
-apurar&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isog&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;いそぎ　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isoide&lt;/p&gt;
-&lt;p class="last"&gt;いそいで&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isoida&lt;/p&gt;
-&lt;p class="last"&gt;いそいだ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isog&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いそがない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isog&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いそげば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isog&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いそげ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isog&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いそごう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isog&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いそがせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isog&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いそがれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;isog&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;いそげる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;asobu
-あそぶ
-jugar&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asob&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;あそび　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asonde&lt;/p&gt;
-&lt;p class="last"&gt;あそんで&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asonda&lt;/p&gt;
-&lt;p class="last"&gt;あそんだ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asob&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あそばない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asob&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あそべば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asob&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あそべ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asob&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あそぼう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asob&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あそばせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asob&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あそばれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;asob&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あそべる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;nomu
-のむ
-beber&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nom&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;のみ　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nonde&lt;/p&gt;
-&lt;p class="last"&gt;のんで&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nonda&lt;/p&gt;
-&lt;p class="last"&gt;のんだ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nom&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;のまない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nom&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;のめば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nom&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;のめ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nom&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;のもう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nom&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;のませる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nom&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;のまれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;nom&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;のめる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;shinu
-しぬ
-morir&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shin&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;しに　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shinde&lt;/p&gt;
-&lt;p class="last"&gt;しんで&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shinda&lt;/p&gt;
-&lt;p class="last"&gt;しんだ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shin&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;しなない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shin&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;しねば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shin&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;しね&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shin&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;しのう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shin&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;しなせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shin&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;しなれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shin&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;しねる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;toru
-とる
-tomar&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tor&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;とり　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;totte&lt;/p&gt;
-&lt;p class="last"&gt;とって&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;totta&lt;/p&gt;
-&lt;p class="last"&gt;とった&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tor&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;とらない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tor&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;とれば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tor&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;とれ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tor&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;とろう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tor&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;とらせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tor&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;とられる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tor&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;とれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;aru
-ある
-haber&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ar&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;あり　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;atte&lt;/p&gt;
-&lt;p class="last"&gt;あって&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;atta&lt;/p&gt;
-&lt;p class="last"&gt;あった&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;&lt;strong&gt;nai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;ない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ar&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あれば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ar&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あれ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ar&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;あろう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;matsu
-まつ
-esperar&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ma&lt;strong&gt;chi&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;まち　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;matte&lt;/p&gt;
-&lt;p class="last"&gt;まって&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;matta&lt;/p&gt;
-&lt;p class="last"&gt;まった&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mat&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;またない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mats&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;まつぇば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mats&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;まつぇ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mats&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;まつぉう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mats&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;まつぁせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mats&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;まつぁれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mats&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;まつぇる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;kaku
-かく
-dibujar&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;i&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;かき　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;katte&lt;/p&gt;
-&lt;p class="last"&gt;かって&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;katta&lt;/p&gt;
-&lt;p class="last"&gt;かった&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kaw&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かわない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かけば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かけ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かこう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かかせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かかれる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kak&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;かける&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;kesu
-けす
-borrar&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ke&lt;strong&gt;shi&lt;/strong&gt; masu&lt;/p&gt;
-&lt;p class="last"&gt;けし　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;keshite&lt;/p&gt;
-&lt;p class="last"&gt;けして&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;keshita&lt;/p&gt;
-&lt;p class="last"&gt;けした&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kes&lt;strong&gt;anai&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;けさない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kes&lt;strong&gt;eba&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;けせば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kes&lt;strong&gt;e&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;けせ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kes&lt;strong&gt;oo&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;けそう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kes&lt;strong&gt;aseru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;けさせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kes&lt;strong&gt;areru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;けされる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kes&lt;strong&gt;eru&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="last"&gt;けせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td rowspan="2"&gt;2&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;/td&gt;
-&lt;td&gt;taberu
-たべる
-comer&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tabe masu&lt;/p&gt;
-&lt;p class="last"&gt;たべ　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tabete&lt;/p&gt;
-&lt;p class="last"&gt;たべて&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tabeta&lt;/p&gt;
-&lt;p class="last"&gt;たべた&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tabenai&lt;/p&gt;
-&lt;p class="last"&gt;たべない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tabereba&lt;/p&gt;
-&lt;p class="last"&gt;たべれば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tabero&lt;/p&gt;
-&lt;p class="last"&gt;たべろ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tabeyoo&lt;/p&gt;
-&lt;p class="last"&gt;たべよう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;tabesaseru&lt;/p&gt;
-&lt;p class="last"&gt;たべさせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;taberareru&lt;/p&gt;
-&lt;p class="last"&gt;たべられる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;taberareru&lt;/p&gt;
-&lt;p class="last"&gt;たべられる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;miru
-みる
-ver&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mi masu&lt;/p&gt;
-&lt;p class="last"&gt;み　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mite&lt;/p&gt;
-&lt;p class="last"&gt;みて&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mita&lt;/p&gt;
-&lt;p class="last"&gt;みた&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;minai&lt;/p&gt;
-&lt;p class="last"&gt;みない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mireba&lt;/p&gt;
-&lt;p class="last"&gt;みれば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;miro&lt;/p&gt;
-&lt;p class="last"&gt;みろ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;miyoo&lt;/p&gt;
-&lt;p class="last"&gt;みよう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;misaseru&lt;/p&gt;
-&lt;p class="last"&gt;みさせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mirareru&lt;/p&gt;
-&lt;p class="last"&gt;みられる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;mirareru&lt;/p&gt;
-&lt;p class="last"&gt;みられる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td rowspan="2"&gt;3&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;!--  --&gt;
-&lt;/td&gt;
-&lt;td&gt;suru
-する
-hacer&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shi masu&lt;/p&gt;
-&lt;p class="last"&gt;し　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shite&lt;/p&gt;
-&lt;p class="last"&gt;して&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shita&lt;/p&gt;
-&lt;p class="last"&gt;した&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shinai&lt;/p&gt;
-&lt;p class="last"&gt;しない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;sureba&lt;/p&gt;
-&lt;p class="last"&gt;すれば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shiro&lt;/p&gt;
-&lt;p class="last"&gt;しろ&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;shiyoo&lt;/p&gt;
-&lt;p class="last"&gt;しよう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;saseru&lt;/p&gt;
-&lt;p class="last"&gt;させる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;sareru&lt;/p&gt;
-&lt;p class="last"&gt;される&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;dekiru&lt;/p&gt;
-&lt;p class="last"&gt;できる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;kuru
-くる
-venir&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;ki masu&lt;/p&gt;
-&lt;p class="last"&gt;き　ます&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kite&lt;/p&gt;
-&lt;p class="last"&gt;きて&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kita&lt;/p&gt;
-&lt;p class="last"&gt;きた&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;konai&lt;/p&gt;
-&lt;p class="last"&gt;こない&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kureba&lt;/p&gt;
-&lt;p class="last"&gt;くれば&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;koi&lt;/p&gt;
-&lt;p class="last"&gt;こい&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;koyoo&lt;/p&gt;
-&lt;p class="last"&gt;こよう&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;kosaseru&lt;/p&gt;
-&lt;p class="last"&gt;こさせる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;korareru&lt;/p&gt;
-&lt;p class="last"&gt;こられる&lt;/p&gt;
-&lt;/td&gt;
-&lt;td&gt;&lt;p class="first"&gt;korareru&lt;/p&gt;
-&lt;p class="last"&gt;こられる&lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/comenzando-con-los-verbos/</guid><pubDate>Fri, 15 Apr 2016 00:31:09 GMT</pubDate></item><item><title>Capítulo 1</title><link>http://rodrigofernandez.github.io/posts/capitulo_1/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;あたらしい　ことば (atarashii kotoba = nueva palabra)&lt;/strong&gt;&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
-&lt;colgroup&gt;
-&lt;col width="17%"&gt;
-&lt;col width="15%"&gt;
-&lt;col width="68%"&gt;
-&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;あたらしい&lt;/td&gt;
-&lt;td&gt;atarashii&lt;/td&gt;
-&lt;td&gt;nueva&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ことば&lt;/td&gt;
-&lt;td&gt;kotoba&lt;/td&gt;
-&lt;td&gt;palabra&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;にほんご&lt;/td&gt;
-&lt;td&gt;nihongo&lt;/td&gt;
-&lt;td&gt;idioma japonés&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;せんせい&lt;/td&gt;
-&lt;td&gt;sensee&lt;/td&gt;
-&lt;td&gt;maestro/profesor&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;がくせい&lt;/td&gt;
-&lt;td&gt;gakusee&lt;/td&gt;
-&lt;td&gt;estudiante&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;おんな&lt;/td&gt;
-&lt;td&gt;onna&lt;/td&gt;
-&lt;td&gt;mujer&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;えいご&lt;/td&gt;
-&lt;td&gt;eigo&lt;/td&gt;
-&lt;td&gt;idioma&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;おとこ&lt;/td&gt;
-&lt;td&gt;otoko&lt;/td&gt;
-&lt;td&gt;hombre/varón&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ひと&lt;/td&gt;
-&lt;td&gt;hito&lt;/td&gt;
-&lt;td&gt;persona&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;(この)　かた&lt;/td&gt;
-&lt;td&gt;(kono) kata&lt;/td&gt;
-&lt;td&gt;individuo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;にほん&lt;/td&gt;
-&lt;td&gt;nihon&lt;/td&gt;
-&lt;td&gt;Japón&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;フランス&lt;/td&gt;
-&lt;td&gt;furansu&lt;/td&gt;
-&lt;td&gt;Francia&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;アメリカ&lt;/td&gt;
-&lt;td&gt;amerika&lt;/td&gt;
-&lt;td&gt;América&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;インドネシア&lt;/td&gt;
-&lt;td&gt;indoneshia&lt;/td&gt;
-&lt;td&gt;Indonesia&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ちょうごく&lt;/td&gt;
-&lt;td&gt;choogoku&lt;/td&gt;
-&lt;td&gt;China&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;タイ&lt;/td&gt;
-&lt;td&gt;tai&lt;/td&gt;
-&lt;td&gt;Tailandia&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;オーストラリア&lt;/td&gt;
-&lt;td&gt;oosutoraria&lt;/td&gt;
-&lt;td&gt;Australia&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;イギリス&lt;/td&gt;
-&lt;td&gt;igirisu&lt;/td&gt;
-&lt;td&gt;Gran Bretaña&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;マレーシア&lt;/td&gt;
-&lt;td&gt;mareeshia&lt;/td&gt;
-&lt;td&gt;Malasia&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;シンガポーレ&lt;/td&gt;
-&lt;td&gt;shingapoore&lt;/td&gt;
-&lt;td&gt;Singapur&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;フイリピン&lt;/td&gt;
-&lt;td&gt;firipin&lt;/td&gt;
-&lt;td&gt;Filipinas&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;インド&lt;/td&gt;
-&lt;td&gt;indo&lt;/td&gt;
-&lt;td&gt;India&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;はやし&lt;/td&gt;
-&lt;td&gt;hayashi&lt;/td&gt;
-&lt;td&gt;Hayashi&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ジョン　スミス&lt;/td&gt;
-&lt;td&gt;jon sumisu&lt;/td&gt;
-&lt;td&gt;John Smith&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;アリ&lt;/td&gt;
-&lt;td&gt;ari&lt;/td&gt;
-&lt;td&gt;Ari&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;チン&lt;/td&gt;
-&lt;td&gt;chin&lt;/td&gt;
-&lt;td&gt;Chin&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ラタナー&lt;/td&gt;
-&lt;td&gt;ratanaa&lt;/td&gt;
-&lt;td&gt;Ratanaa&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ガロ&lt;/td&gt;
-&lt;td&gt;garo&lt;/td&gt;
-&lt;td&gt;Garo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;わたし&lt;/td&gt;
-&lt;td&gt;watashi&lt;/td&gt;
-&lt;td&gt;yo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;あなた&lt;/td&gt;
-&lt;td&gt;anata&lt;/td&gt;
-&lt;td&gt;usted, querido (como la esposa llama al marido)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;どなた&lt;/td&gt;
-&lt;td&gt;donata&lt;/td&gt;
-&lt;td&gt;quién/es&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;だれ&lt;/td&gt;
-&lt;td&gt;dare&lt;/td&gt;
-&lt;td&gt;quién?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;この&lt;/td&gt;
-&lt;td&gt;kono&lt;/td&gt;
-&lt;td&gt;este/a&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;その&lt;/td&gt;
-&lt;td&gt;sono&lt;/td&gt;
-&lt;td&gt;ese/a&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;あの&lt;/td&gt;
-&lt;td&gt;ano&lt;/td&gt;
-&lt;td&gt;aquel/la/los&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;どの&lt;/td&gt;
-&lt;td&gt;dono&lt;/td&gt;
-&lt;td&gt;cuál?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;はい&lt;/td&gt;
-&lt;td&gt;hai&lt;/td&gt;
-&lt;td&gt;si&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;いいえ&lt;/td&gt;
-&lt;td&gt;iie&lt;/td&gt;
-&lt;td&gt;no&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;こんにちは&lt;/td&gt;
-&lt;td&gt;konnichiwa&lt;/td&gt;
-&lt;td&gt;hola, buenos días (saludo durante el día)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;はじめまして&lt;/td&gt;
-&lt;td&gt;hajimemashite&lt;/td&gt;
-&lt;td&gt;encantado/gusto en conocerte (al saludar)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;どうぞよろしく&lt;/td&gt;
-&lt;td&gt;doozoyoroshiku&lt;/td&gt;
-&lt;td&gt;encantado de conocerte (al final de la respuesta del saludo anterior)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td colspan="3"&gt;&lt;strong&gt;Partículas&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;は&lt;/td&gt;
-&lt;td&gt;wa&lt;/td&gt;
-&lt;td&gt;Indica el sujeto de la oración, ejemplo: わたし&lt;strong&gt;は&lt;/strong&gt; はやし です en este caso el sujeto al que se refiere la oración es: yo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;の&lt;/td&gt;
-&lt;td&gt;no&lt;/td&gt;
-&lt;td&gt;Posesión, sustantivo de conexión, marcador de tema (cláusula subordinada), nominalización, ejemplo: にほんご&lt;strong&gt;の&lt;/strong&gt;せんせい en este caso el no indica que se es profesor de japonés&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;か&lt;/td&gt;
-&lt;td&gt;ka&lt;/td&gt;
-&lt;td&gt;Se usa para indicar que la sentencia es una pregunta, ejemplo: あなたはがくせいです&lt;strong&gt;か&lt;/strong&gt;。en este caso se pregunta: usted es estudiante?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;も&lt;/td&gt;
-&lt;td&gt;mo&lt;/td&gt;
-&lt;td&gt;usada para indicar también o tampoco siempre en relación a algo previo, ejemplo: ラタナーさんも　ちょおごくじんですか。en este caso se pregunta si la señora Ratana también es china.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td colspan="3"&gt;&lt;strong&gt;Verbo ser estar&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;です&lt;/td&gt;
-&lt;td&gt;desu&lt;/td&gt;
-&lt;td&gt;ser/estar&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;では　ありません&lt;/td&gt;
-&lt;td&gt;dewa arimasen&lt;/td&gt;
-&lt;td&gt;no ser/no estar, negación de です&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td colspan="3"&gt;&lt;strong&gt;Sufijos&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;～じん&lt;/td&gt;
-&lt;td&gt;~jin&lt;/td&gt;
-&lt;td&gt;sufijo que indica nacionalidad&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;～さん&lt;/td&gt;
-&lt;td&gt;~san&lt;/td&gt;
-&lt;td&gt;sufijo honorífico&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;～ご&lt;/td&gt;
-&lt;td&gt;~go&lt;/td&gt;
-&lt;td&gt;sufijo que indica idioma&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo_1/</guid><pubDate>Sun, 03 Apr 2016 02:41:18 GMT</pubDate></item></channel></rss>
+&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-2/</guid><pubDate>Mon, 25 Apr 2016 01:49:33 GMT</pubDate></item></channel></rss>
