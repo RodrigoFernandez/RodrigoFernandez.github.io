@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rdr (Publicaciones sobre idiomas)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link href="http://rodrigofernandez.github.io/categories/cat_idiomas.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sun, 19 Mar 2017 18:43:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Partículas wa y ga</title><link>http://rodrigofernandez.github.io/posts/particulas-wa-y-ga/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;En estos artículos se explica la diferencia entre las partículas は y が&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rdr (Publicaciones sobre idiomas)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://rodrigofernandez.github.io/categories/cat_idiomas.xml"></atom:link><language>es</language><lastBuildDate>Sun, 19 Mar 2017 19:07:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Partículas wa y ga</title><link>http://rodrigofernandez.github.io/posts/particulas-wa-y-ga/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;En estos artículos se explica la diferencia entre las partículas は y が&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.espaiwabisabi.com/particulas-wa-y-ga/"&gt;https://www.espaiwabisabi.com/particulas-wa-y-ga/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.espaiwabisabi.com/particulas-wa-y-ga-2/"&gt;https://www.espaiwabisabi.com/particulas-wa-y-ga-2/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>ga</category><category>japones</category><category>particulas</category><category>wa</category><guid>http://rodrigofernandez.github.io/posts/particulas-wa-y-ga/</guid><pubDate>Thu, 23 Feb 2017 02:13:16 GMT</pubDate></item><item><title>Capítulo 7</title><link>http://rodrigofernandez.github.io/posts/capitulo-7/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;La partícula &lt;span class="raw-html"&gt;&lt;span class="particula"&gt; へ &lt;/span&gt;&lt;/span&gt; se usa para indicar la dirección del verbo ir. Por ejemplo:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -544,17 +544,11 @@ de la oración.&lt;/td&gt;
 &lt;td&gt;pan&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;(お)　ちゃ&lt;/td&gt;
-&lt;td&gt;&lt;ol class="first last loweralpha simple" start="15"&gt;
-&lt;li&gt;cha&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/td&gt;
+&lt;td&gt;(o ) cha&lt;/td&gt;
 &lt;td&gt;té&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;(お)　かし&lt;/td&gt;
-&lt;td&gt;&lt;ol class="first last loweralpha simple" start="15"&gt;
-&lt;li&gt;kashi&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/td&gt;
+&lt;td&gt;(o ) kashi&lt;/td&gt;
 &lt;td&gt;dulce&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;どう&lt;/td&gt;
