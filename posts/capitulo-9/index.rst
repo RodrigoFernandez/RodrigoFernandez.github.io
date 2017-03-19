@@ -7,12 +7,15 @@
 .. description: Resumen capítulo 9 del libro Nohongo Shojo
 .. type: text
 
-.. role:: raw-html(raw)
-   :format: html
-
 ====================
 Capítulo 9 - Resumen
 ====================
+
+Se puede convertir un adjetivo en un advervio, en castellano, se lo convierte agregándole la terminación *mente*.
+En japonés, los adjetivos de tipo i se reeamplaza la i (い) por ku (く).
+Y los adjetivos no i se agrega la partículoa ni.
+
+En este link hay una mejor explicación: `adjetivos a advervios <https://nihongonobenkyou.jimdo.com/lecciones/lecci%C3%B3n-9-adverbios/>`_
 
 +-----------------------+---------------------+--------------------------------+
 | |asa|                 | asa                 | mañana                         |
