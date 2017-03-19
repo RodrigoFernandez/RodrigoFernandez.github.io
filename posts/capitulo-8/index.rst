@@ -21,7 +21,7 @@ Una oración se puede hacer negativa negando el adjetivo en vez del verbo, de la
 +--------+----------------+---------------+---------+----------------------+---------------+
 | |atsu| | |atsu_i|       | calor         | |joobu| |                      | durable       |
 +--------+----------------+---------------+---------+----------------------+---------------+
-|  atsu  | |atsu_ku|      | hace calor    |         | |joobu| |joobu_desu| | es durable    |
+|  atsu  | |atsu_ku|      | hace calor    |         | |joobu_desu|         | es durable    |
 +--------+----------------+---------------+---------+----------------------+---------------+
 |        | |atsu_katta|   | hizo calor    |         | |joobu_arimasen|     | no es durable |
 +--------+----------------+---------------+---------+----------------------+---------------+
@@ -249,7 +249,7 @@ Una oración se puede hacer negativa negando el adjetivo en vez del verbo, de la
 .. |atsu_kunai| replace:: くない (kunai)
 .. |atsu_nakatta| replace:: くなかった (kunakatta)
 
-.. |joobu| じょうぶ (joobu)
+.. |joobu| replace:: じょうぶ (joobu)
 .. |joobu_desu| replace:: です (desu)
 .. |joobu_arimasen| replace:: では　ありません (dewa arimasen)
 .. |joobu_nai| replace:: では　ない (dewa nai)
