@@ -119,15 +119,15 @@ Capítulo 9 - Resumen
 |                       |                     | oración, ¿ya se hicieron las   |
 |                       |                     | 16hs?)                         |
 +-----------------------+---------------------+--------------------------------+
-| |mada|                | mada                | ́aun/todav́ia (usado en la       |
-|                       |                     | ́la oración, aún no son las     |
-|                       |                     | ́16hs.)                         |
+| |mada|                | mada                | aún/todavía (usado en la       |
+|                       |                     | la oración, aún no son las     |
+|                       |                     | 16hs.)                         |
 +-----------------------+---------------------+--------------------------------+
 | |(arui)_te|           | (arui) te           | caminando                      |
 +-----------------------+---------------------+--------------------------------+
-| |(basu)_de|           | (basu) de           | sustantivo+|de| representa el  |
-|                       |                     | medio o instrumento, como en   |
-|                       |                     | |ejemplo_de|                   |
+| |(basu)_de|           | (basu) de           | sustantivo + |de| representa   |
+|                       |                     | el medio o instrumento, como   |
+|                       |                     | en |ejemplo_de|                |
 +-----------------------+---------------------+--------------------------------+
 | |goro|                | goro                | alrededor de.../               |
 |                       |                     | aproximadamente (habla de      |
@@ -187,7 +187,7 @@ Capítulo 9 - Resumen
 | |ichi_gatsu|          | ichi gatsu          | enero                          |
 +-----------------------+---------------------+--------------------------------+
 | |hito_tsuki|          | hito tsuki          | período de 1 mes, es como      |
-| |hito_tsuki|          | hito tsuki          | |hito_tsuki_como|              |
+|                       |                     | |hito_tsuki_como|              |
 +-----------------------+---------------------+--------------------------------+
 | |han_toshi|           | han toshi           | medio año                      |
 +-----------------------+---------------------+--------------------------------+
@@ -216,7 +216,7 @@ Capítulo 9 - Resumen
 .. |machi| replace:: まち
 .. |oto| replace:: おと
 .. |roku_juu_byoo| replace:: 六十びょう
-.. |han_nen| replace:: {{% kanji furigana=はん　年 %}}半{{% /kanji %}}
+.. |han_nen| replace:: {{% kanji furigana=はん %}}半{{% /kanji %}}{{% kanji furigana=ねん %}}年{{% /kanji %}}
 .. |yukiko| replace:: ゆきこ
 .. |donogurai| replace:: どのぐらい
 .. |hayaku| replace:: {{% kanji furigana=はや %}}早{{% /kanji %}}く
@@ -241,7 +241,7 @@ Capítulo 9 - Resumen
 .. |(arui)_te| replace:: (あるい)　て
 .. |(basu)_de| replace:: (バス)　で
 .. |de| replace:: で
-.. |ejemplo_de|:: わたしの　うちから |gakkoo| まで　バスで　十五分か　二十分ぐらい　かかります。= Desde mi casa a la escuela en autobús demoro entre 15 y 20 minutos.
+.. |ejemplo_de| replace:: わたしの　うちから {{% kanji furigana=がっ %}}学{{% /kanji %}}{{% kanji furigana=こう %}}校{{% /kanji %}} まで　バスで　十五分か　二十分ぐらい　かかります。= Desde mi casa a la escuela en autobús demoro entre 15 y 20 minutos.
 .. |goro| replace:: ごろ
 .. |~ji| replace:: ～時
 .. |~fun| replace:: ～分
@@ -256,14 +256,14 @@ Capítulo 9 - Resumen
 .. |hayai| replace:: {{% kanji furigana=はや %}}早{{% /kanji %}}い
 .. |ima| replace:: {{% kanji furigana=いま %}}今{{% /kanji %}}
 .. |nan_ji| replace:: なん{{% kanji furigana=じ %}}時{{% /kanji %}}
-.. |(go)_fun| replace:: {{% kanji furigana=ご)　分 %}}(五{{% /kanji %}}
-.. |(ku_ji)_han| replace:: {{% kanji furigana=く　時 %}}(九{{% /kanji %}}
-.. |gakkoo| replace:: {{% kanji furigana=がっ%}}学{{% /kanji %}}{{% kanji furigana=こう%}}校{{% /kanji %}}
-.. |gakusee| replace:: {{% kanji furigana=がく　生 %}}学{{% /kanji %}}
-.. |kimasu| replace:: {{% kanji furigana=き　ます %}}来{{% /kanji %}}
-.. |akai| replace:: {{% kanji furigana=あか　い %}}赤{{% /kanji %}}
-.. |sensee| replace:: {{% kanji furigana=せん　生 %}}先{{% /kanji %}}
+.. |(go)_fun| replace:: ({{% kanji furigana=ご %}}五{{% /kanji %}}) {{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |(ku_ji)_han| replace:: ({{% kanji furigana=く %}}九{{% /kanji %}}) {{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |gakkoo| replace:: {{% kanji furigana=がっ %}}学{{% /kanji %}}{{% kanji furigana=こう %}}校{{% /kanji %}}
+.. |gakusee| replace:: {{% kanji furigana=がく %}}学{{% /kanji %}}{{% kanji furigana=せい %}}生{{% /kanji %}}
+.. |kimasu| replace:: {{% kanji furigana=き %}}来{{% /kanji %}}ます
+.. |akai| replace:: {{% kanji furigana=あか %}}赤{{% /kanji %}}い
+.. |sensee| replace:: {{% kanji furigana=せん %}}先{{% /kanji %}}{{% kanji furigana=せい %}}生{{% /kanji %}}
 .. |ichi_gatsu| replace:: {{% kanji furigana=いち %}}一{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}
-.. |hito_tsuki| replace:: {{% kanji furigana=ひと%}}一{{% /kanji %}} {{% kanji furigana=つき%}}月{{% /kanji %}}
+.. |hito_tsuki| replace:: {{% kanji furigana=ひと %}}一{{% /kanji %}} {{% kanji furigana=つき %}}月{{% /kanji %}}
 .. |hito_tsuki_como| replace:: {{% kanji furigana=いち %}}一{{% /kanji %}} か {{% kanji furigana=がつ %}}月{{% /kanji %}}
-.. |han_toshi| replace:: {{% kanji furigana=はん　年 %}}半{{% /kanji %}}
+.. |han_toshi| replace:: {{% kanji furigana=はん %}}半{{% /kanji %}}{{% kanji furigana=とし %}}年{{% /kanji %}}

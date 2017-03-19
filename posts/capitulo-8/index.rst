@@ -23,7 +23,7 @@ Capítulo 8 - Resumen
 +---------------------+-------------------+------------------------------------+
 | |sanpo|             | sanpo             | paseo                              |
 +---------------------+-------------------+------------------------------------+
-| |badomenton|        | badomenton        | bádminton                          |
+| |badominton|        | badominton        | bádminton                          |
 +---------------------+-------------------+------------------------------------+
 | |bareebooru|        | bareebooru        | voley                              |
 +---------------------+-------------------+------------------------------------+
@@ -35,7 +35,7 @@ Capítulo 8 - Resumen
 +---------------------+-------------------+------------------------------------+
 | |kaimono|           | kaimono           | compras                            |
 +---------------------+-------------------+------------------------------------+
-| |(iroiroina)_koto|  | (iroiroina) koto  | cosa                               |
+| |(iroirona)_koto|  | (iroirona) koto  | cosa                               |
 +---------------------+-------------------+------------------------------------+
 | |tegami|            | tegami            | carta                              |
 +---------------------+-------------------+------------------------------------+
@@ -157,13 +157,13 @@ Capítulo 8 - Resumen
 .. |kooen| replace:: こうえん
 .. |endoo| replace:: えんどう
 .. |sanpo| replace:: さんぽ
-.. |badomenton| replace:: バドミントン
+.. |badominton| replace:: バドミントン
 .. |bareebooru| replace:: バレーボール
 .. |pinpon| replace:: ピンポン
 .. |sooji| replace:: そうじ
 .. |sentaku| replace:: せんたく
 .. |kaimono| replace:: かいもの
-.. |(iroiroina)_koto| replace:: (いろいろな)　こと
+.. |(iroirona)_koto| replace:: (いろいろな)　こと
 .. |tegami| replace:: てがみ
 .. |piano| replace:: ピアノ
 .. |uta| replace:: うた

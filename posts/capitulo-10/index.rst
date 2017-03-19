@@ -95,7 +95,7 @@ Capítulo 10 - Resumen
 |                     |                   | en verbos                          |
 +---------------------+-------------------+------------------------------------+
 | |~juu|              | ~juu              | todo (usado para períodos de       |
-|                     |                   | tiempo), como en |juu_ejemplo|　　　|
+|                     |                   | tiempo), como en |juu_ejemplo|     |
 +---------------------+-------------------+------------------------------------+
 | |tenki|             | tenki             | tiempo/clima                       |
 +---------------------+-------------------+------------------------------------+
@@ -130,7 +130,7 @@ Capítulo 10 - Resumen
 .. |kikoo| replace:: きこう
 .. |kisetsu| replace:: きせつ
 .. |tsuki| replace:: {{% kanji furigana=つき %}}月{{% /kanji %}}
-.. |ichinenjuu| replace:: {{% kanji furigana=いち　年 %}}一{{% /kanji %}}
+.. |ichinenjuu| replace:: {{% kanji furigana=いち %}}一{{% /kanji %}}{{% kanji furigana=ねん %}}年{{% /kanji %}}じょう
 .. |tokai| replace:: とかい
 .. |tokoro| replace:: ところ
 .. |tabemono| replace:: たべもの
@@ -147,7 +147,7 @@ Capítulo 10 - Resumen
 .. |shinjuku| replace:: しんじゅく
 .. |ii| replace:: いい
 .. |warui| replace:: わるい
-.. |(ame_ga)_furu| replace:: {{% kanji furigana=あめ　が)　ふる %}}(雨{{% /kanji %}}
+.. |(ame_ga)_furu| replace:: {{% kanji furigana=あめ %}}雨{{% /kanji %}}が) ふる
 .. |(kaminariga)_naru| replace:: (かみなりが)　なる
 .. |(kazega)_fuku| replace:: かぜが　ふく
 .. |chigau| replace:: ちがう
@@ -156,17 +156,17 @@ Capítulo 10 - Resumen
 .. |kumoru| replace:: くもる
 .. |tabun| replace:: たぶん
 .. |ichiban| replace:: いちばん
-.. |to_(onaji)| replace:: {{% kanji furigana=おな　じ) %}}と　(同{{% /kanji %}}
+.. |to_(onaji)| replace:: と ({{% kanji furigana=おな %}}同{{% /kanji %}}じ)
 .. |deshoo| replace:: でしょう
 .. |~katta| replace:: ～かった
 .. |~juu| replace:: ～じゅう
-.. |tenki| replace:: {{% kanji furigana=てん　気 %}}天{{% /kanji %}}
+.. |tenki| replace:: {{% kanji furigana=てん %}}天{{% /kanji %}}{{% kanji furigana=き %}}気{{% /kanji %}}
 .. |machi| replace:: {{% kanji furigana=まち %}}町{{% /kanji %}}
 .. |ame| replace:: {{% kanji furigana=あめ %}}雨{{% /kanji %}}
 .. |kita| replace:: {{% kanji furigana=き %}}北{{% /kanji %}}た
 .. |minami| replace:: {{% kanji furigana=みなみ %}}南{{% /kanji %}}
 .. |kuni| replace:: {{% kanji furigana=くに %}}国{{% /kanji %}}
-.. |onaji| replace:: {{% kanji furigana=おな　じ %}}同{{% /kanji %}}
+.. |onaji| replace:: {{% kanji furigana=おな %}}同{{% /kanji %}}じ
 .. |yuki| replace:: {{% kanji furigana=ゆき %}}雪{{% /kanji %}}
 .. |higashi| replace:: {{% kanji furigana=ひがし %}}東{{% /kanji %}}
 .. |sora| replace:: {{% kanji furigana=そら %}}空{{% /kanji %}}
@@ -174,6 +174,6 @@ Capítulo 10 - Resumen
 .. |tookyoo| replace:: {{% kanji furigana=とう %}}東{{% /kanji %}} {{% kanji furigana=きょう %}}京{{% /kanji %}}
 .. |takai| replace:: {{% kanji furigana=たか %}}高{{% /kanji %}}い
 .. |to_| replace:: と
-.. |to_onaji_ejemplo| replace:: たべものは　日本のたべもの　と　同じ　です。
-.. |deshoo_ejemplo| replace:: あしたは　たぶん　いい　天気でしょう
+.. |to_onaji_ejemplo| replace:: たべものは　{{% kanji furigana=に %}}日{{% /kanji %}}{{% kanji furigana=ほん %}}本{{% /kanji %}}のたべもの　と　{{% kanji furigana=おな %}}同{{% /kanji %}}じ　です。
+.. |deshoo_ejemplo| replace:: あしたは　たぶん　いい　{{% kanji furigana=てん %}}天{{% /kanji %}}{{% kanji furigana=き %}}気{{% /kanji %}}でしょう
 .. |juu_ejemplo| replace:: {{% kanji furigana=いち %}}一{{% /kanji %}} {{% kanji furigana=ねん %}}年{{% /kanji %}} じゅう

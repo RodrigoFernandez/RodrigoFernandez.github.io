@@ -3,7 +3,7 @@
 .. date: 2017-01-01 20:41:03 UTC-03:00
 .. tags: japones, NihongoShojo
 .. category: idiomas
-.. link: 
+.. link:
 .. description: Resumen capítulo 7 del libro Nohongo Shojo
 .. type: text
 
@@ -14,17 +14,15 @@
 Capítulo 7 - Resumen
 ====================
 
-{{% color estilo=particula %}}esta es una prueba {{% color %}}
+La partícula {{% color estilo=particula %}} へ {{% /color %}} se usa para indicar la dirección del verbo ir. Por ejemplo:
 
-La partícula {{% color estilo=particula %}} へ {{% color %}} se usa para indicar la dirección del verbo ir. Por ejemplo:
+	あなたは　あした　どこ　{{% color estilo=particula %}}へ{{% /color %}}　いきますか。(A dónde va mañana?)
 
-	あなたは　あした　どこ　:raw-html:`<span class="particula">へ</span>`　いきますか。(A dónde va mañana?)
+	わたしは　{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}　{{% kanji furigana=はつ %}}二十{{% /kanji %}}{{% kanji furigana=か %}}日{{% /kanji %}}に　ちゅうがく　{{% color estilo=particula %}}から{{% /color %}}　{{% kanji furigana=に %}}日{{% /kanji %}}{{% kanji furigana=ほん %}}本{{% /kanji %}}　{{% color estilo=particula %}}へ{{% /color %}}　きました。
 
-	わたしは　三月　二十日に　ちゅうがく　:raw-html:`<span class="particula">から</span>`　日本　:raw-html:`<span class="particula">へ</span>`　きました。
+La dupla {{% color estilo=particula %}}から ... まで{{% /color %}} se usan para indicar desde donde hasta donde ocurre algo. Por ejemplo:
 
-La dupla :raw-html:`<span class="particula">から ... まで</span>` se usan para indicar desde donde hasta donde ocurre algo. Por ejemplo:
-
-	はるわ　三月く　:raw-html:`<span class="particula">から</span>`　五月く　:raw-html:`<span class="particula">まで</span>`　です。(La primavera es desde Marzo hasta Mayo)
+	はるわ　{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}く　{{% color estilo=particula %}}から{{% /color %}}　{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}く　{{% color estilo=particula %}}まで{{% /color %}}　です。(La primavera es desde Marzo hasta Mayo)
 
 +---------------------------+-------------------------+------------------------------+
 | |ashita|                  | ashita                  | mañana                       |
