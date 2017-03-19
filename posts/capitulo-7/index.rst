@@ -7,9 +7,6 @@
 .. description: Resumen capítulo 7 del libro Nohongo Shojo
 .. type: text
 
-.. role:: raw-html(raw)
-   :format: html
-
 ====================
 Capítulo 7 - Resumen
 ====================

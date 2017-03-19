@@ -7,12 +7,30 @@
 .. description: Resumen capítulo 8 del libro Nohongo Shojo
 .. type: text
 
-.. role:: raw-html(raw)
-   :format: html
-
 ====================
 Capítulo 8 - Resumen
 ====================
+
+Negativización de adjetivos
+---------------------------
+
+Una oración se puede hacer negativa negando el adjetivo en vez del verbo, de la siguiente forma según el tipo de verbo.
+
++--------+----------------+---------------+---------+----------------------+---------------+
+| Adjetivos i                             | Adjetivos no i                                 |
++--------+----------------+---------------+---------+----------------------+---------------+
+| |atsu| | |atsu_i|       | calor         | |joobu| |                      | durable       |
++--------+----------------+---------------+---------+----------------------+---------------+
+|  atsu  | |atsu_ku|      | hace calor    |         | |joobu| |joobu_desu| | es durable    |
++--------+----------------+---------------+---------+----------------------+---------------+
+|        | |atsu_katta|   | hizo calor    |         | |joobu_arimasen|     | no es durable |
++--------+----------------+---------------+---------+----------------------+---------------+
+|        | |atsu_kunai|   | no hace calor |         | |joobu_nai|          | no es durable |
++--------+----------------+---------------+---------+----------------------+---------------+
+|        | |atsu_nakatta| | no hizo calor |         | |joobu_deshita|      | no hizo calor |
++--------+----------------+---------------+---------+----------------------+---------------+
+|        |                |               |         | |joobu_datta|        | no hizo calor |
++--------+----------------+---------------+---------+----------------------+---------------+
 
 +---------------------+-------------------+------------------------------------+
 | |benkyoo|           | benkyoo           | estudio                            |
@@ -223,3 +241,17 @@ Capítulo 8 - Resumen
 .. |dokohemo_he| replace:: へ
 .. |dokohemo_mo| replace:: も
 .. |gata_anatagata| replace:: あなたがた
+
+.. |atsu| replace:: あつ
+.. |atsu_i| replace:: い (i)
+.. |atsu_ku| replace:: く (ku)
+.. |atsu_katta| replace:: かった (katta)
+.. |atsu_kunai| replace:: くない (kunai)
+.. |atsu_nakatta| replace:: くなかった (kunakatta)
+
+.. |joobu| じょうぶ (joobu)
+.. |joobu_desu| replace:: です (desu)
+.. |joobu_arimasen| replace:: では　ありません (dewa arimasen)
+.. |joobu_nai| replace:: では　ない (dewa nai)
+.. |joobu_deshita| replace:: でした (deshita)
+.. |joobu_datta| replace:: だった (datta)

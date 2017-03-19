@@ -2,9 +2,9 @@
 .. slug: capitulo-6
 .. date: 2016-09-19 23:08:55 UTC-03:00
 .. tags: japones, NihongoShojo
-.. category: idiomas 
-.. link: 
-.. description: Resumen capítulo 6 del libro Nohongo Shojo 
+.. category: idiomas
+.. link:
+.. description: Resumen capítulo 6 del libro Nohongo Shojo
 .. type: text
 
 .. role:: raw-html(raw)
@@ -35,7 +35,7 @@ En el ejemplo se estaba hablando de flores, entonces en este caso el の está r
 
 Cuando se usa el **で** luego de una cantidad, se está indicando la presencia de un conjunto de objetos, como en:
 
-	三本 :raw-html:`<span class="particula">で</span>`　三百円です。　(Un grupo de 3 son 300 yenes) 
+	三本 :raw-html:`<span class="particula">で</span>`　三百円です。　(Un grupo de 3 son 300 yenes)
 
 Cuando se listan adjetivos de un sustantivo el último adjetivo se escribe sin cambio, y a los adjetivos previos se les agrega al final:
 
@@ -105,7 +105,7 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 +----------------------------+--------------------------+-------------------------------------------------+
 | |kiree_na|                 | kiree na                 | bonito, bello, limpio                           |
 +----------------------------+--------------------------+-------------------------------------------------+
-| |joobu_na|                 | joobu na                 | saludable, fuerte                               |
+| |joobu_na|                 | joobu na                 | saludable, fuerte, durable                      |
 +----------------------------+--------------------------+-------------------------------------------------+
 | |kau_(kaimashita)_kudasai| | kau (kaimashita) kudasai | comprar (compró)                                |
 +----------------------------+--------------------------+-------------------------------------------------+
