@@ -3,7 +3,7 @@
 .. date: 2016-05-25 22:48:18 UTC-03:00
 .. tags: japones, NihongoShojo
 .. category: idiomas
-.. link: 
+.. link:
 .. description: Resumen capítulo 4 del libro Nohongo Shojo
 .. type: text
 
@@ -14,13 +14,15 @@
 Capítulo 4 - Resumen
 ====================
 
-En este capítulo se ve la diferencia del uso de los verbos いる　(iru) y
-ある　(aru).
+En este capítulo se ve la diferencia del uso de los verbos いる (iru) y
+ある (aru).
 
-**いる　(iru)** es el verbo haber/estar que se usa para las cosas moviles
+{{% color codigo=blue %}}いる (iru){{% /color %}} es el verbo haber/estar que se usa para las cosas moviles
 (personas, animales, etc., se mueven por sí misma, un auto no es algo móvil,
 necesita que alguien lo encienda). El negativo de いる es いません
-**ある　(aru)** es el verbo haber/estar que se usa para las cosas inmóviles.
+
+
+{{% color codigo=blue %}}**ある　(aru)**{{% /color %}} es el verbo haber/estar que se usa para las cosas inmóviles.
 
 +--------------+-------------+-----------------------------------------+
 | |ushiro|     | ushiro      | detrás, atrás, parte trasera            |
@@ -78,7 +80,7 @@ necesita que alguien lo encienda). El negativo de いる es いません
 | |donatamo|   | donatamo    | nadie ejempo:                           |
 |              |             | A: あそこに　どなたが　いますか。       |
 |              |             | (Allí hay alguien?)                     |
-|              |             | B: いええ、どなたも　いません。         |
+|              |             | B: いいえ、どなたも　いません。         |
 |              |             | (No, no hay nadie)                      |
 +--------------+-------------+-----------------------------------------+
 | |doremo|     | doremo      | nadie                                   |
@@ -129,7 +131,7 @@ necesita que alguien lo encienda). El negativo de いる es いません
 +----------+----------+----------+----------+---------+------------------+-----------+---------+-------------+-----------+
 | |ano|    | ano      | |are|    | are      | |asoko| | asoko (.. lugar) | |achira|  | achira  | aquel/la/lo | allá      |
 +----------+----------+----------+----------+---------+------------------+-----------+---------+-------------+-----------+
-| |dono|   | dono     | |dore|   | dore     | |doko|  | doko  (.. lugar) | |dochira| | dochira | cuál?                   | 
+| |dono|   | dono     | |dore|   | dore     | |doko|  | doko  (.. lugar) | |dochira| | dochira | cuál?                   |
 +----------+----------+----------+----------+---------+------------------+-----------+---------+-------------------------+
 | |donata| | donata   |                     |                            | quién/es                                      |
 +----------+----------+----------+----------+----------------------------+-----------------------------------------------+
@@ -138,6 +140,10 @@ necesita que alguien lo encienda). El negativo de いる es いません
 |                     | |nan|    | nan      | |nani|  | nani  (.. lugar) | qué?                                          |
 +----------+----------+----------+----------+----------------------------+-----------------------------------------------+
 
+
+.. image:: /images/puntos_cardinales.svg
+	:scale: 20 %
+	:align: center
 
 
 .. |ushiro| replace:: うしろ
