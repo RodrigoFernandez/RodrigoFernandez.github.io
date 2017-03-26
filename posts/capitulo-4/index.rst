@@ -22,7 +22,7 @@ En este capítulo se ve la diferencia del uso de los verbos いる (iru) y
 necesita que alguien lo encienda). El negativo de いる es いません
 
 
-{{% color codigo=blue %}}**ある　(aru)**{{% /color %}} es el verbo haber/estar que se usa para las cosas inmóviles.
+{{% color codigo=blue %}}ある (aru){{% /color %}} es el verbo haber/estar que se usa para las cosas inmóviles.
 
 +--------------+-------------+-----------------------------------------+
 | |ushiro|     | ushiro      | detrás, atrás, parte trasera            |
