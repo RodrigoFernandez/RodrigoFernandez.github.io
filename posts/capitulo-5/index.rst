@@ -3,7 +3,7 @@
 .. date: 2016-06-09 22:33:01 UTC-03:00
 .. tags: japones, NihongoShojo
 .. category: idiomas
-.. link: 
+.. link:
 .. description: Resumen capítulo 5 del libro Nohongo Shojo
 .. type: text
 
@@ -32,7 +32,7 @@ En este capítulo la estructura de las oraciones tiene esta forma:
 
 Donde *cantidad* está formada por un *valor X* + *sufijo contador*
 
-El *sufijo contador* debende del sustantivo de la oración, o sea del
+El *sufijo contador* depende del sustantivo de la oración, o sea del
 sustantivo que se está contando.
 
 -------
@@ -142,32 +142,33 @@ Números
 | |soo|        | soo        | así                                              |
 +--------------+------------+--------------------------------------------------+
 | |shika|      | shika      | Tan solo (relativo a un valor) y siempre le      |
-|              |            | sigue el verbo en negativo al final, ejemplo     |
+|              |            | sigue el verbo en negativo al final, ejemplo:    |
+|              |            | |shika_ejemplo|                                  |
 +--------------+------------+--------------------------------------------------+
-| |~nin|       | ~nin       | sufijo contando para cosas de forma irregular    |
+| |~nin|       | ~nin       | sufijo contador para cosas de forma irregular    |
 +--------------+------------+--------------------------------------------------+
 | |~tachi|      | ~tachi    | pluraliza el sustantivo que lo precede           |
 +--------------+------------+--------------------------------------------------+
-| |~mai|       | ~mai       | sufijo contando para cosas delgadas y planas     |
+| |~mai|       | ~mai       | sufijo contador para cosas delgadas y planas     |
 +--------------+------------+--------------------------------------------------+
-| |~dai|       | ~dai       | sufijo contando para máquinas y vehículos        |
+| |~dai|       | ~dai       | sufijo contador para máquinas y vehículos        |
 +--------------+------------+--------------------------------------------------+
-| |~satsu|     | ~satsu     | sufijo contando para encuadernaciones (libros y  |
+| |~satsu|     | ~satsu     | sufijo contador para encuadernaciones (libros y  |
 |              |            | cuadernos)                                       |
 +--------------+------------+--------------------------------------------------+
-| |~hon|       | ~hon       | sufijo contando para cosas cilíndricas y         |
+| |~hon|       | ~hon       | sufijo contador para cosas cilíndricas y         |
 |              |            | alargadas (lápices, botellas, árboles, etc.)     |
 +--------------+------------+--------------------------------------------------+
-| |~soku|      | ~soku      | sufijo contando para calzados (pares) (zapatos,  |
+| |~soku|      | ~soku      | sufijo contador para calzados (pares) (zapatos,  |
 |              |            | sandalias, medias, etc.)                         |
 +--------------+------------+--------------------------------------------------+
-| |~hiki|      | ~hiki      | sufijo contando para animales pequeños (perro,   |
+| |~hiki|      | ~hiki      | sufijo contador para animales pequeños (perro,   |
 |              |            | gato, etc.)                                      |
 +--------------+------------+--------------------------------------------------+
-| |~wa|        | ~wa        | sufijo contando para aves (gallina, paloma,      |
+| |~wa|        | ~wa        | sufijo contador para aves (gallina, paloma,      |
 |              |            | etc.)                                            |
 +--------------+------------+--------------------------------------------------+
-| |~ken|       | ~ken       | sufijo contando para inmuebles                   |
+| |~ken|       | ~ken       | sufijo contador para inmuebles                   |
 +--------------+------------+--------------------------------------------------+
 | |ko|         | ko         | niño (sustantivo)                                |
 +--------------+------------+--------------------------------------------------+
@@ -217,7 +218,7 @@ Sufijos contadores
 | |nanatsu|    | nanatsu    | 7 (con sufijo contador para cosas de forma       |
 |              |            | irregular) en modo kun                           |
 +--------------+------------+--------------------------------------------------+
-| |yatsutsu|   | yatsutsu   | 8 (con sufijo contador para cosas de forma       |
+| |yatsu|      | yatsu      | 8 (con sufijo contador para cosas de forma       |
 |              |            | irregular) en modo kun                           |
 +--------------+------------+--------------------------------------------------+
 | |kokonotsu|  | kokonotsu  | 9 (con sufijo contador para cosas de forma       |
@@ -264,6 +265,7 @@ Sufijos contadores
 .. |sukoshi| replace:: すこし
 .. |soo| replace:: そう
 .. |shika| replace:: しか
+.. |shika_ejemplo| replace:: みかんは　三つしか　ありません。= Tan solo hay 3 mandarinas
 .. |~nin| replace:: ~人
 .. |~tachi| replace:: ～たち
 .. |~mai| replace:: ～まい
@@ -298,7 +300,7 @@ Sufijos contadores
 .. |itsutsu| replace:: :raw-html:`<ruby><rb class="kanji">五</rb><rp>（</rp><rt class="furigana">いつ</rt><rp>）</rp></ruby>つ`
 .. |mutsutsu| replace:: :raw-html:`<ruby><rb class="kanji">六</rb><rp>（</rp><rt class="furigana">むつ</rt><rp>）</rp></ruby>つ`
 .. |nanatsu| replace:: :raw-html:`<ruby><rb class="kanji">七</rb><rp>（</rp><rt class="furigana">なな</rt><rp>）</rp></ruby>つ`
-.. |yatsutsu| replace:: :raw-html:`<ruby><rb class="kanji">八</rb><rp>（</rp><rt class="furigana">やつ</rt><rp>）</rp></ruby>つ`
+.. |yatsu| replace:: :raw-html:`<ruby><rb class="kanji">八</rb><rp>（</rp><rt class="furigana">やつ</rt><rp>）</rp></ruby>つ`
 .. |kokonotsu| replace:: :raw-html:`<ruby><rb class="kanji">九</rb><rp>（</rp><rt class="furigana">ここの</rt><rp>）</rp></ruby>つ`
 .. |too| replace:: :raw-html:`<ruby><rb class="kanji">十</rb><rp>（</rp><rt class="furigana">とお</rt><rp>）</rp></ruby>`
 .. |ko| replace:: :raw-html:`<ruby><rb class="kanji">子</rb><rp>（</rp><rt class="furigana">こ</rt><rp>）</rp></ruby>`
@@ -307,6 +309,6 @@ Sufijos contadores
 .. |yon_| replace:: :raw-html:`<ruby><rb class="kanji">四</rb><rp>（</rp><rt class="furigana">よん</rt><rp>）</rp></ruby>`:raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">にん</rt><rp>）</rp></ruby>`
 .. |kyuu_nin| replace:: :raw-html:`<ruby><rb class="kanji">九</rb><rp>（</rp><rt class="furigana">きゅう</rt><rp>）</rp></ruby>`:raw-html:`<ruby><rb class="kanji">人</rb><rp>（</rp><rt class="furigana">にん</rt><rp>）</rp></ruby>`
 .. |hon| replace:: :raw-html:`<ruby><rb class="kanji">本</rb><rp>（</rp><rt class="furigana">ほん</rt><rp>）</rp></ruby>`
-.. |ippon| replace:: ー　:raw-html:`<ruby><rb class="kanji">本</rb><rp>（</rp><rt class="furigana">いっぽん</rt><rp>）</rp></ruby>`
+.. |ippon| replace:: {{% kanji furigana=いっ %}}ー{{% /kanji %}}{{% kanji furigana=ぽん %}}本{{% /kanji %}}
 .. |yon_dai| replace:: :raw-html:`<ruby><rb class="kanji">四</rb><rp>（</rp><rt class="furigana">よん</rt><rp>）</rp></ruby>だい`
 .. |juusatsu| replace:: :raw-html:`<ruby><rb class="kanji">十</rb><rp>（</rp><rt class="furigana">じつ</rt><rp>）</rp></ruby>さつ`

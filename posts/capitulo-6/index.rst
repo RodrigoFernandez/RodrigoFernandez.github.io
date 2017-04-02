@@ -21,11 +21,11 @@ En este capítulo se ve la estructura de objeto directo y verbo transitivo.
 Donde la cantidad es opcional.
 Por ejemplo:
 
-	つめたい　水　を　一ぱい　ください。(Deme un vaso de agua fresca)
+	つめたい　{{% kanji furigana=みず %}}水{{% /kanji %}}　を　一ぱい　ください。(Deme un vaso de agua fresca)
 
 Cuando en una oración, que usa un verbo transitivo, hay una partícula で eso indica el lugar en donde ocurre la acción (es como en に con el verbo iru y aru). Por ejemplo:
 
-	わたしは　花や :raw-html:`<span class="particula">で</span>`　ばらの　花 :raw-html:`<span class="particula">を</span>`　かいました。(Compré rosas en la florería)
+	わたしは　{{% kanji furigana=はな %}}花{{% /kanji %}}や :raw-html:`<span class="particula">で</span>`　ばらの　{{% kanji furigana=はな %}}花{{% /kanji %}} :raw-html:`<span class="particula">を</span>`　かいました。(Compré rosas en la florería)
 
 Cuando se lista distintas especies de un mismo sustantivo se usa el **の** para reemplazar al sustantivo del cual se está hablando, como en:
 
@@ -35,7 +35,7 @@ En el ejemplo se estaba hablando de flores, entonces en este caso el の está r
 
 Cuando se usa el **で** luego de una cantidad, se está indicando la presencia de un conjunto de objetos, como en:
 
-	三本 :raw-html:`<span class="particula">で</span>`　三百円です。　(Un grupo de 3 son 300 yenes)
+	{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=ぼん %}}本{{% /kanji %}} :raw-html:`<span class="particula">で</span>`　{{% kanji furigana=さんびゃく %}}三百{{% /kanji %}}{{% kanji furigana=えん %}}円{{% /kanji %}}です。　(Un grupo de 3 son 300 yenes)
 
 Cuando se listan adjetivos de un sustantivo el último adjetivo se escribe sin cambio, y a los adjetivos previos se les agrega al final:
 
@@ -120,7 +120,7 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 | |(akai)_no|                | (akai) no                | el |_no| sustituye al sustantivo que se está    |
 |                            |                          | describiendo                                    |
 +----------------------------+--------------------------+-------------------------------------------------+
-| |wo|                       | wo                       | partícula que va luego de un sustantivo que     |
+| |wo|                       | o                        | partícula que va luego de un sustantivo que     |
 |                            |                          | indica el objeto directo del verbo transitivo   |
 |                            |                          | que viene luego de la partícula                 |
 +----------------------------+--------------------------+-------------------------------------------------+
@@ -130,7 +130,7 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 +----------------------------+--------------------------+-------------------------------------------------+
 | |gurai|                    | gurai                    | aproximadamente (más o menos)                   |
 +----------------------------+--------------------------+-------------------------------------------------+
-| |(yasui)te|                | (yasui)te                | el |_te| es una partícula usada cuando se       |
+| |(yasui)te|                | (yasuku)te               | el |_te| es una partícula usada cuando se       |
 |                            |                          | enumeran adjetivos sobre un sustantivo          |
 +----------------------------+--------------------------+-------------------------------------------------+
 | |(hanaya)de|               | (hanaya)de               | el |_de| es una partícula, usada con verbos     |
@@ -168,6 +168,8 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 +----------------------------+--------------------------+-------------------------------------------------+
 | |mizu|                     | mizu                     | agua (fría, fresca)                             |
 +----------------------------+--------------------------+-------------------------------------------------+
+| Contador de vasos de líquido |hai|                                                                      |
++----------------------------+--------------------------+-------------------------------------------------+
 | |ippai|                    | ippai                    | 1 vaso                                          |
 +----------------------------+--------------------------+-------------------------------------------------+
 | |nihai|                    | nihai                    | 2 vasos                                         |
@@ -190,6 +192,10 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 +----------------------------+--------------------------+-------------------------------------------------+
 | |nanpai|                   | nanpai                   | ¿cuántos vasos?                                 |
 +----------------------------+--------------------------+-------------------------------------------------+
+
+
+En este link hay una mejor explicación sobre: `objeto directo <https://es.wikipedia.org/wiki/Objeto_directo>`_
+En este link hay una mejor explicación sobre: `verbo transitivo <https://es.wikipedia.org/wiki/Transitividad_(gram%C3%A1tica)>`_
 
 .. |bara| replace:: ばら
 .. |mise| replace:: みせ
@@ -227,7 +233,7 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 .. |(zsenbu)de| replace:: (ぜんぶ)で
 .. |gurai| replace:: ぐらい
 .. |(yasui)te| replace:: (やすく)て
-.. |(hanaya)de| replace:: (花や)で
+.. |(hanaya)de| replace:: ({{% kanji furigana=はな %}}花{{% /kanji %}}や)で
 .. |ne| replace:: ね
 .. |masu| replace:: ます
 .. |(mashi)_ta| replace:: (まし)　た
@@ -239,19 +245,20 @@ Y en el caso de tener que negar un verbo en pasado, este terminaria en: **ませ
 .. |hyaku| replace:: :raw-html:`<ruby><rb class="kanji">百</rb><rp>（</rp><rt class="furigana">ひゃく</rt><rp>）</rp></ruby>`
 .. |en| replace:: :raw-html:`<ruby><rb class="kanji">円</rb><rp>（</rp><rt class="furigana">えん</rt><rp>）</rp></ruby>`
 .. |sen| replace:: :raw-html:`<ruby><rb class="kanji">千</rb><rp>（</rp><rt class="furigana">せん</rt><rp>）</rp></ruby>`
-.. |okane| replace:: :raw-html:`<ruby><rb class="kanji">お　金</rb><rp>（</rp><rt class="furigana">かね</rt><rp>）</rp></ruby>`
+.. |okane| replace:: お{{% kanji furigana=かね %}}金{{% /kanji %}}
 .. |ichi_man| replace:: :raw-html:`<ruby><rb class="kanji">(ー)</rb><rp>（</rp><rt class="furigana">いち</rt><rp>）</rp></ruby>万`
 .. |mizu| replace:: :raw-html:`<ruby><rb class="kanji">水</rb><rp>（</rp><rt class="furigana">みず</rt><rp>）</rp></ruby>`
-.. |ippai| replace:: いっぱい
-.. |nihai| replace:: にはい
-.. |sanbai| replace:: さんばい
-.. |yonhai| replace:: よんはい
-.. |gohai| replace:: ごはい
-.. |roppai| replace:: ろっぱい
-.. |nanahai| replace:: ななはい
-.. |happai| replace:: はっぱい
-.. |kyuuhai| replace:: きゅうはい
-.. |juppai| replace:: じゅっぱい
+.. |hai| replace:: はい
+.. |ippai| replace:: {{% kanji furigana=いっ %}}一{{% /kanji %}}ぱい
+.. |nihai| replace:: {{% kanji furigana=に %}}二{{% /kanji %}}はい
+.. |sanbai| replace:: {{% kanji furigana=さん %}}三{{% /kanji %}}ばい
+.. |yonhai| replace:: {{% kanji furigana=よん %}}四{{% /kanji %}}はい
+.. |gohai| replace:: {{% kanji furigana=ご %}}五{{% /kanji %}}はい
+.. |roppai| replace:: {{% kanji furigana=ろっ %}}六{{% /kanji %}}ぱい
+.. |nanahai| replace:: {{% kanji furigana=なな %}}七{{% /kanji %}}はい
+.. |happai| replace:: {{% kanji furigana=はっ %}}八{{% /kanji %}}ぱい
+.. |kyuuhai| replace:: {{% kanji furigana=きゅう %}}九{{% /kanji %}}はい
+.. |juppai| replace:: {{% kanji furigana=じゅっ %}}十{{% /kanji %}}ぱい
 .. |nanpai| replace:: なんぱい
 .. |_no| replace:: の
 .. |_de| replace:: で

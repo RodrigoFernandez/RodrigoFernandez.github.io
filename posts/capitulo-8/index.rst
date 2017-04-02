@@ -19,7 +19,7 @@ Una oración se puede hacer negativa negando el adjetivo en vez del verbo, de la
 +--------+----------------+---------------+---------+----------------------+---------------+
 | Adjetivos i                             | Adjetivos no i                                 |
 +--------+----------------+---------------+---------+----------------------+---------------+
-| |atsu| | |atsu_i|       | calor         | |joobu| |                      | durable       |
+| |atsu| | |atsu_i|       | caluroso      | |joobu| |                      | durable       |
 +--------+----------------+---------------+---------+----------------------+---------------+
 |  atsu  | |atsu_ku|      | hace calor    |         | |joobu_desu|         | es durable    |
 +--------+----------------+---------------+---------+----------------------+---------------+
@@ -53,7 +53,7 @@ Una oración se puede hacer negativa negando el adjetivo en vez del verbo, de la
 +---------------------+-------------------+------------------------------------+
 | |kaimono|           | kaimono           | compras                            |
 +---------------------+-------------------+------------------------------------+
-| |(iroirona)_koto|   | (iroirona) koto   | cosa                               |
+| |(iroirona)_koto|   | (iroirona) koto   | cosa (diferentes cosas)            |
 +---------------------+-------------------+------------------------------------+
 | |tegami|            | tegami            | carta                              |
 +---------------------+-------------------+------------------------------------+
@@ -147,7 +147,16 @@ Una oración se puede hacer negativa negando el adjetivo en vez del verbo, de la
 |                     |                   | |gata_anatagata| = ustedes         |
 +---------------------+-------------------+------------------------------------+
 | |~kai|              | ~kai              | sufijo contador de veces que       |
-| |~kai|              | ~kai              | ocurre algo                        |
+|                     |                   | ocurre algo                        |
++---------------------+-------------------+------------------------------------+
+| |iku|               | iku (ikumasu)     | ir                                 |
++---------------------+-------------------+------------------------------------+
+| |miru_(mimasu)|     | miru (mimasu)     | mirar                              |
++---------------------+-------------------+------------------------------------+
+| |mai|               | mai               | todo (adverbio), por ejemplo       |
+|                     |                   | |mainichi| todos los días          |
++---------------------+-------------------+------------------------------------+
+| Días de la semana                                                            |
 +---------------------+-------------------+------------------------------------+
 | |doyoobi|           | doyoobi           | sábado                             |
 +---------------------+-------------------+------------------------------------+
@@ -163,13 +172,7 @@ Una oración se puede hacer negativa negando el adjetivo en vez del verbo, de la
 +---------------------+-------------------+------------------------------------+
 | |nichiyoobi|        | nichiyoobi        | domingo                            |
 +---------------------+-------------------+------------------------------------+
-| |iku|               | iku               | ir                                 |
-+---------------------+-------------------+------------------------------------+
-| |miru_(mimasu)|     | miru (mimasu)     | mirar                              |
-+---------------------+-------------------+------------------------------------+
-| |mai|               | mai               | todo (adverbio), por ejemplo       |
-|                     |                   | |mainichi| todos los días          |
-+---------------------+-------------------+------------------------------------+
+
 
 .. |benkyoo| replace:: べんきょう
 .. |kooen| replace:: こうえん
@@ -232,7 +235,7 @@ Una oración se puede hacer negativa negando el adjetivo en vez del verbo, de la
 .. |suiyoobi| replace:: {{% kanji furigana=すい %}}水{{% /kanji %}}よう{{% kanji furigana=び %}}日{{% /kanji %}}
 .. |mokuyoobi| replace:: {{% kanji furigana=もく %}}木{{% /kanji %}}よう{{% kanji furigana=び %}}日{{% /kanji %}}
 .. |nichiyoobi| replace:: {{% kanji furigana=にち %}}日{{% /kanji %}}よう{{% kanji furigana=び %}}日{{% /kanji %}}
-.. |iku| replace:: {{% kanji furigana=い %}}行{{% /kanji %}}く
+.. |iku| replace:: {{% kanji furigana=い %}}行{{% /kanji %}}く ({{% kanji furigana=い %}}行{{% /kanji %}}ます)
 .. |miru_(mimasu)| replace:: {{% kanji furigana=み %}}見{{% /kanji %}}{{% kanji furigana=み %}}る　(見{{% /kanji %}}ます)
 .. |mai| replace:: {{% kanji furigana=まい %}}毎{{% /kanji %}}
 .. |mainichi| replace:: {{% kanji furigana=まい %}}毎{{% /kanji %}}{{% kanji furigana=にち %}}日{{% /kanji %}}

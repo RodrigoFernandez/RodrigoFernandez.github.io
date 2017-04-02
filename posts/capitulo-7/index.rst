@@ -15,11 +15,10 @@ La partícula {{% color estilo=particula %}} へ {{% /color %}} se usa para indi
 
 	あなたは　あした　どこ　{{% color estilo=particula %}}へ{{% /color %}}　いきますか。(A dónde va mañana?)
 
-	わたしは　{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}　{{% kanji furigana=はつ %}}二十{{% /kanji %}}{{% kanji furigana=か %}}日{{% /kanji %}}に　ちゅうがく　{{% color estilo=particula %}}から{{% /color %}}　{{% kanji furigana=に %}}日{{% /kanji %}}{{% kanji furigana=ほん %}}本{{% /kanji %}}　{{% color estilo=particula %}}へ{{% /color %}}　きました。
-
+	わたしは　{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}　{{% kanji furigana=はつ %}}二十{{% /kanji %}}{{% kanji furigana=か %}}日{{% /kanji %}}に　ちゅうがく　{{% color estilo=particula %}}から{{% /color %}}　{{% kanji furigana=に %}}日{{% /kanji %}}{{% kanji furigana=ほん %}}本{{% /kanji %}}　{{% color estilo=particula %}}へ{{% /color %}}　きました。(Hay rojas también blancas también amarillas.)
 La dupla {{% color estilo=particula %}}から ... まで{{% /color %}} se usan para indicar desde donde hasta donde ocurre algo. Por ejemplo:
 
-	はるわ　{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}く　{{% color estilo=particula %}}から{{% /color %}}　{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}く　{{% color estilo=particula %}}まで{{% /color %}}　です。(La primavera es desde Marzo hasta Mayo)
+	はるは　{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}く　{{% color estilo=particula %}}から{{% /color %}}　{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}く　{{% color estilo=particula %}}まで{{% /color %}}　です。(La primavera es desde Marzo hasta Mayo)
 
 +---------------------------+-------------------------+------------------------------+
 | |ashita|                  | ashita                  | mañana                       |
@@ -137,6 +136,8 @@ La dupla {{% color estilo=particula %}}から ... まで{{% /color %}} se usan p
 +---------------------------+-------------------------+------------------------------+
 | |kyooto|                  | kyooto                  | Kioto                        |
 +---------------------------+-------------------------+------------------------------+
+| Días del mes                                                                       |
++---------------------------+-------------------------+------------------------------+
 | |suitachi|                | suitachi                | día 1                        |
 +---------------------------+-------------------------+------------------------------+
 | |futsuka|                 | futsuka                 | día 2                        |
@@ -198,6 +199,8 @@ La dupla {{% color estilo=particula %}}から ... まで{{% /color %}} se usan p
 | |san_juu_nichi|           | san juu nichi           | día 30                       |
 +---------------------------+-------------------------+------------------------------+
 | |san_juu_ichi_nichi|      | san juu ichi nichi      | día 31                       |
++---------------------------+-------------------------+------------------------------+
+| Meses                                                                              |
 +---------------------------+-------------------------+------------------------------+
 | |ichi_gatsu|              | ichi gatsu              | enero                        |
 +---------------------------+-------------------------+------------------------------+
