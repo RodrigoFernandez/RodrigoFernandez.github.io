@@ -16,6 +16,7 @@ La partícula {{% color estilo=particula %}} へ {{% /color %}} se usa para indi
 	あなたは　あした　どこ　{{% color estilo=particula %}}へ{{% /color %}}　いきますか。(A dónde va mañana?)
 
 	わたしは　{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}　{{% kanji furigana=はつ %}}二十{{% /kanji %}}{{% kanji furigana=か %}}日{{% /kanji %}}に　ちゅうがく　{{% color estilo=particula %}}から{{% /color %}}　{{% kanji furigana=に %}}日{{% /kanji %}}{{% kanji furigana=ほん %}}本{{% /kanji %}}　{{% color estilo=particula %}}へ{{% /color %}}　きました。(Hay rojas también blancas también amarillas.)
+
 La dupla {{% color estilo=particula %}}から ... まで{{% /color %}} se usan para indicar desde donde hasta donde ocurre algo. Por ejemplo:
 
 	はるは　{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}く　{{% color estilo=particula %}}から{{% /color %}}　{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=がつ %}}月{{% /kanji %}}く　{{% color estilo=particula %}}まで{{% /color %}}　です。(La primavera es desde Marzo hasta Mayo)
