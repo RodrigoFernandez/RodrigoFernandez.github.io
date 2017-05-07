@@ -11,9 +11,10 @@
 Capítulo 9 - Resumen
 ====================
 
-Se puede convertir un adjetivo en un advervio, en castellano, se lo convierte agregándole la terminación *mente*.
-En japonés, los adjetivos de tipo i se reeamplaza la i (い) por ku (く).
-Y los adjetivos no i se agrega la partículoa ni.
+Se puede convertir un adjetivo en un advervio, en castellano, se lo convierte agregándole la terminación *mente*, por ejemplo, rápido -> rápida*mente*.
+
+En japonés, los adjetivos de tipo *i* se reeamplaza la i (い) por ku (く).
+Y en los adjetivos *no i* se agrega la partícula ni (に).
 
 En este link hay una mejor explicación: `adjetivos a advervios <https://nihongonobenkyou.jimdo.com/lecciones/lecci%C3%B3n-9-adverbios/>`_
 
@@ -26,11 +27,16 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 +-----------------------+---------------------+--------------------------------+
 | |go_fun_mae|          | go fun mae          | 5 minutos adelantado           |
 +-----------------------+---------------------+--------------------------------+
+| |mai|                 | mai                 | todos/todas                    |
++-----------------------+---------------------+--------------------------------+
 | |mai_asa|             | mai asa             | todas las mañanas              |
 +-----------------------+---------------------+--------------------------------+
 | |yoru|                | yoru                | noche                          |
 +-----------------------+---------------------+--------------------------------+
 | |mai_ban|             | mai ban             | todas las noches               |
++-----------------------+---------------------+--------------------------------+
+| |ban|                 | ban                 | noche, como |yoru|, pero se    |
+|                       |                     | usa en ciertos casos           |
 +-----------------------+---------------------+--------------------------------+
 | |jugyo|               | jugyo               | clase                          |
 +-----------------------+---------------------+--------------------------------+
@@ -118,13 +124,11 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 +-----------------------+---------------------+--------------------------------+
 | |matsu_(matte)|       | matsu (matte)       | esperar                        |
 +-----------------------+---------------------+--------------------------------+
-| |moo|                 | moo                 | ya (es el ya usado en la       |
-|                       |                     | oración, ¿ya se hicieron las   |
-|                       |                     | 16hs?)                         |
+| |moo|                 | moo                 | ya, por ejemplo:               |
+|                       |                     | |moo_ejemplo|                  |
 +-----------------------+---------------------+--------------------------------+
-| |mada|                | mada                | aún/todavía (usado en la       |
-|                       |                     | la oración, aún no son las     |
-|                       |                     | 16hs.)                         |
+| |mada|                | mada                | aún/todavía, por ejemplo:      |
+|                       |                     | |mada_ejemplo|                 |
 +-----------------------+---------------------+--------------------------------+
 | |(arui)_te|           | (arui) te           | caminando                      |
 +-----------------------+---------------------+--------------------------------+
@@ -143,7 +147,8 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 | |~sugi|               | ~sugi               | con los minutos precedentes    |
 |                       |                     | indica cuanto se pasó de una   |
 |                       |                     | hora en particular (viene del  |
-|                       |                     | verbo |sugiru|)                |
+|                       |                     | verbo |sugiru|), por ejemplo:  |
+|                       |                     | |sugi_ejemplo|                 |
 +-----------------------+---------------------+--------------------------------+
 | |sugiru|              | sugiru              | pasar/ir más allá/transcurrir/ |
 |                       |                     | rebasar                        |
@@ -154,7 +159,11 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 | |~mae|                | ~mae                | con los minutos precediéndolo  |
 |                       |                     | indica cuantos minutos antes   |
 |                       |                     | de una hora se está (indica    |
-|                       |                     | antes, anterior)               |
+|                       |                     | antes, anterior), por ejemplo: |
+|                       |                     | |mae_ejemplo|                  |
++-----------------------+---------------------+--------------------------------+
+| |choodo|              | choodo              | justo, como por ejemplo:       |
+|                       |                     | |choodo_ejemplo|               |
 +-----------------------+---------------------+--------------------------------+
 | |~jikan|              | ~jikan              | con un número precediéndolo    |
 |                       |                     | indica una cantidad de horas   |
@@ -195,11 +204,180 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 | |han_toshi|           | han toshi           | medio año                      |
 +-----------------------+---------------------+--------------------------------+
 
++---------------------+-------------------+------------------------------------+
+| {{% color codigo=SlateGrey %}}Hora{{% /color %}}                             |
++---------------------+-------------------+------------------------------------+
+| |ichi_ji|           | ichi ji           | 1 hs                               |
++---------------------+-------------------+------------------------------------+
+| |ni_ji|             | ni ji             | 2 hs                               |
++---------------------+-------------------+------------------------------------+
+| |san_ji|            | san ji            | 3 hs                               |
++---------------------+-------------------+------------------------------------+
+| |shi_ji|            | shi ji            | 4 hs                               |
++---------------------+-------------------+------------------------------------+
+| |go_ji|             | go ji             | 5 hs                               |
++---------------------+-------------------+------------------------------------+
+| |roku_ji|           | roku ji           | 6 hs                               |
++---------------------+-------------------+------------------------------------+
+| |shichi_ji|         | shichi ji         | 7 hs                               |
++---------------------+-------------------+------------------------------------+
+| |hachi_ji|          | hachi ji          | 8 hs                               |
++---------------------+-------------------+------------------------------------+
+| |ku_ji|             | ku ji             | 9 hs                               |
++---------------------+-------------------+------------------------------------+
+| |juu_ji|            | juu ji            | 10 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_ichi_ji|       | juu ichi ji       | 11 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_ni_ji|         | juu ni ji         | 12 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_san_ji|        | juu san ji        | 13 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_shi_ji|        | juu shi ji        | 14 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_go_ji|         | juu go ji         | 15 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_roku_ji|       | juu roku ji       | 16 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_shichi_ji|     | juu shichi ji     | 17 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_hachi_ji|      | juu hachi ji      | 18 hs                              |
++---------------------+-------------------+------------------------------------+
+| |juu_ku_ji|         | juu ku ji         | 19 hs                              |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_ji|         | ni juu ji         | 20 hs                              |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_ichi_ji|    | ni juu ichi ji    | 21 hs                              |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_ni_ji|      | ni juu ni ji      | 22 hs                              |
++---------------------+-------------------+------------------------------------+
+| {{% color codigo=SlateGrey %}}Minutos{{% /color %}}                          |
++---------------------+-------------------+------------------------------------+
+| |ippun|             | ippun             | 1 minuto                           |
++---------------------+-------------------+------------------------------------+
+| |ni_fun|            | ni fun            | 2 minutos                          |
++---------------------+-------------------+------------------------------------+
+| |san_pun|           | san pun           | 3 minutos                          |
++---------------------+-------------------+------------------------------------+
+| |shi_bun|           | shi bun           | 4 minutos                          |
++---------------------+-------------------+------------------------------------+
+| |go_fun|            | go fun            | 5 minutos                          |
++---------------------+-------------------+------------------------------------+
+| |roppun|            | roppun            | 6 minutos                          |
++---------------------+-------------------+------------------------------------+
+| |nana_fun|          | nana fun          | 7 minutos                          |
++---------------------+-------------------+------------------------------------+
+| |happun|            | happun            | 8 minutos                          |
++---------------------+-------------------+------------------------------------+
+| |kyuu_fun|          | kyuu fun          | 9 minutos                          |
++---------------------+-------------------+------------------------------------+
+| |juppun|            | juppun            | 10 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_ippun|         | juu ippun         | 11 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_ni_fun|        | juu ni fun        | 12 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_san_pun|       | juu san pun       | 13 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_shi_bun|       | juu ni ji         | 14 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_go_fun|        | juu ni ji         | 15 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_roppun|        | juu ni ji         | 16 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_nana_fun|      | juu ni ji         | 17 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_happun|        | juu ni ji         | 18 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |juu_kyuu_fun|      | juu ni ji         | 19 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juppun|         | ni juppun         | 20 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_ippun|      | ni juu ippun      | 21 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_ni_fun|     | ni juu ni fun     | 22 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_san_pun|    | ni juu san pun    | 23 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_shi_bun|    | ni juu shi bun    | 24 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_go_fun|     | ni juu go fun     | 25 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_roppun|     | ni juu roppun     | 26 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_nana_fun|   | ni juu nana fun   | 27 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_happun|     | ni juu happun     | 28 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |ni_juu_kyuu_fun|   | ni juu kyuu fun   | 29 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juppun|        | san juppun        | 30 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_ippun|     | san juu ippun     | 31 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_ni_fun|    | san juu ni fun    | 32 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_san_pun|   | san juu san pun   | 33 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_shi_bun|   | san juu shi bun   | 34 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_go_fun|    | san juu go fun    | 35 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_roppun|    | san juu roppun    | 36 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_nana_fun|  | san juu nana fun  | 37 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_happun|    | san juu happun    | 38 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |san_juu_kyuu_fun|  | san juu kyuu fun  | 39 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juppun|        | yon juppun        | 40 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_ippun|     | yon juu ippun     | 41 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_ni_fun|    | yon juu ni fun    | 42 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_san_pun|   | yon juu san pun   | 43 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_shi_bun|   | yon juu shi bun   | 44 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_go_fun|    | yon juu go fun    | 45 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_roppun|    | yon juu roppun    | 46 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_nana_fun|  | yon juu nana fun  | 47 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_happun|    | yon juu happun    | 48 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |yon_juu_kyuu_fun|  | yon juu kyuu fun  | 49 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juppun|         | gon jupuun        | 50 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_ippun|      | gon juu ippun     | 51 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_ni_fun|     | gon juu ni fun    | 52 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_san_pun|    | gon juu san pun   | 53 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_shi_bun|    | gon juu shi bun   | 54 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_go_fun|     | gon juu go fun    | 55 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_roppun|     | gon juu roppun    | 56 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_nana_fun|   | gon juu nana fun  | 57 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_happun|     | gon juu happun    | 58 minutos                         |
++---------------------+-------------------+------------------------------------+
+| |go_juu_kyuu_fun|   | gon juu kyuu fun  | 59 minutos                         |
++---------------------+-------------------+------------------------------------+
+
 .. |asa| replace:: あさ
 .. |ku_ji| replace:: 九時
-.. |go_fun_sugi| replace:: 五分すぎ
-.. |go_fun_mae| replace:: 五分まえ
-.. |mai_asa| replace:: 毎あさ
+.. |go_fun_sugi| replace:: {{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}すぎ
+.. |go_fun_mae| replace:: {{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}まえ
+.. |mai| replace:: {{% kanji furigana=まい %}}毎{{% /kanji %}}
+.. |mai_asa| replace:: {{% kanji furigana=まい %}}毎{{% /kanji %}}あさ
 .. |yoru| replace:: よる
 .. |mai_ban| replace:: {{% kanji furigana=まい %}}毎{{% /kanji %}}ばん
 .. |jugyo| replace:: じゅぎょう
@@ -218,7 +396,7 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 .. |karada| replace:: からだ
 .. |machi| replace:: まち
 .. |oto| replace:: おと
-.. |roku_juu_byoo| replace:: 六十びょう
+.. |roku_juu_byoo| replace:: {{% kanji furigana=ろく %}}六{{% /kanji %}}{{% kanji furigana=じゅう %}}十{{% /kanji %}}びょう
 .. |han_nen| replace:: {{% kanji furigana=はん %}}半{{% /kanji %}}{{% kanji furigana=ねん %}}年{{% /kanji %}}
 .. |yukiko| replace:: ゆきこ
 .. |donogurai| replace:: どのぐらい
@@ -240,21 +418,28 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 .. |nuru_(nurimasu)| replace:: ぬる　(ぬります)
 .. |matsu_(matte)| replace:: まつ　(まって)
 .. |moo| replace:: もう
+.. |moo_ejemplo| replace:: もう　ごご　四時に　なりましたか。(¿ya se hicieron las 16hs?)
 .. |mada| replace:: まだ
+.. |mada_ejemplo| replace:: まだ　四時には　なりません。(aún no son las 16hs.)
 .. |(arui)_te| replace:: (あるい)　て
 .. |(basu)_de| replace:: (バス)　で
 .. |de| replace:: で
-.. |ejemplo_de| replace:: わたしの　うちから {{% kanji furigana=がっ %}}学{{% /kanji %}}{{% kanji furigana=こう %}}校{{% /kanji %}} まで　バスで　十五分か　二十分ぐらい　かかります。= Desde mi casa a la escuela en autobús demoro entre 15 y 20 minutos.
+.. |ejemplo_de| replace:: わたしの　うちから {{% kanji furigana=がっ %}}学{{% /kanji %}}{{% kanji furigana=こう %}}校{{% /kanji %}} まで　*バスで*　十五分か　二十分ぐらい　かかります。= Desde mi casa a la escuela *en autobús* demoro entre 15 y 20 minutos.
 .. |goro| replace:: ごろ
-.. |~ji| replace:: ～時
-.. |~fun| replace:: ～分
+.. |~ji| replace:: ～{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |~fun| replace:: ～{{% kanji furigana=ふん %}}分{{% /kanji %}}
 .. |~sugi| replace:: ～すぎ
+.. |sugi_ejemplo| replace:: {{% kanji furigana=いま %}}今{{% /kanji %}} {{% kanji furigana=く %}}九{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}} {{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}} すぎです。(Ahora son 5 minutos pasados de las 9hs.)
 .. |sugiru| replace:: すぎる
-.. |~han| replace:: ～半
+.. |~han| replace:: ～{{% kanji furigana=はん %}}半{{% /kanji %}}
 .. |~mae| replace:: ～まえ
+.. |mae_ejemplo| replace:: {{% kanji furigana=いま %}}今{{% /kanji %}} {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}　{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}　まえです。(Ahora son 5 minutos antes de las 10hs.)
+.. |choodo| replace:: ちょうど
+.. |choodo_ejemplo| replace:: ちょうど　{{% kanji furigana=く %}}九{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}{{% kanji furigana=はん %}}半{{% /kanji %}}です。(Justo son 9 y media horas.)
+
 .. |~jikan| replace:: ～じかん
 .. |~byoo| replace:: ～びょう
-.. |~tsuki| replace:: ～月　(つき)
+.. |~tsuki| replace:: ～{{% kanji furigana=つき %}}月{{% /kanji %}}　(つき)
 .. |~katsuki| replace:: ～か {{% kanji furigana=つき %}}月{{% /kanji %}}
 .. |hayai| replace:: {{% kanji furigana=はや %}}早{{% /kanji %}}い
 .. |ima| replace:: {{% kanji furigana=いま %}}今{{% /kanji %}}
@@ -270,3 +455,86 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 .. |hito_tsuki| replace:: {{% kanji furigana=ひと %}}一{{% /kanji %}} {{% kanji furigana=つき %}}月{{% /kanji %}}
 .. |hito_tsuki_como| replace:: {{% kanji furigana=いち %}}一{{% /kanji %}} か {{% kanji furigana=がつ %}}月{{% /kanji %}}
 .. |han_toshi| replace:: {{% kanji furigana=はん %}}半{{% /kanji %}}{{% kanji furigana=とし %}}年{{% /kanji %}}
+
+.. |ichi_ji| replace:: {{% kanji furigana=いち %}}一{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |ni_ji| replace:: {{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |san_ji| replace:: {{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |shi_ji| replace:: {{% kanji furigana=し %}}四{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |go_ji| replace:: {{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |roku_ji| replace:: {{% kanji furigana=ろく %}}六{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |shichi_ji| replace:: {{% kanji furigana=しち %}}七{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |hachi_ji| replace:: {{% kanji furigana=はち %}}八{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |ku_ji| replace:: {{% kanji furigana=く %}}九{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_ichi_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=いち %}}一{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_ni_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_san_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_shi_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=し %}}四{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_go_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_roku_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=ろく %}}六{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_shichi_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=しち %}}七{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_hachi_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=はち %}}八{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |juu_ku_ji| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=く %}}九{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |ni_juu_ji| replace:: {{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |ni_juu_ichi_ji| replace:: {{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=いち %}}一{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+.. |ni_juu_ni_ji| replace:: {{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=じ %}}時{{% /kanji %}}
+
+.. |ippun| replace:: {{% kanji furigana=いっ %}}一{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |ni_fun| replace:: {{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |san_pun| replace:: {{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |shi_bun| replace:: {{% kanji furigana=し %}}四{{% /kanji %}}{{% kanji furigana=ぶん %}}分{{% /kanji %}}
+.. |go_fun| replace:: {{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |roppun| replace:: {{% kanji furigana=ろっ %}}六{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |nana_fun| replace:: {{% kanji furigana=なな %}}七{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |happun| replace:: {{% kanji furigana=はっ %}}八{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |kyuu_fun| replace:: {{% kanji furigana=きゅう %}}九{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |juppun| replace:: {{% kanji furigana=じゅっ %}}十{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |juu_ippun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=いっ %}}一{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |juu_ni_fun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |juu_san_pun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |juu_shi_bun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=し %}}四{{% /kanji %}}{{% kanji furigana=ぶん %}}分{{% /kanji %}}
+.. |juu_go_fun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |juu_roppun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=ろっ %}}六{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |juu_nana_fun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=なな %}}七{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |juu_happun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=はっ %}}八{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |juu_kyuu_fun| replace:: {{% kanji furigana=じゅう %}}十{{% /kanji %}}{{% kanji furigana=きゅう %}}九{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |ni_juppun| replace:: {{% kanji furigana=にじゅっ %}}二十{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |ni_juu_ippun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=いっ %}}一{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |ni_juu_ni_fun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |ni_juu_san_pun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |ni_juu_shi_bun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=し %}}四{{% /kanji %}}{{% kanji furigana=ぶん %}}分{{% /kanji %}}
+.. |ni_juu_go_fun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |ni_juu_roppun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=ろっ %}}六{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |ni_juu_nana_fun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=なな %}}七{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |ni_juu_happun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=はっ %}}八{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |ni_juu_kyuu_fun| replace:: {{% kanji furigana=にじゅう %}}二十{{% /kanji %}}{{% kanji furigana=きゅう %}}九{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |san_juppun| replace:: {{% kanji furigana=さんじゅっ %}}三十{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |san_juu_ippun| replace:: {{% kanji furigana=さんじゅう %}}三十{{% /kanji %}}{{% kanji furigana=いっ %}}一{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |san_juu_ni_fun| replace:: {{% kanji furigana=さんじゅう %}}三十{{% /kanji %}}{{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |san_juu_san_pun| replace:: {{% kanji furigana=さんじゅう %}}三十{{% /kanji %}}{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |san_juu_shi_bun| replace:: {{% kanji furigana=さんじゅう %}}三十{{% /kanji %}}{{% kanji furigana=し %}}四{{% /kanji %}}{{% kanji furigana=ぶん %}}分{{% /kanji %}}
+.. |san_juu_go_fun| replace:: {{% kanji furigana=さんじゅう %}}三十{{% /kanji %}}{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |san_juu_roppun| replace:: {{% kanji furigana=さんじゅう %}}三十{{% /kanji %}}{{% kanji furigana=ろっ %}}六{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |san_juu_nana_fun| replace:: {{% kanji furigana=さんにじゅう %}}三十{{% /kanji %}}{{% kanji furigana=なな %}}七{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |san_juu_happun| replace:: {{% kanji furigana=さんじゅう %}}三十{{% /kanji %}}{{% kanji furigana=はっ %}}八{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |san_juu_kyuu_fun| replace:: {{% kanji furigana=さんじゅう %}}三十{{% /kanji %}}{{% kanji furigana=きゅう %}}九{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |yon_juppun| replace:: {{% kanji furigana=よんじゅっ %}}四十{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |yon_juu_ippun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=いっ %}}一{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |yon_juu_ni_fun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |yon_juu_san_pun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |yon_juu_shi_bun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=し %}}四{{% /kanji %}}{{% kanji furigana=ぶん %}}分{{% /kanji %}}
+.. |yon_juu_go_fun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |yon_juu_roppun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=ろっ %}}六{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |yon_juu_nana_fun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=なな %}}七{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |yon_juu_happun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=はっ %}}八{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |yon_juu_kyuu_fun| replace:: {{% kanji furigana=よんじゅう %}}四十{{% /kanji %}}{{% kanji furigana=きゅう %}}九{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |go_juppun| replace:: {{% kanji furigana=ごじゅっ %}}五十{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |go_juu_ippun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=いっ %}}一{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |go_juu_ni_fun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=に %}}二{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |go_juu_san_pun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=さん %}}三{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |go_juu_shi_bun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=し %}}四{{% /kanji %}}{{% kanji furigana=ぶん %}}分{{% /kanji %}}
+.. |go_juu_go_fun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |go_juu_roppun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=ろっ %}}六{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |go_juu_nana_fun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=なな %}}七{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
+.. |go_juu_happun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=はっ %}}八{{% /kanji %}}{{% kanji furigana=ぷん %}}分{{% /kanji %}}
+.. |go_juu_kyuu_fun| replace:: {{% kanji furigana=ごじゅう %}}五十{{% /kanji %}}{{% kanji furigana=きゅう %}}九{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}
