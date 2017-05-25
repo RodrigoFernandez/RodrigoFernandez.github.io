@@ -82,9 +82,9 @@ Capítulo 10 - Resumen
 | |ichiban|           | ichiban           | primero/el número uno/el mejor     |
 +---------------------+-------------------+------------------------------------+
 | |to_(onaji)|        | to (onaji)        | en este caso el |to_| es como el   |
-|                     |                   | *a* de la frase, es igual *a*...,  |
-|                     |                   | se usa para poder formar la        |
-|                     |                   | oración como por ejemplo,          |
+|                     |                   | *a* de la frase: *es igual a*...   |
+|                     |                   | Se usa, por ejemplo, para poder    |
+|                     |                   | formar la oración como:            |
 |                     |                   | |to_onaji_ejemplo|                 |
 +---------------------+-------------------+------------------------------------+
 | |deshoo|            | deshoo            | indica potencialidad de que ocurra |
@@ -103,14 +103,6 @@ Capítulo 10 - Resumen
 +---------------------+-------------------+------------------------------------+
 | |ame|               | ame               | lluvia                             |
 +---------------------+-------------------+------------------------------------+
-| |kita|              | kita              | norte                              |
-+---------------------+-------------------+------------------------------------+
-| |minami|            | minami            | sur                                |
-+---------------------+-------------------+------------------------------------+
-| |higashi|           | higashi           | oriente/este                       |
-+---------------------+-------------------+------------------------------------+
-| |nishi|             | nishi             | occidente/oeste                    |
-+---------------------+-------------------+------------------------------------+
 | |kuni|              | kuni              | país                               |
 +---------------------+-------------------+------------------------------------+
 | |onaji|             | onaji             | el mismo/idéntico/igual/           |
@@ -123,6 +115,18 @@ Capítulo 10 - Resumen
 | |tookyoo|           | tookyoo           | Tokio                              |
 +---------------------+-------------------+------------------------------------+
 | |takai|             | takai             | alto/elevado/caro                  |
++---------------------+-------------------+------------------------------------+
+
++------------------------------------------------------------------------------+
+| {{% color codigo=SlateGrey %}}Puntos cardinales{{% /color %}}                |
++---------------------+-------------------+------------------------------------+
+| |kita|              | kita              | norte                              |
++---------------------+-------------------+------------------------------------+
+| |minami|            | minami            | sur                                |
++---------------------+-------------------+------------------------------------+
+| |higashi|           | higashi           | oriente/este                       |
++---------------------+-------------------+------------------------------------+
+| |nishi|             | nishi             | occidente/oeste                    |
 +---------------------+-------------------+------------------------------------+
 
 {{% img_svg ancho=70% alto=70% %}}/images/puntos_cardinales.svg{{% /img_svg %}}
@@ -149,9 +153,9 @@ Capítulo 10 - Resumen
 .. |shinjuku| replace:: しんじゅく
 .. |ii| replace:: いい
 .. |warui| replace:: わるい
-.. |(ame_ga)_furu| replace:: {{% kanji furigana=あめ %}}雨{{% /kanji %}}が) ふる
+.. |(ame_ga)_furu| replace:: ({{% kanji furigana=あめ %}}雨{{% /kanji %}}が) ふる
 .. |(kaminariga)_naru| replace:: (かみなりが)　なる
-.. |(kazega)_fuku| replace:: かぜが　ふく
+.. |(kazega)_fuku| replace:: (かぜが)　ふく
 .. |chigau| replace:: ちがう
 .. |ame_ga_yamu| replace:: {{% kanji furigana=あめ %}}雨{{% /kanji %}}が　やむ
 .. |hareru| replace:: はれる
@@ -176,6 +180,6 @@ Capítulo 10 - Resumen
 .. |tookyoo| replace:: {{% kanji furigana=とう %}}東{{% /kanji %}} {{% kanji furigana=きょう %}}京{{% /kanji %}}
 .. |takai| replace:: {{% kanji furigana=たか %}}高{{% /kanji %}}い
 .. |to_| replace:: と
-.. |to_onaji_ejemplo| replace:: たべものは　{{% kanji furigana=に %}}日{{% /kanji %}}{{% kanji furigana=ほん %}}本{{% /kanji %}}のたべもの　と　{{% kanji furigana=おな %}}同{{% /kanji %}}じ　です。
-.. |deshoo_ejemplo| replace:: あしたは　たぶん　いい　{{% kanji furigana=てん %}}天{{% /kanji %}}{{% kanji furigana=き %}}気{{% /kanji %}}でしょう
+.. |to_onaji_ejemplo| replace:: たべものは　{{% kanji furigana=に %}}日{{% /kanji %}}{{% kanji furigana=ほん %}}本{{% /kanji %}}のたべもの　と　{{% kanji furigana=おな %}}同{{% /kanji %}}じ　です。(La comida es igual a la comida japonesa.)
+.. |deshoo_ejemplo| replace:: あしたは　たぶん　いい　{{% kanji furigana=てん %}}天{{% /kanji %}}{{% kanji furigana=き %}}気{{% /kanji %}}でしょう (¿Crees que mañana habrá buen tiempo?)
 .. |juu_ejemplo| replace:: {{% kanji furigana=いち %}}一{{% /kanji %}} {{% kanji furigana=ねん %}}年{{% /kanji %}} じゅう

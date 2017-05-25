@@ -351,35 +351,35 @@ En este link hay una mejor explicación: `adjetivos a advervios <https://nihongo
 +---------------------+-------------------+------------------------------------+
 | |yon_juu_kyuu_fun|  | yon juu kyuu fun  | 49 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juppun|         | gon jupuun        | 50 minutos                         |
+| |go_juppun|         | go jupuun         | 50 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_ippun|      | gon juu ippun     | 51 minutos                         |
+| |go_juu_ippun|      | go juu ippun      | 51 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_ni_fun|     | gon juu ni fun    | 52 minutos                         |
+| |go_juu_ni_fun|     | go juu ni fun     | 52 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_san_pun|    | gon juu san pun   | 53 minutos                         |
+| |go_juu_san_pun|    | go juu san pun    | 53 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_shi_bun|    | gon juu shi bun   | 54 minutos                         |
+| |go_juu_shi_bun|    | go juu shi bun    | 54 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_go_fun|     | gon juu go fun    | 55 minutos                         |
+| |go_juu_go_fun|     | go juu go fun     | 55 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_roppun|     | gon juu roppun    | 56 minutos                         |
+| |go_juu_roppun|     | go juu roppun     | 56 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_nana_fun|   | gon juu nana fun  | 57 minutos                         |
+| |go_juu_nana_fun|   | go juu nana fun   | 57 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_happun|     | gon juu happun    | 58 minutos                         |
+| |go_juu_happun|     | go juu happun     | 58 minutos                         |
 +---------------------+-------------------+------------------------------------+
-| |go_juu_kyuu_fun|   | gon juu kyuu fun  | 59 minutos                         |
+| |go_juu_kyuu_fun|   | go juu kyuu fun   | 59 minutos                         |
 +---------------------+-------------------+------------------------------------+
 
 .. |asa| replace:: あさ
-.. |ku_ji| replace:: 九時
 .. |go_fun_sugi| replace:: {{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}すぎ
 .. |go_fun_mae| replace:: {{% kanji furigana=ご %}}五{{% /kanji %}}{{% kanji furigana=ふん %}}分{{% /kanji %}}まえ
 .. |mai| replace:: {{% kanji furigana=まい %}}毎{{% /kanji %}}
 .. |mai_asa| replace:: {{% kanji furigana=まい %}}毎{{% /kanji %}}あさ
 .. |yoru| replace:: よる
 .. |mai_ban| replace:: {{% kanji furigana=まい %}}毎{{% /kanji %}}ばん
+.. |ban| replace:: ばん
 .. |jugyo| replace:: じゅぎょう
 .. |goszen| replace:: ごぜん
 .. |gogo| replace:: ごご
