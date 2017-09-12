@@ -1,5 +1,443 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rdr (Publicaciones sobre NihongoShojo)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link href="http://rodrigofernandez.github.io/categories/nihongoshojo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 25 May 2017 16:33:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Capítulo 7</title><link>http://rodrigofernandez.github.io/posts/capitulo-7/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;La partícula &lt;span class="raw-html"&gt;&lt;span class="particula"&gt; へ &lt;/span&gt;&lt;/span&gt; se usa para indicar la dirección del verbo ir. Por ejemplo:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Rdr (Publicaciones sobre NihongoShojo)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://rodrigofernandez.github.io/categories/nihongoshojo.xml"></atom:link><language>es</language><lastBuildDate>Tue, 12 Sep 2017 03:13:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Verbos Intrasitivos-Transitivos</title><link>http://rodrigofernandez.github.io/posts/verbos-intransitivos-transitivos/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="48%"&gt;
+&lt;col width="52%"&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;1. -iru/osu&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おきる
+okiru
+levantarse&lt;/td&gt;
+&lt;td&gt;おこす
+okosu
+levantar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おちる
+ochiru
+caerse&lt;/td&gt;
+&lt;td&gt;おとす
+otosu
+caer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おりる
+oriru
+bajarse&lt;/td&gt;
+&lt;td&gt;おろす
+orosu
+bajar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;2. -eru/-u&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;きれる
+kireru
+cortarse&lt;/td&gt;
+&lt;td&gt;きる
+kiru
+cortar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;やける
+yakeru
+quemarse&lt;/td&gt;
+&lt;td&gt;やく
+yaku
+quermar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;われる
+wareru
+romperse, dividirse&lt;/td&gt;
+&lt;td&gt;わる
+waru
+romper, dividir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おれる
+oreru
+doblarse&lt;/td&gt;
+&lt;td&gt;おる
+oru
+doblar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;3. -ru/-asu&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;でる
+deru
+salir&lt;/td&gt;
+&lt;td&gt;だす
+dasu
+sacar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ひえる
+hieru
+enfriarse&lt;/td&gt;
+&lt;td&gt;ひやす
+hiyasu
+enfriar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;とける
+tokeru
+fundirse, disolverse&lt;/td&gt;
+&lt;td&gt;とかす
+tokasu
+fundir, disolver&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;なれる
+nareru
+acostumbrarse
+やれる&lt;/td&gt;
+&lt;td&gt;ならす
+narasu
+hacer acostumbrar
+やらす&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;yureru
+ladearse&lt;/td&gt;
+&lt;td&gt;yurasu
+ladear&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ふえる
+fueru
+multiplicarse&lt;/td&gt;
+&lt;td&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;ふやす&lt;/dt&gt;
+&lt;dd&gt;huyasu&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 70)&lt;/p&gt;
+Definition list ends without a blank line; unexpected unindent.&lt;/div&gt;
+&lt;p class="last"&gt;mutiplicar&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;4. -ru/-su&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;はがれる
+hagareru
+fluir&lt;/td&gt;
+&lt;td&gt;ながす
+nagasu
+dejar correr (un fluido)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;よごれる
+yogoreru
+ensuciarse&lt;/td&gt;
+&lt;td&gt;よごす
+yogosu
+ensuciar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;こわれる
+kowareru
+romperse&lt;/td&gt;
+&lt;td&gt;こわす
+kowasu
+romper&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;たおれる
+taoreru
+caerse&lt;/td&gt;
+&lt;td&gt;たおす
+taosu
+hacer caer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;5. -ieru/-esu&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;きえる
+kieru
+desaparecerse, apagarse&lt;/td&gt;
+&lt;td&gt;けす
+kesu
+apagar (una llama, la luz)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;6. -ru/-osu&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;とおる
+tooru
+atraversar&lt;/td&gt;
+&lt;td&gt;とおす
+toosu
+dejar pasar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;のこる
+nokoru
+permanecer&lt;/td&gt;
+&lt;td&gt;のけす
+nokosu
+dejar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;なおる
+naoru
+curarse&lt;/td&gt;
+&lt;td&gt;なおす
+naosu
+curar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;おこる
+okoru
+ocurrir, suceder&lt;/td&gt;
+&lt;td&gt;おこす
+okosu
+causar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;7. -aru/-eru&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;しまる
+shimaru
+guardar, cerrar&lt;/td&gt;
+&lt;td&gt;しめる
+shimeru
+cerrar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;あがる
+agaru
+subirse&lt;/td&gt;
+&lt;td&gt;あげる
+ageru
+subir, levantar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;さがる
+sagaru
+bajarse&lt;/td&gt;
+&lt;td&gt;さげる
+sageru
+bajar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;かかる
+kakaru
+colgarse&lt;/td&gt;
+&lt;td&gt;かける
+kakeru
+colgar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;はじまる
+hajimaru
+empezar&lt;/td&gt;
+&lt;td&gt;はじめる
+hajimeru
+empezar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;あたたまる
+atatamaru
+calentarse&lt;/td&gt;
+&lt;td&gt;あたためる
+atatameru
+calentar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;みつかる
+mitsukaru
+encontrarse&lt;/td&gt;
+&lt;td&gt;みつける
+mitsukeru
+encontrar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;とまる
+tomaru
+detenerse&lt;/td&gt;
+&lt;td&gt;とめる
+tomeru
+detener&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;まがる
+magaru
+doblarse&lt;/td&gt;
+&lt;td&gt;まげる
+mageru
+doblar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;つたわる
+tsutawaru
+ser transmitido&lt;/td&gt;
+&lt;td&gt;つたえる
+tsutaeru
+transmitir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;8. -u/-eru&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;あく
+aku
+abrirse&lt;/td&gt;
+&lt;td&gt;あける
+akeru
+abrir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;たつ
+tatsu
+levantarse, ponerse de pie&lt;/td&gt;
+&lt;td&gt;たてる
+tateru
+levantar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;そだつ
+sodatsu
+crecer, criar&lt;/td&gt;
+&lt;td&gt;そだてる
+sodateru
+criar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ならぶ
+narabu
+alinearse&lt;/td&gt;
+&lt;td&gt;ならべる
+naraberu
+alinear&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;つく
+tsuku
+pegarse&lt;/td&gt;
+&lt;td&gt;つける
+tsukeru
+pegar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;9. -u/-asu&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;うごく
+ugoku
+moverse&lt;/td&gt;
+&lt;td&gt;うごかす
+ugokasu
+mover&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;かわく
+kawaku
+secarse&lt;/td&gt;
+&lt;td&gt;かわかす
+kawakasu
+secar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;へる
+heru
+disminuir&lt;/td&gt;
+&lt;td&gt;へらす
+herasu
+disminuir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;すむ
+sumu
+terminar, acabar&lt;/td&gt;
+&lt;td&gt;すます
+sumasu
+terminar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;すく
+suku
+tener hambre&lt;/td&gt;
+&lt;td&gt;すかす
+sukasu
+hacer hambre&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;わく
+waku
+hervirse&lt;/td&gt;
+&lt;td&gt;わかす
+wakasu
+hervir&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;10. -ru/-seru&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;のる
+noru
+subirse&lt;/td&gt;
+&lt;td&gt;のせる
+noseru
+poner encima&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;きる
+kiru
+ponerse&lt;/td&gt;
+&lt;td&gt;きせる
+kiseru
+poner&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;みる
+miru
+mirar&lt;/td&gt;
+&lt;td&gt;みせる
+miseru
+enseñar, mostrar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;する
+suru
+hacer&lt;/td&gt;
+&lt;td&gt;させる
+saseru
+hacerlo hacer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan="2"&gt;&lt;span class="raw-html"&gt;&lt;span style="color: SlateGrey; font-weight: bold;"&gt;11. irregular&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;verbo intransitivo&lt;/td&gt;
+&lt;td&gt;verbo transitivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;なる
+naru
+hacerse&lt;/td&gt;
+&lt;td&gt;する
+suru
+hacer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;はいる
+hairu
+entrar&lt;/td&gt;
+&lt;td&gt;いれる
+ireru
+meter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 298)&lt;/p&gt;
+Duplicate substitution definition name: "okosu".&lt;/div&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 343)&lt;/p&gt;
+Duplicate substitution definition name: "kiru".&lt;/div&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 350)&lt;/p&gt;
+Duplicate substitution definition name: "suru".&lt;/div&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/verbos-intransitivos-transitivos/</guid><pubDate>Mon, 21 Aug 2017 00:31:09 GMT</pubDate></item><item><title>Capítulo 7</title><link>http://rodrigofernandez.github.io/posts/capitulo-7/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;La partícula &lt;span class="raw-html"&gt;&lt;span class="particula"&gt; へ &lt;/span&gt;&lt;/span&gt; se usa para indicar la dirección del verbo ir. Por ejemplo:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;あなたは　あした　どこ　&lt;span class="raw-html"&gt;&lt;span class="particula"&gt;へ&lt;/span&gt;&lt;/span&gt;　いきますか。(A dónde va mañana?)&lt;/p&gt;
 &lt;p&gt;わたしは　&lt;ruby class="kanji"&gt;三&lt;rt class="furigana"&gt;さん&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;月&lt;rt class="furigana"&gt;がつ&lt;/rt&gt;&lt;/ruby&gt;　&lt;ruby class="kanji"&gt;二十&lt;rt class="furigana"&gt;はつ&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;か&lt;/rt&gt;&lt;/ruby&gt;に　ちゅうがく　&lt;span class="raw-html"&gt;&lt;span class="particula"&gt;から&lt;/span&gt;&lt;/span&gt;　&lt;ruby class="kanji"&gt;日&lt;rt class="furigana"&gt;に&lt;/rt&gt;&lt;/ruby&gt;&lt;ruby class="kanji"&gt;本&lt;rt class="furigana"&gt;ほん&lt;/rt&gt;&lt;/ruby&gt;　&lt;span class="raw-html"&gt;&lt;span class="particula"&gt;へ&lt;/span&gt;&lt;/span&gt;　きました。(Hay rojas también blancas también amarillas.)&lt;/p&gt;
@@ -3073,304 +3511,4 @@ un gesto&lt;/td&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;object class="align-center" data="http://rodrigofernandez.github.io/images/puntos_cardinales.svg" type="image/svg+xml"&gt;
-/images/puntos_cardinales.svg&lt;/object&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-4/</guid><pubDate>Thu, 26 May 2016 01:48:18 GMT</pubDate></item><item><title>Capítulo 3</title><link>http://rodrigofernandez.github.io/posts/capitulo-3/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;Uso del verbo ある (aru) = haber/estar, es un verbo que pertenece al Grupo 1 de verbos entonces en presente る se convierte en り quedando: あり　ます&lt;/p&gt;
-&lt;p&gt;Quedando las estructuras de la oraciones así:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Oración afirmativa indicando un solo sustantivo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;lt;lugar&amp;gt;&lt;/em&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;が&lt;/strong&gt; あり　ます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;に&lt;/strong&gt;  define que lo anterior indica el lugar donde están los sustantivos de la oración.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;が&lt;/strong&gt;  define el sustantivo que se indica que hay, dentro de la oración.&lt;/p&gt;
-&lt;p&gt;Ejemplo:  ここに　でんわが　あり　ます。  =  Acá hay un teléfono.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Oración negativa indicando un solo sustantivo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;lt;lugar&amp;gt;&lt;/em&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;が&lt;/strong&gt; あり　ません。&lt;/p&gt;
-&lt;p&gt;Ejemplo:  いいえ、がはんは　あり　ません。  =  No, no hay arroz cocido.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Oración afirmativa indicando varios sustantivos (contables, se sabe la cantidad de cada elemento)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;lt;lugar&amp;gt;&lt;/em&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;と&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;と&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;が&lt;/strong&gt; あり　ます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;と&lt;/strong&gt; sirve como conjunción, indica que se están enumerando sustantivos, de los cuales se sabe la cantidad de cada elemento.&lt;/p&gt;
-&lt;p&gt;Ejemplo:  でんわと　テレビと　ベッドが　あり　ます。  =  Hay un telefono, una televisión y una cama.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Oración afirmativa indicando varios sustantivos (incontables, no se sabe la cantidad de cada elemento, ni cuantos elementos hay)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;lt;lugar&amp;gt;&lt;/em&gt;&lt;strong&gt;に&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;や&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;&lt;strong&gt;や&lt;/strong&gt; &lt;em&gt;&amp;lt;sustantivo&amp;gt;&lt;/em&gt;　&lt;em&gt;など&lt;/em&gt;&lt;strong&gt;が&lt;/strong&gt; あり　ます。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;や&lt;/strong&gt; sirve como conjunción, indica que se están enumerando sustantivos, de los cuales no se sabe la cnatidad de cada elemento.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;など&lt;/strong&gt; significa etcétera.&lt;/p&gt;
-&lt;p&gt;Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　などが　あり　ます。  =  Hay verduras, frutas, leche de vaca, huevos, etcétera.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;あたらしい　ことば (atarashii kotoba = nueva palabra)&lt;/strong&gt;&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
-&lt;colgroup&gt;
-&lt;col width="20%"&gt;
-&lt;col width="20%"&gt;
-&lt;col width="60%"&gt;
-&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td&gt;でんわ&lt;/td&gt;
-&lt;td&gt;denwa&lt;/td&gt;
-&lt;td&gt;teléfono&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;テレビ&lt;/td&gt;
-&lt;td&gt;terebi&lt;/td&gt;
-&lt;td&gt;televisión&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ベッド&lt;/td&gt;
-&lt;td&gt;beddo&lt;/td&gt;
-&lt;td&gt;cama&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;へや&lt;/td&gt;
-&lt;td&gt;heya&lt;/td&gt;
-&lt;td&gt;habitación&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;だいどころ&lt;/td&gt;
-&lt;td&gt;daidokoro&lt;/td&gt;
-&lt;td&gt;cocina&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;れいぞうこ&lt;/td&gt;
-&lt;td&gt;reizooko&lt;/td&gt;
-&lt;td&gt;refrigerador, heladera&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;やさい&lt;/td&gt;
-&lt;td&gt;yasai&lt;/td&gt;
-&lt;td&gt;verdura&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;くだもの&lt;/td&gt;
-&lt;td&gt;kudamono&lt;/td&gt;
-&lt;td&gt;fruta&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ぎゅうにゅう&lt;/td&gt;
-&lt;td&gt;gyuunyuu&lt;/td&gt;
-&lt;td&gt;leche de vaca&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;たまご&lt;/td&gt;
-&lt;td&gt;tamago&lt;/td&gt;
-&lt;td&gt;huevo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ごはん&lt;/td&gt;
-&lt;td&gt;gohan&lt;/td&gt;
-&lt;td&gt;arroz cocido&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;そば&lt;/td&gt;
-&lt;td&gt;soba&lt;/td&gt;
-&lt;td&gt;fideo japonés, trigo sarraceno&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;とだな&lt;/td&gt;
-&lt;td&gt;todana&lt;/td&gt;
-&lt;td&gt;armario, alacena&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;びょういん&lt;/td&gt;
-&lt;td&gt;byouin&lt;/td&gt;
-&lt;td&gt;hospital&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;こうじょう&lt;/td&gt;
-&lt;td&gt;koojoo&lt;/td&gt;
-&lt;td&gt;fábrica&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;がっこう&lt;/td&gt;
-&lt;td&gt;gakkoo&lt;/td&gt;
-&lt;td&gt;escuela&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;きょうしつ&lt;/td&gt;
-&lt;td&gt;kyooshitsu&lt;/td&gt;
-&lt;td&gt;aula, clase&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;えき&lt;/td&gt;
-&lt;td&gt;eki&lt;/td&gt;
-&lt;td&gt;estación (por ej.: de autobuses)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ゆうびんきょく&lt;/td&gt;
-&lt;td&gt;yuubinkyoku&lt;/td&gt;
-&lt;td&gt;oficina postal o de correos&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;むこう&lt;/td&gt;
-&lt;td&gt;mukoo&lt;/td&gt;
-&lt;td&gt;más allá, por allí, dirección opuesta, el otro grupo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;はさみ&lt;/td&gt;
-&lt;td&gt;hasami&lt;/td&gt;
-&lt;td&gt;tijeras&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ナイフ&lt;/td&gt;
-&lt;td&gt;naifu&lt;/td&gt;
-&lt;td&gt;cuchillo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ノート&lt;/td&gt;
-&lt;td&gt;nooto&lt;/td&gt;
-&lt;td&gt;libre, cuadero (notebook)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;まんねんひつ&lt;/td&gt;
-&lt;td&gt;mannenhitsu&lt;/td&gt;
-&lt;td&gt;pluma estilográfica&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;けしゴム&lt;/td&gt;
-&lt;td&gt;keshigomu&lt;/td&gt;
-&lt;td&gt;goma de borrar&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;かみ&lt;/td&gt;
-&lt;td&gt;kami&lt;/td&gt;
-&lt;td&gt;papel&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;とうきょう&lt;/td&gt;
-&lt;td&gt;tookyoo&lt;/td&gt;
-&lt;td&gt;Tōkyō&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;おおさか&lt;/td&gt;
-&lt;td&gt;oosaka&lt;/td&gt;
-&lt;td&gt;Ōsaka&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;きょうと&lt;/td&gt;
-&lt;td&gt;kyooto&lt;/td&gt;
-&lt;td&gt;Kyōto&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ここ&lt;/td&gt;
-&lt;td&gt;koko&lt;/td&gt;
-&lt;td&gt;Aquí, acá, este lugar&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;そこ&lt;/td&gt;
-&lt;td&gt;soko&lt;/td&gt;
-&lt;td&gt;Allí, ahí, allá&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;あそこ&lt;/td&gt;
-&lt;td&gt;asoko&lt;/td&gt;
-&lt;td&gt;Allí, allá, aquel lugar&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;なに&lt;/td&gt;
-&lt;td&gt;nani&lt;/td&gt;
-&lt;td&gt;qué?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;どこ&lt;/td&gt;
-&lt;td&gt;doko&lt;/td&gt;
-&lt;td&gt;dónde?, en qué lugar?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ある&lt;/td&gt;
-&lt;td&gt;aru&lt;/td&gt;
-&lt;td&gt;estar&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;あります&lt;/td&gt;
-&lt;td&gt;arimasu&lt;/td&gt;
-&lt;td&gt;presente de estar (hay)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;なにも&lt;/td&gt;
-&lt;td&gt;nanimo&lt;/td&gt;
-&lt;td&gt;nada (con verbos negativos) y cualquier otra cosa (con
-sustantivos más mo), todo.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;なにか&lt;/td&gt;
-&lt;td&gt;nanika&lt;/td&gt;
-&lt;td&gt;algo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;に&lt;/td&gt;
-&lt;td&gt;ni&lt;/td&gt;
-&lt;td&gt;indica cosas tales como ubicación de personas u objetos,
-ubicación de acciones a corto plazo, etc.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;が&lt;/td&gt;
-&lt;td&gt;ga&lt;/td&gt;
-&lt;td&gt;indica el sujeto de la oración (ocacionalmente el objeto)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;と&lt;/td&gt;
-&lt;td&gt;to&lt;/td&gt;
-&lt;td&gt;se usa como y para la enumeración de cosas contables&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;や&lt;/td&gt;
-&lt;td&gt;ya&lt;/td&gt;
-&lt;td&gt;se usa como y para la enumeración de cosas incontables&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;など&lt;/td&gt;
-&lt;td&gt;nado&lt;/td&gt;
-&lt;td&gt;etcétera&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;ます&lt;/td&gt;
-&lt;td&gt;masu&lt;/td&gt;
-&lt;td&gt;sufijo en verbos que indica el presente afirmativo cortes&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td colspan="3"&gt;あたらしい　かんじ　(漢字) (atarashii kanji = nuevos caracteres chinos)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;span class="raw-html"&gt;&lt;ruby&gt;&lt;rb class="kanji"&gt;中&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt class="furigana"&gt;なか&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;naka&lt;/td&gt;
-&lt;td&gt;adentro, dentro, medio, entre&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;span class="raw-html"&gt;&lt;ruby&gt;&lt;rb class="kanji"&gt;上&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt class="furigana"&gt;うえ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;ue&lt;/td&gt;
-&lt;td&gt;sobre, arriba&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;span class="raw-html"&gt;&lt;ruby&gt;&lt;rb class="kanji"&gt;山&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt class="furigana"&gt;やま&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;yama&lt;/td&gt;
-&lt;td&gt;montaña, montón, pila; climax, punto crítico&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;span class="raw-html"&gt;&lt;ruby&gt;&lt;rb class="kanji"&gt;下&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt class="furigana"&gt;した&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;shita&lt;/td&gt;
-&lt;td&gt;bajo, debajo de, en la parte de abajo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;span class="raw-html"&gt;&lt;ruby&gt;&lt;rb class="kanji"&gt;川&lt;/rb&gt;&lt;rp&gt;(&lt;/rp&gt;&lt;rt class="furigana"&gt;がわ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/td&gt;
-&lt;td&gt;gawa&lt;/td&gt;
-&lt;td&gt;río, arroyo, corriente&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Lugares&lt;/strong&gt;&lt;/p&gt;
-&lt;object class="align-center" data="http://rodrigofernandez.github.io/images/ubicaciones.svg" type="image/svg+xml"&gt;
-/images/ubicaciones.svg&lt;/object&gt;
-&lt;p&gt;&lt;strong&gt;Trío: こ　そ　あ&lt;/strong&gt;&lt;/p&gt;
-&lt;table border="1" class="docutils"&gt;
-&lt;colgroup&gt;
-&lt;col width="12%"&gt;
-&lt;col width="12%"&gt;
-&lt;col width="12%"&gt;
-&lt;col width="12%"&gt;
-&lt;col width="11%"&gt;
-&lt;col width="22%"&gt;
-&lt;col width="18%"&gt;
-&lt;/colgroup&gt;
-&lt;tbody valign="top"&gt;
-&lt;tr&gt;&lt;td colspan="2"&gt;Personas&lt;/td&gt;
-&lt;td colspan="2"&gt;Cosas&lt;/td&gt;
-&lt;td colspan="2"&gt;Lugar&lt;/td&gt;
-&lt;td&gt;Significado&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;この&lt;/td&gt;
-&lt;td&gt;kono&lt;/td&gt;
-&lt;td&gt;これ&lt;/td&gt;
-&lt;td&gt;kore&lt;/td&gt;
-&lt;td&gt;ここ&lt;/td&gt;
-&lt;td&gt;koko  (.. lugar)&lt;/td&gt;
-&lt;td&gt;este/a&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;その&lt;/td&gt;
-&lt;td&gt;sono&lt;/td&gt;
-&lt;td&gt;それ&lt;/td&gt;
-&lt;td&gt;sore&lt;/td&gt;
-&lt;td&gt;そこ&lt;/td&gt;
-&lt;td&gt;soko  (.. lugar)&lt;/td&gt;
-&lt;td&gt;ese/a eso/a&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;あの&lt;/td&gt;
-&lt;td&gt;ano&lt;/td&gt;
-&lt;td&gt;あれ&lt;/td&gt;
-&lt;td&gt;are&lt;/td&gt;
-&lt;td&gt;あそこ&lt;/td&gt;
-&lt;td&gt;asoko (.. lugar)&lt;/td&gt;
-&lt;td&gt;aquel/la/lo&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;どの&lt;/td&gt;
-&lt;td&gt;dono&lt;/td&gt;
-&lt;td&gt;どれ&lt;/td&gt;
-&lt;td&gt;dore&lt;/td&gt;
-&lt;td&gt;どこ&lt;/td&gt;
-&lt;td&gt;doko  (.. lugar)&lt;/td&gt;
-&lt;td&gt;cuál?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;どなた&lt;/td&gt;
-&lt;td&gt;donata&lt;/td&gt;
-&lt;td colspan="2"&gt; &lt;/td&gt;
-&lt;td colspan="2"&gt; &lt;/td&gt;
-&lt;td&gt;quién/es&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;だれ&lt;/td&gt;
-&lt;td&gt;dare&lt;/td&gt;
-&lt;td colspan="2"&gt; &lt;/td&gt;
-&lt;td colspan="2"&gt; &lt;/td&gt;
-&lt;td&gt;quién?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
-&lt;td&gt;なん&lt;/td&gt;
-&lt;td&gt;nan&lt;/td&gt;
-&lt;td colspan="2"&gt;なに  | nani  (.. lugar)&lt;/td&gt;
-&lt;td&gt;qué?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-3/</guid><pubDate>Fri, 29 Apr 2016 16:34:26 GMT</pubDate></item></channel></rss>
+/images/puntos_cardinales.svg&lt;/object&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/capitulo-4/</guid><pubDate>Thu, 26 May 2016 01:48:18 GMT</pubDate></item></channel></rss>

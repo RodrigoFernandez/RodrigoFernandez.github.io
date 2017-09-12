@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Guía resumen de cómo escribir un mensaje de git.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mensajes de commit en Git | Rdr</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link href="../../assets/css/all.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="http://rodrigofernandez.github.io/pages/mensajes-de-commit-en-git/">
+<!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><link type="text/css" rel="stylesheet" href="assets/css/custom-css.css">
+<link type="text/css" rel="stylesheet" href="../../assets/css/custom-css.css">
+<meta name="description" itemprop="description" content="Guía resumen de cómo escribir un mensaje de git.">
+<meta name="author" content="Rdr">
+<meta property="og:site_name" content="Rdr">
+<meta property="og:title" content="Mensajes de commit en Git">
+<meta property="og:url" content="http://rodrigofernandez.github.io/pages/mensajes-de-commit-en-git/">
+<meta property="og:description" content="Guía resumen de cómo escribir un mensaje de git.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2017-09-12T00:01:06-03:00">
+<meta property="article:tag" content="git">
+<meta property="article:tag" content="programacion">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-inverse navbar-static-top"><div class="container">
+<!-- This keeps the margins nice -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
+            <span class="sr-only">Mostrar navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="http://rodrigofernandez.github.io/">
+
+                <span id="blog-title">Rdr</span>
+            </a>
+        </div>
+<!-- /.navbar-header -->
+        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+            <ul class="nav navbar-nav">
+<li>
+<a href="../../archive.html">Archivo</a>
+                </li>
+<li>
+<a href="../../categories/">Etiquetas</a>
+                </li>
+<li>
+<a href="../../rss.xml">Canal RSS</a>
+
+                
+            </li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li>
+    <a href="index.rst" id="sourcelink">Código fuente</a>
+    </li>
+
+                
+            </ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        <div class="row">
+            
+            
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Mensajes de commit en Git</a></h1>
+
+        
+
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <div>
+<div class="section" id="mensajes-de-commit-en-git">
+<h2>Mensajes de commit en Git</h2>
+<div class="system-message">
+<p class="system-message-title">System Message: ERROR/3 (<tt class="docutils">&lt;string&gt;</tt>, line 3)</p>
+Document or section may not begin with a transition.</div>
+<hr class="docutils">
+<p>Guía resumen de cómo escribir un mensaje de git. Se realizó en base a este post: <cite>buenas practicas en commits de git &lt;https://codigofacilito.com/articulos/buenas-practicas-en-commits-de-git&gt;</cite> y a este otro post &lt;link&gt;</p>
+</div>
+<div class="section" id="estructura-del-mensaje-de-commit">
+<h2>Estructura del mensaje de commit</h2>
+<blockquote>
+<p>type: subject o título</p>
+<p>body</p>
+<p>footer</p>
+</blockquote>
+</div>
+<div class="section" id="type-tipo">
+<h2>Type (Tipo)</h2>
+<p>Puede ser:</p>
+<ul class="simple">
+<li>
+<em>feat</em>: nueva característica</li>
+<li>
+<em>fix</em>: solución de un bug</li>
+<li>
+<em>docs</em>: cambios en la documentación</li>
+<li>
+<em>style</em>: se aplicó formato, comas y puntos faltantes, etc.; pero no cambios en el código.</li>
+<li>
+<em>refactor</em>: refactorización del código en producción</li>
+<li>
+<em>test</em>: se añadieron pruebas, refactorización de pruebas; pero sin cambios en el código</li>
+<li>
+<em>chore</em>: actualización de tareas de build, configuración del administrador de paquetes; pero sin cambio en el código</li>
+</ul>
+</div>
+<div class="section" id="subject-asunto-o-titulo">
+<h2>Subject (asunto) o título</h2>
+<ul class="simple">
+<li>
+<em>Separar el título del cuerpo con una línea en blanco</em>: El texto sobre la primera línea en blanco en el mensaje del commit es tratado como el título del commit si luego se deja una línea en blanco, esto es usado en multiples comandos de git; el cuerpo del commit es necesario si hace falta una expliación del cambio.</li>
+<li>
+<em>Limitar título a 50 caracteres</em>: para que se pueda visualizar correctamente en herramientas de git como el comando log con el flag --oneline, o el comando shortlog.</li>
+<li><em>Capitalizar el título</em></li>
+<li><em>No terminar el título con un punto</em></li>
+<li>
+<em>Utilizar el modo imperativo en el título</em>: por ejemplo "Limita el cuerpo a 72 caracteres". El título tiene que ser capaz de completar la siguiente frase: If applied, this commit will &lt;your subject line here&gt;; por ejemplo, if applied, this commit will remove deprecated methods; si el título no se escribe en forma imperativa la frase no queda bien escrita.</li>
+</ul>
+</div>
+<div class="section" id="body-cuerpo">
+<h2>Body (cuerpo)</h2>
+<ul class="simple">
+<li>
+<em>Limitar el cuerpo a 72 caracteres</em>: las lineas que forman el cuerpo del commit tienen que tener un ancho de hasta 72 caracteres para que cuando se lista el mensaje del commit este se vea correctamente, pues git no ajusta el texto automáticamente.</li>
+<li>
+<em>Utiliza el cuerpo para explicar qué y por qué vs. cómo</em>: hay que centrarse en aclarar las razones por las que se realizó el cambio; como funcionaba antes del cambio y cuál era el problema de ese funcionamiento, la forma en que funciona ahora y el porque se decidió resolverlo así.</li>
+</ul>
+</div>
+<div class="section" id="footer-pie">
+<h2>Footer (Pie)</h2>
+<p>Es opcional y se usa para indicar el seguimiento de los ids de las incidencias, por ejemplo el id de un jira.</p>
+</div>
+</div>
+    </div>
+    
+
+</article>
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2017         <a href="mailto:rdr.rkh+blog@gmail.com">Rdr</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script><script src="../../assets/js/all.js"></script><script src="../../assets/js/colorbox-i18n/jquery.colorbox-es.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+    moment.locale("es");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates -->
+</body>
+</html>
