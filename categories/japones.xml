@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Rdr (Publicaciones sobre japones)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://rodrigofernandez.github.io/categories/japones.xml"></atom:link><language>es</language><lastBuildDate>Tue, 12 Sep 2017 03:13:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Verbos Intrasitivos-Transitivos</title><link>http://rodrigofernandez.github.io/posts/verbos-intransitivos-transitivos/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;table border="1" class="docutils"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Rdr (Publicaciones sobre japones)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link href="http://rodrigofernandez.github.io/categories/japones.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 06 Nov 2017 00:31:46 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Verbos Intrasitivos-Transitivos</title><link>http://rodrigofernandez.github.io/posts/verbos-intransitivos-transitivos/</link><dc:creator>Rdr</dc:creator><description>&lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="48%"&gt;
 &lt;col width="52%"&gt;
@@ -96,30 +96,24 @@ fundir, disolver&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;なれる
 nareru
-acostumbrarse
-やれる&lt;/td&gt;
+acostumbrarse&lt;/td&gt;
 &lt;td&gt;ならす
 narasu
-hacer acostumbrar
-やらす&lt;/td&gt;
+hacer acostumbrar&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;yureru
+&lt;tr&gt;&lt;td&gt;やれる
+yureru
 ladearse&lt;/td&gt;
-&lt;td&gt;yurasu
+&lt;td&gt;やらす
+yurasu
 ladear&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;ふえる
 fueru
 multiplicarse&lt;/td&gt;
-&lt;td&gt;&lt;dl class="first docutils"&gt;
-&lt;dt&gt;ふやす&lt;/dt&gt;
-&lt;dd&gt;huyasu&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 70)&lt;/p&gt;
-Definition list ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p class="last"&gt;mutiplicar&lt;/p&gt;
-&lt;/td&gt;
+&lt;td&gt;ふやす
+huyasu
+mutiplicar&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;&lt;td colspan="2"&gt; &lt;/td&gt;
 &lt;/tr&gt;
@@ -428,16 +422,7 @@ ireru
 meter&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 298)&lt;/p&gt;
-Duplicate substitution definition name: "okosu".&lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 343)&lt;/p&gt;
-Duplicate substitution definition name: "kiru".&lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 350)&lt;/p&gt;
-Duplicate substitution definition name: "suru".&lt;/div&gt;&lt;/div&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/verbos-intransitivos-transitivos/</guid><pubDate>Mon, 21 Aug 2017 00:31:09 GMT</pubDate></item><item><title>Contador animales pequeños</title><link>http://rodrigofernandez.github.io/posts/contador-animales-pequenos/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;div style="text-align: center;"&gt;&lt;img src="http://rodrigofernandez.github.io/images/contador_animales_pequenios.svg" width="70%" height="70%" align="middle"&gt;&lt;/div&gt;&lt;/div&gt;</description><category>contadores</category><category>japones</category><guid>http://rodrigofernandez.github.io/posts/contador-animales-pequenos/</guid><pubDate>Sun, 14 May 2017 15:41:08 GMT</pubDate></item><item><title>Partículas wa y ga</title><link>http://rodrigofernandez.github.io/posts/particulas-wa-y-ga/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;En estos artículos se explica la diferencia entre las partículas は y が&lt;/p&gt;
+&lt;/table&gt;</description><category>japones</category><category>NihongoShojo</category><guid>http://rodrigofernandez.github.io/posts/verbos-intransitivos-transitivos/</guid><pubDate>Mon, 21 Aug 2017 00:31:09 GMT</pubDate></item><item><title>Contador animales pequeños</title><link>http://rodrigofernandez.github.io/posts/contador-animales-pequenos/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;div style="text-align: center;"&gt;&lt;img src="http://rodrigofernandez.github.io/images/contador_animales_pequenios.svg" width="70%" height="70%" align="middle"&gt;&lt;/div&gt;&lt;/div&gt;</description><category>contadores</category><category>japones</category><guid>http://rodrigofernandez.github.io/posts/contador-animales-pequenos/</guid><pubDate>Sun, 14 May 2017 15:41:08 GMT</pubDate></item><item><title>Partículas wa y ga</title><link>http://rodrigofernandez.github.io/posts/particulas-wa-y-ga/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;En estos artículos se explica la diferencia entre las partículas は y が&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.espaiwabisabi.com/particulas-wa-y-ga/"&gt;https://www.espaiwabisabi.com/particulas-wa-y-ga/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.espaiwabisabi.com/particulas-wa-y-ga-2/"&gt;https://www.espaiwabisabi.com/particulas-wa-y-ga-2/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>ga</category><category>japones</category><category>particulas</category><category>wa</category><guid>http://rodrigofernandez.github.io/posts/particulas-wa-y-ga/</guid><pubDate>Thu, 23 Feb 2017 02:13:16 GMT</pubDate></item><item><title>Capítulo 7</title><link>http://rodrigofernandez.github.io/posts/capitulo-7/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;p&gt;La partícula &lt;span class="raw-html"&gt;&lt;span class="particula"&gt; へ &lt;/span&gt;&lt;/span&gt; se usa para indicar la dirección del verbo ir. Por ejemplo:&lt;/p&gt;
 &lt;blockquote&gt;

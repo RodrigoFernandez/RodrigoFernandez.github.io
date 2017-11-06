@@ -69,13 +69,13 @@ Verbos Intrasitivos-Transitivos
 | |nareru|                   | |narasu|                     |
 | nareru                     | narasu                       |
 | acostumbrarse              | hacer acostumbrar            |
-| |yureru|                   | |yurasu|                     |
 +----------------------------+------------------------------+
+| |yureru|                   | |yurasu|                     |
 | yureru                     | yurasu                       |
 | ladearse                   | ladear                       |
 +----------------------------+------------------------------+
 | |fueru|                    | |huyasu|                     |
-| fueru                      |  huyasu                      |
+| fueru                      | huyasu                       |
 | multiplicarse              | mutiplicar                   |
 +----------------------------+------------------------------+
 +-----------------------------------------------------------+
@@ -263,13 +263,11 @@ Verbos Intrasitivos-Transitivos
 +----------------------------+------------------------------+
 
 .. |okiru| replace:: おきる
-.. |okosu| replace:: おこす
 .. |ochiru| replace:: おちる
 .. |otosu| replace:: おとす
 .. |oriru| replace:: おりる
 .. |orosu| replace:: おろす
 .. |kireru| replace:: きれる
-.. |kiru| replace:: きる
 .. |yakeru| replace:: やける
 .. |yaku| replace:: やく
 .. |wareru| replace:: われる
@@ -357,6 +355,5 @@ Verbos Intrasitivos-Transitivos
 .. |suru| replace:: する
 .. |saseru| replace:: させる
 .. |naru| replace:: なる
-.. |suru| replace:: する
 .. |hairu| replace:: はいる
 .. |ireru| replace:: いれる
