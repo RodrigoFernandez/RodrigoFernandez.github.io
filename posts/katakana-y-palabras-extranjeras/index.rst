@@ -3,7 +3,7 @@
 .. date: 2016-05-05 22:03:31 UTC-03:00
 .. tags: japones, Katakana
 .. category: idiomas
-.. link: 
+.. link:
 .. description: Como usar katakana para escribir palabras extranjeras en japonés
 .. type: text
 
@@ -32,11 +32,11 @@ Transcripción de la palabras de origen extranjero
 | solo   | |solo|   | soro   |
 +--------+----------+--------+
 
----------------------------------------------
-2. Palabras con dos o más constantes seguidas
----------------------------------------------
+----------------------------------------------
+2. Palabras con dos o más consonantes seguidas
+----------------------------------------------
 
-Se pronuncian y escriben con la vocal apropiada colocada luega de cada consonante.
+Se pronuncian y escriben con la vocal apropiada colocada luego de cada consonante.
 
 * A la **t** y a la **d** se le agrega **o**. Por ejemplo:
 
@@ -127,10 +127,10 @@ Las vocales largas se representan por una raya, que indica doble duración de la
 	+---------+-----------+----------+
 	| spoon   | |spoon|   | supuun   |
 	+---------+-----------+----------+
-	
-	
+
+
 	*Algunas palabras en que aparecen -oo- y -ea-, se transcriben en japones con el sonido doble consonántico つ　(se ve más adelante)*
-	
+
 * Las palabras terminadas en: -**all**, -**al**, -**ol**, por ejemplo:
 
 	+--------+----------+----------+
@@ -208,7 +208,7 @@ Las palabras con los siguientes grupos consonanticos, la correspondiente consona
 	+-----------+-------------+------------+
 
 	Pero en estas palabras la consonante final se duplica en vez de -**ck**-:
-	
+
 	+-----------+-------------+------------+
 	| rocket    | |rocket|    | roketto    |
 	+-----------+-------------+------------+
@@ -218,7 +218,7 @@ Las palabras con los siguientes grupos consonanticos, la correspondiente consona
 	+-----------+-------------+------------+
 
 	Estas palabras son excepciones a las reglas:
-	
+
 	+-----------+-------------+------------+
 	| bucket    | |bucket|    | baketsu    |
 	+-----------+-------------+------------+
@@ -252,7 +252,7 @@ Las palabras con los siguientes grupos consonanticos, la correspondiente consona
 	+------------+--------------+------------+
 
 	En algunas palabras con -**ss**-, -**pp**-, -**tt**- o -**ff**- la consonante correspondiente no se considera duplicada. -**ss** final no se duplica, por ejemplo:
-	
+
 	+------------+--------------+------------+
 	| dress      | |dress|      | doresu     |
 	+------------+--------------+------------+
@@ -266,7 +266,7 @@ Las palabras con los siguientes grupos consonanticos, la correspondiente consona
 	+------------+--------------+------------+
 
 	Tampoco se duplica en las palabras:
-	
+
 	+------------+--------------+-------------+
 	| butter     | |butter|     | bataa       |
 	+------------+--------------+-------------+
@@ -413,4 +413,3 @@ Las palabras con los siguientes grupos consonanticos, la correspondiente consona
 .. |head| replace:: ヘッド
 .. |touch| replace:: タッチ
 .. |circuit| replace:: サーキッド
-

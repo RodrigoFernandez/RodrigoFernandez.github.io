@@ -141,10 +141,7 @@ necesita que alguien lo encienda). El negativo de いる es いません
 +----------+----------+----------+----------+----------------------------+-----------------------------------------------+
 
 
-.. image:: /images/puntos_cardinales.svg
-	:scale: 20 %
-	:align: center
-
+{{% img_svg ancho=70% alto=70% %}}/images/puntos_cardinales.svg{{% /img_svg %}}
 
 .. |ushiro| replace:: うしろ
 .. |niwa| replace:: にわ

@@ -3,7 +3,7 @@
 .. date: 2016-04-29 13:34:26 UTC-03:00
 .. tags: japones, NihongoShojo
 .. category: idiomas
-.. link: 
+.. link:
 .. description: Resumen capítulo 3 del libro Nohongo Shojo
 .. type: text
 
@@ -12,7 +12,7 @@
 
 ====================
 Capítulo 3 - Resumen
-==================== 
+====================
 
 Uso del verbo ある (aru) = haber/estar, es un verbo que pertenece al Grupo 1 de verbos entonces en presente る se convierte en り quedando: あり　ます
 
@@ -33,7 +33,7 @@ Ejemplo:  ここに　でんわが　あり　ます。  =  Acá hay un teléfon
 
 *<lugar>*\ **に** *<sustantivo>*\ **が** あり　ません。
 
-Ejemplo:  いいえ、がはんは　あり　ません。  =  No, no hay arroz cocido.
+Ejemplo:  いいえ、ごはんは　あり　ません。  =  No, no hay arroz cocido.
 
 **Oración afirmativa indicando varios sustantivos (contables, se sabe la cantidad de cada elemento)**
 
@@ -48,9 +48,9 @@ Ejemplo:  でんわと　テレビと　ベッドが　あり　ます。  =  Ha
 
 *<lugar>*\ **に** *<sustantivo>*\ **や** *<sustantivo>*\ **や** *<sustantivo>*　*など*\ **が** あり　ます。
 
-**や** sirve como conjunción, indica que se están enumerando sustantivos, de los cuales no se sabe la cnatidad de cada elemento.
+**や** sirve como conjunción, indica que se están enumerando sustantivos, de los cuales no se sabe la cantidad de cada elemento.
 
-**など** significa etcétera. 
+**など** significa etcétera.
 
 Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　などが　あり　ます。  =  Hay verduras, frutas, leche de vaca, huevos, etcétera.
 
@@ -67,7 +67,7 @@ Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　�
 +--------------------+--------------------+-----------------------------------------------------------+
 | |daidokoro|        | daidokoro          | cocina                                                    |
 +--------------------+--------------------+-----------------------------------------------------------+
-| |reizooko|         | reizooko           | refrigerador, heladera                                    |
+| |reizooko|         | reezooko           | refrigerador, heladera                                    |
 +--------------------+--------------------+-----------------------------------------------------------+
 | |yasai|            | yasai              | verdura                                                   |
 +--------------------+--------------------+-----------------------------------------------------------+
@@ -101,7 +101,7 @@ Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　�
 +--------------------+--------------------+-----------------------------------------------------------+
 | |naifu|            | naifu              | cuchillo                                                  |
 +--------------------+--------------------+-----------------------------------------------------------+
-| |nooto|            | nooto              | libre, cuadero (notebook)                                 |
+| |nooto|            | nooto              | libreta, cuadero (notebook)                               |
 +--------------------+--------------------+-----------------------------------------------------------+
 | |mannenhitsu|      | mannenhitsu        | pluma estilográfica                                       |
 +--------------------+--------------------+-----------------------------------------------------------+
@@ -163,10 +163,7 @@ Ejemplo:  やさいや　くだものや　ぎゅうにゅうや　たまご　�
 
 **Lugares**
 
-.. image:: /images/ubicaciones.svg
-	:scale: 20 %
-	:align: center
-
+{{% img_svg ancho=70% alto=70% %}}/images/ubicaciones.svg{{% /img_svg %}}
 
 **Trío: こ　そ　あ**
 

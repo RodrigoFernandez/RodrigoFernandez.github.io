@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Rdr (Katakana)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link href="http://rodrigofernandez.github.io/categories/katakana.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sun, 09 Oct 2016 03:48:45 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Katakana y palabras extranjeras</title><link>http://rodrigofernandez.github.io/posts/katakana-y-palabras-extranjeras.html</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;div class="section" id="palabras-que-tienen-estructura-cvcv"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rdr (Publicaciones sobre Katakana)</title><link>http://rodrigofernandez.github.io/</link><description></description><atom:link rel="self" href="http://rodrigofernandez.github.io/categories/katakana.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sun, 09 Jun 2019 02:51:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Katakana y palabras extranjeras</title><link>http://rodrigofernandez.github.io/posts/katakana-y-palabras-extranjeras/</link><dc:creator>Rdr</dc:creator><description>&lt;div&gt;&lt;div class="section" id="palabras-que-tienen-estructura-cvcv"&gt;
 &lt;h2&gt;1. Palabras que tienen estructura CVCV&lt;/h2&gt;
 &lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
@@ -35,9 +35,9 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;div class="section" id="palabras-con-dos-o-mas-constantes-seguidas"&gt;
-&lt;h2&gt;2. Palabras con dos o más constantes seguidas&lt;/h2&gt;
-&lt;p&gt;Se pronuncian y escriben con la vocal apropiada colocada luega de cada consonante.&lt;/p&gt;
+&lt;div class="section" id="palabras-con-dos-o-mas-consonantes-seguidas"&gt;
+&lt;h2&gt;2. Palabras con dos o más consonantes seguidas&lt;/h2&gt;
+&lt;p&gt;Se pronuncian y escriben con la vocal apropiada colocada luego de cada consonante.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p class="first"&gt;A la &lt;strong&gt;t&lt;/strong&gt; y a la &lt;strong&gt;d&lt;/strong&gt; se le agrega &lt;strong&gt;o&lt;/strong&gt;. Por ejemplo:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -675,4 +675,4 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>japones</category><category>Katakana</category><guid>http://rodrigofernandez.github.io/posts/katakana-y-palabras-extranjeras.html</guid><pubDate>Fri, 06 May 2016 01:03:31 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>japones</category><category>Katakana</category><guid>http://rodrigofernandez.github.io/posts/katakana-y-palabras-extranjeras/</guid><pubDate>Fri, 06 May 2016 01:03:31 GMT</pubDate></item></channel></rss>
